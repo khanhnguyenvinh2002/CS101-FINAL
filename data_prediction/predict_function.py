@@ -7,7 +7,7 @@ slash_sy = ['tan', 'sqrt', 'mul', 'pi', 'sin', 'frac', 'cos', 'delta', 'bar', 'd
 variable = ['1', '0', '3', '2', '4', '6', '8', 'pi', 'A', 'a', 'c', 'b', 'd', 'f', 'i', 'h', 'k', 'm', 'o', 'n', 'p', 's', 't', 'y', 'x', 'z', 'v', 'l', 'w', '(', ')', 'dot', '|', 'mn', 'z_no_line', 'z_line']
 brules = {}
 
-def imageprepare(image):
+def prepare_image(image):
     im = image.convert('L')
     width = float(im.size[0])
     height = float(im.size[1])
@@ -197,6 +197,18 @@ def toLatex(symbol_list):
                 i = i - 1
             inner_string = '{' + toLatex(inner) + '}'
             s.append('\\sqrt'+outer_string+inner_string)
+            continue
+        elif value == 'cube root':
+            inner = []
+            i = i + 1
+            while (i < len(symbol_list) and isInner(symbol, symbol_list[i])):
+                inner.append(symbol_list[i])
+                i = i + 1
+            if len(inner) > 0 and inner[len(inner) - 1][1] not in variable:
+                inner.pop()
+                i = i - 1
+            inner_string = '{' + toLatex(inner) + '}'
+            s.append('\\sqrt'+"{3"+"}"+inner_string)
             continue
         elif value in slash_sy: 
             s.append('\\' + value)

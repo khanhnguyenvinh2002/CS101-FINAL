@@ -1,5 +1,5 @@
 #add your imports here
-import boundingBox
+import bounding_box
 import predict_function as pf
 import tensorflow.compat.v1 as tf
 
@@ -112,12 +112,12 @@ class SymPred():
                                                 str(self.y2)])
 
 def predict(image_path):
-    test_symbol_list = boundingBox.createSymbol(image_path)
+    test_symbol_list = bounding_box.createSymbol(image_path)
     test_symbol_list = sorted(test_symbol_list, key=operator.itemgetter(2, 3))
     pre_symbol_list = []
     for i in range(len(test_symbol_list)):
         test_symbol = test_symbol_list[i]
-        imvalue, _ = pf.imageprepare(test_symbol[0])
+        imvalue, _ = pf.prepare_image(test_symbol[0])
         prediction = tf.argmax(y_conv, 1)
         
         predint = prediction.eval(feed_dict={x: [imvalue], keep_prob: 1.0}, session=sess)
