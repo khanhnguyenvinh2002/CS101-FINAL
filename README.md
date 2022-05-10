@@ -30,3 +30,7 @@
 * On the training data set that Professor gave us, we achieved 92.7% accuracy when we did modification to each image with clip_brighten.py, and 80.7% accuracy just using clipImage.py
 
 Team members: Andrew Nguyen, Daniel Mints, Abel Seba
+
+## Report:
+
+* Our final report can be found under Final AI Project.pdf
