@@ -18,10 +18,11 @@
   - clip_brighten.py take in an image file name (line 10) and apply the same modification. The only difference is that you can set the threshold for each image. So if you see an output image generated from clipImage.py is fully black or fully white, try adjusting the threshold (line 22) until the expression shows up clearly.
 
 * Step 2: ./data_prediction contains files to predict images
-  - predict.py to predict the images (processed)
+  - predict.py is our "main" function to predict the images (processed)
   - edit folder path in line 146
   - the output file is predictions.txt
   - the accuracy is checked by running check_accuracy.py, where we compare the results to the labels.txt provided
+  - side note, because we changed the format of the predictions.txt from separating using '\t' to ',' the check_accuracy.py might not run correctly
 
 ## What we achieved:
 

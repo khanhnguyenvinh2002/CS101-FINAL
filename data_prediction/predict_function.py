@@ -73,7 +73,6 @@ def update(im_name, symbol_list):
             if i < (len(symbol_list) - 1):
                 s1 = symbol_list[i+1]
                 if symbol_list[i+1][1] == "s":
-                    print(symbol_list)
                     updateCo_s(symbol, s1, symbol_list, im, i)
                     continue
         # deal with cos mark

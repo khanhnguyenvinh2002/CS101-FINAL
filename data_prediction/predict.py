@@ -139,7 +139,7 @@ def predict(image_path):
     # equation = pf.toLatex(updated_symbol_list)
     _, tail = os.path.split(image_path)
 
-    return tail +"\t" + str(pf.categorize(updated_symbol_list))+'\n'
+    return tail +"," + str(pf.categorize(updated_symbol_list))+'\n'
 
 if __name__ == '__main__':
 
