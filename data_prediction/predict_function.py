@@ -128,7 +128,7 @@ def update(im_name, symbol_list):
             if i > 1:
                 s1 = symbol_list[i-1]
                 if (s1[1] == "1" or s1[1] == "|")and abs(s1[2] - symbol[2]) < 30:
-                    updateI(symbol, s1, symbol_list, im, i)
+                    updateI(symbol, s1, symbol_list, im, i-1)
                     continue
         #deal with z
         if predict_result == "z_no_line":
@@ -201,7 +201,7 @@ def categorize(symbol_list):
                 i = i + 1
             return 4
 
-        elif value == "a" and symbol_list[i+1][1] == "s":
+        elif value == "a" and i< len(symbol_list)-1 and symbol_list[i+1][1] == "s":
             temp = i + 1
             while (temp < len(symbol_list)):
                 if symbol_list[temp][1] == "frac":

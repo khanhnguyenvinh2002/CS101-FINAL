@@ -5,16 +5,18 @@ import os
 
 from PIL import Image, ImageDraw
 
-image_list = glob.glob("./data/testing_toy/*.*")
+image_list = glob.glob("./data/prof_data/*.png")
 text_file = open("Output.txt", "w")
 
 for item in image_list:
+    # im = Image.open(item).convert('L')
+    # print(im.getpixel((0,0)))
+    # im.save(item)
     im = cv2.imread(item)
     head, tail = os.path.split(item)
     # comment out the line below if image has black background and white mark
     im = cv2.bitwise_not(im)  
-    
-    a = 50
+    a = 90
     im[im >= a] = 255
     im[im < a] = 0
 
@@ -37,5 +39,5 @@ for item in image_list:
         cv2.rectangle(im, (x,y), (x+w, y+h), (0,255,0), 2)
         num = num + 1
     
-    image.save("./test_toy_res/" + os.path.splitext(tail)[0] +".png")
+    image.save("./result/" + os.path.splitext(tail)[0] +".png")
     

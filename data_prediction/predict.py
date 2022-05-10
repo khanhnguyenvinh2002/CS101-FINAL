@@ -143,7 +143,7 @@ def predict(image_path):
 
 if __name__ == '__main__':
 
-    image_folder_path = "./data/testResults"
+    image_folder_path = "./result"
 
     image_paths = glob(image_folder_path + '/*png')
     results = []
