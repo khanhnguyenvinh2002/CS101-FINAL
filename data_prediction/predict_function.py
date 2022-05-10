@@ -1,4 +1,6 @@
 from PIL import Image, ImageFilter
+from numpy import False_
+from sqlalchemy import false, true
 
 sy = ['dot', 'tan', ')', '(', '+', '-', '|', 'sqrt', '1', '0', '3', '2', '4', '6','8', 'mul', 'pi', 'sin', 'A', 'cube root', 'co', 'os', 'mn', 'frac', 'cos', 'delta', 'a', 'c', 'b', 'bar', 'd', 'f', 'i', 'h', 'k', 'm', 'o', 'n', 'p', 's', 't', 'y', 'x', 'z', 'v', 'l', 'w', 'div', 'z_no_line', 'z_line']
 
@@ -82,22 +84,6 @@ def update(im_name, symbol_list):
                 if (symbol_list[i+1][1] == "1" or symbol_list[i+1][1] == "|" ) and symbol_list[i+2][1] == "n":
                     updateSin(symbol, s1, s2, symbol_list, im, i)
                     continue
-
-        # deal with i
-        if predict_result == "-":
-            if i < (len(symbol_list) - 1):
-                s1 = symbol_list[i+1]
-                if (s1[1] == "1" or s1[1] == "|") and abs(s1[2] - symbol[2]) < 30:
-                    updateI(symbol, s1, symbol_list, im, i)
-                    continue
-            
-            if i > 1:
-                s1 = symbol_list[i-1]
-                if (s1[1] == "1" or s1[1] == "|") and abs(s1[2] - symbol[2]) < 30:
-                    updateI(symbol, s1, symbol_list, im, i)
-                    continue
-                
-        # deal with +-
         
         # deal with bar
         if predict_result == "-":
@@ -154,6 +140,86 @@ def update(im_name, symbol_list):
 
     return symbol_list
 
+def categorize(symbol_list):
+    s = []
+    i = 0
+    flag = False
+    flag_sqrt = False
+    flag_frac = False
+    while (i < len(symbol_list)):
+    
+        symbol = symbol_list[i]
+        value = symbol[1]
+        
+        if value == "s" and not flag:
+            return 8
+        if value in variable:
+            flag = True
+        elif value == "sin" or value == "si":
+            return 8
+        elif value == "cos" or value == "co":
+            i = i + 1
+            while (i < len(symbol_list)):
+                if symbol_list[i][1] == "frac":
+                    return 10
+                i+=1
+            return 9
+        if value == 'cube root':
+            return 3
+        elif value == 'sqrt':
+            flag_sqrt = True
+            if flag_frac:
+                return 6
+            i = i + 1
+            while (i < len(symbol_list) and isInner(symbol, symbol_list[i])):
+                # sqrt with expression
+                if isSqrtExp(symbol, symbol_list[i]):
+                    return 3
+                else:
+                    if symbol_list[i][1] == "frac":
+                        return 5
+                i = i + 1
+                # contains some precedent
+            if flag:
+                return 3
+        elif value == "frac":
+            flag_frac = True
+            if flag_sqrt:
+                return 6
+            upper = []
+            under = []
+            i = i + 1
+            while (i < len(symbol_list) and (isUpperFrac(symbol, symbol_list[i]) or isUnderFrac(symbol, symbol_list[i]))):
+                if isUpperFrac(symbol, symbol_list[i]): 
+                    if symbol_list[i][1] == "sqrt":
+                        return 6
+                if isUnderFrac(symbol, symbol_list[i]): 
+                    if symbol_list[i][1] == "sqrt":
+                        return 6
+                if symbol_list[i][1] == "sqrt":
+                    return 6
+                i = i + 1
+            return 4
+
+        elif value == "a" and symbol_list[i+1][1] == "s":
+            temp = i + 1
+            while (temp < len(symbol_list)):
+                if symbol_list[temp][1] == "frac":
+                    return 10
+                temp+=1
+        # is upper symbol
+        elif i < len(symbol_list) - 1 and isUpperSymbol(symbol, symbol_list[i+1]) and (symbol[1] in variable) and (symbol_list[i+1][1] in variable): 
+            i = i+1
+            cnt = 0
+            while (i < len(symbol_list) and isUpperSymbol(symbol, symbol_list[i])):
+                cnt+=1
+                i = i + 1
+            if cnt == 1: return 1
+            elif cnt > 1: return 7
+        i = i + 1
+    if flag_sqrt:
+        return 2
+    return 9
 def toLatex(symbol_list):
     s = []
     i = 0

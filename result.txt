@@ -1,187 +1,1161 @@
-predict for equation ./test_toy_res/0065.png
-	sqrt	[148, 33, 208, 116]
-	-	[178, 77, 206, 85]
-	a	[183, 49, 203, 71]
-	b	[186, 85, 203, 112]
-predict for equation ./test_toy_res/0071.png
-	(	[84, 87, 101, 115]
-	0	[109, 90, 127, 116]
-	s	[132, 89, 148, 121]
-	(	[161, 74, 176, 123]
-	y	[189, 87, 205, 125]
-	1	[220, 63, 230, 92]
-	)	[237, 71, 249, 126]
-predict for equation ./test_toy_res/0059.png
-	s	[62, 78, 80, 108]
-	1	[88, 88, 96, 107]
-	n	[104, 86, 124, 110]
-	(	[142, 65, 160, 113]
-	c	[168, 79, 182, 103]
-	0	[188, 81, 206, 101]
-	s	[208, 76, 224, 108]
-	(	[229, 64, 245, 112]
-	0	[247, 69, 265, 108]
-	)	[272, 63, 284, 112]
-	)	[284, 58, 300, 121]
-predict for equation ./test_toy_res/002.png
-	sqrt	[165, 53, 219, 101]
-	x	[191, 71, 211, 99]
-predict for equation ./test_toy_res/003.png
-	-	[144, 54, 220, 69]
-	sqrt	[151, -1, 185, 43]
-	sqrt	[165, 69, 222, 123]
-	a	[176, 16, 198, 36]
-	y	[188, 97, 219, 137]
-predict for equation ./test_toy_res/0058.png
-	sqrt	[92, 29, 199, 111]
-	(	[132, 50, 151, 113]
-	-	[143, 78, 191, 84]
-	b	[150, 89, 167, 116]
-	a	[151, 54, 178, 77]
-	a	[168, 87, 185, 99]
-	b	[176, 39, 189, 60]
-	)	[194, 45, 203, 96]
-predict for equation ./test_toy_res/0070.png
-	sqrt	[91, 38, 206, 101]
-	3	[114, 51, 130, 70]
-	2	[152, 62, 183, 99]
-	b	[183, 59, 203, 97]
-predict for equation ./test_toy_res/0064.png
-	-	[132, 70, 181, 78]
-	y	[147, 27, 166, 67]
-	x	[147, 93, 168, 116]
-predict for equation ./test_toy_res/0099.png
-	sqrt	[151, 63, 222, 107]
-	x	[187, 77, 210, 102]
-predict for equation ./test_toy_res/0072.png
-	sqrt	[101, 45, 253, 107]
-	3	[107, 49, 125, 70]
-	(	[157, 66, 172, 102]
-	b	[178, 67, 198, 105]
-	-	[199, 85, 214, 92]
-	a	[218, 79, 234, 102]
-	)	[231, 62, 246, 108]
-predict for equation ./test_toy_res/0066.png
-	m	[118, 79, 160, 109]
-	2	[162, 59, 181, 83]
-predict for equation ./test_toy_res/001.png
-	a	[97, 77, 126, 111]
-	s	[132, 82, 153, 108]
-	-	[160, 77, 195, 86]
-	pi	[163, 49, 192, 77]
-	3	[167, 91, 186, 117]
-predict for equation ./test_toy_res/000.png
-	sqrt	[110, 63, 191, 112]
-	x	[144, 81, 173, 109]
-predict for equation ./test_toy_res/0067.png
-	x	[188, 69, 213, 102]
-	2	[217, 55, 232, 75]
-predict for equation ./test_toy_res/0073.png
-	0	[79, 65, 110, 119]
-	os	[113, 67, 164, 118]
-	-	[184, 36, 270, 83]
-	pi	[193, 27, 239, 66]
-	b	[208, 82, 237, 134]
-predict for equation ./test_toy_res/0098.png
-	x	[134, 65, 159, 93]
-	a	[157, 35, 183, 57]
-	b	[193, 30, 211, 54]
-predict for equation ./test_toy_res/0088.png
-	sqrt	[82, 40, 195, 132]
-	-	[131, 91, 193, 99]
-	s	[133, 54, 159, 89]
-	2	[135, 100, 155, 137]
-	a	[161, 66, 182, 87]
-	b	[162, 100, 180, 138]
-predict for equation ./test_toy_res/0077.png
-	x	[134, 67, 168, 107]
-	2	[158, 49, 179, 70]
-predict for equation ./test_toy_res/0063.png
-	6	[133, 75, 162, 98]
-	s	[164, 75, 178, 98]
-	c	[187, 51, 231, 88]
-	|	[199, 58, 206, 75]
-	6	[201, 87, 216, 119]
-	1	[206, 57, 213, 80]
-predict for equation ./test_toy_res/004.png
-	(	[124, 63, 142, 107]
-	x	[143, 72, 175, 104]
-	+	[178, 75, 192, 93]
-	2	[199, 64, 226, 107]
-	)	[224, 60, 242, 111]
-	2	[244, 33, 270, 61]
-predict for equation ./test_toy_res/005.png
-	(	[122, 52, 140, 109]
-	-	[149, 82, 179, 88]
-	x	[153, 60, 169, 79]
-	2	[159, 89, 183, 107]
-	)	[190, 59, 205, 107]
-	2	[208, 41, 230, 60]
-predict for equation ./test_toy_res/0062.png
-	a	[130, 89, 181, 127]
-	m	[177, 65, 217, 93]
-	n	[220, 68, 252, 96]
-predict for equation ./test_toy_res/0076.png
-	-	[107, 66, 212, 88]
-	d	[127, 35, 150, 75]
-	dot	[130, 123, 140, 134]
-	d	[139, 104, 154, 129]
-	z	[141, 25, 185, 98]
-	y	[158, 39, 180, 72]
-	sqrt	[166, 109, 178, 144]
-predict for equation ./test_toy_res/0089.png
-	s	[122, 74, 139, 100]
-	|	[149, 84, 153, 100]
-	n	[162, 78, 180, 97]
-	x	[202, 72, 230, 105]
-predict for equation ./test_toy_res/0048.png
-	s	[170, 71, 190, 100]
-	-	[194, 66, 208, 73]
-	(	[194, 80, 199, 94]
-	n	[208, 79, 221, 93]
-	pi	[238, 70, 263, 95]
-predict for equation ./test_toy_res/0060.png
-	sqrt	[127, 24, 251, 137]
-	-	[171, 75, 235, 86]
-	b	[185, 92, 218, 142]
-	a	[186, 46, 225, 71]
-predict for equation ./test_toy_res/0074.png
-	-	[131, 76, 207, 92]
-	a	[162, 49, 182, 75]
-	b	[167, 93, 189, 126]
-predict for equation ./test_toy_res/007.png
-	y	[109, 104, 126, 124]
-	-	[129, 67, 197, 115]
-	-	[134, 47, 191, 58]
-	m	[160, 67, 185, 82]
-	n	[165, 108, 185, 130]
-predict for equation ./test_toy_res/006.png
-	-	[135, 73, 197, 86]
-	m	[143, 39, 180, 62]
-	n	[148, 99, 172, 119]
-predict for equation ./test_toy_res/0075.png
-	s	[113, 84, 138, 119]
-	|	[150, 94, 156, 114]
-	n	[159, 93, 179, 111]
-	-	[184, 86, 224, 93]
-	m	[198, 60, 223, 78]
-	2	[198, 103, 214, 119]
-predict for equation ./test_toy_res/0061.png
-	3	[114, 45, 139, 85]
-	sqrt	[133, 39, 255, 121]
-	x	[188, 78, 214, 109]
-predict for equation ./test_toy_res/0049.png
-	sqrt	[105, 54, 235, 103]
-	(	[146, 69, 160, 111]
-	x	[160, 79, 174, 97]
-	+	[181, 80, 192, 94]
-	1	[198, 70, 209, 100]
-	)	[215, 68, 227, 113]
-predict for equation ./test_toy_res/0012.png
-	+	[114, 65, 135, 103]
-	sqrt	[124, 64, 177, 126]
-	x	[145, 87, 175, 121]
-predict for equation ./test_toy_res/0013.png
+Prediction for equation ./data/testResults/0298.png
+	s	[60, 73, 88, 110]
+	|	[92, 81, 101, 102]
+	n	[104, 68, 129, 98]
+	x	[131, 63, 167, 98]
+Prediction for equation ./data/testResults/0267.png
+	a	[136, 70, 192, 115]
+	m	[177, 45, 208, 69]
+	n	[211, 41, 238, 70]
+Prediction for equation ./data/testResults/0501.png
+	x	[157, 70, 186, 109]
+	2	[210, 57, 225, 73]
+Prediction for equation ./data/testResults/0515.png
+	sqrt	[130, 14, 220, 121]
+	-	[167, 57, 217, 80]
+	x	[172, 35, 200, 66]
+	y	[177, 84, 207, 144]
+Prediction for equation ./data/testResults/0273.png
+	6	[128, 57, 142, 85]
+	sqrt	[138, 57, 185, 117]
+	y	[158, 79, 187, 125]
+	-	[184, 56, 203, 60]
+Prediction for equation ./data/testResults/0529.png
+	c	[102, 64, 136, 116]
+	0	[139, 82, 159, 110]
+	s	[168, 77, 190, 103]
+	x	[218, 73, 247, 106]
+Prediction for equation ./data/testResults/0703.png
+	sqrt	[151, 63, 223, 108]
+	x	[187, 77, 211, 103]
+Prediction for equation ./data/testResults/0065.png
+	sqrt	[32, 41, 132, 108]
+	-	[63, 91, 111, 104]
+	a	[69, 107, 95, 123]
+	b	[71, 69, 93, 90]
+Prediction for equation ./data/testResults/0071.png
+	x	[90, 85, 110, 108]
+	2	[112, 60, 130, 80]
+Prediction for equation ./data/testResults/0717.png
+	a	[131, 69, 168, 97]
+	m	[162, 50, 185, 72]
+	n	[186, 47, 208, 67]
+Prediction for equation ./data/testResults/0059.png
+	c	[55, 74, 75, 102]
+	cos	[74, 76, 110, 100]
+	k	[120, 73, 148, 98]
+Prediction for equation ./data/testResults/0850.png
+	c	[112, 68, 128, 93]
+	0	[134, 68, 153, 89]
+	s	[157, 63, 171, 91]
+	-	[198, 66, 241, 75]
+	6	[202, 78, 225, 116]
+	pi	[204, 36, 235, 66]
+Prediction for equation ./data/testResults/0688.png
+	s	[147, 72, 171, 103]
+	6	[165, 69, 179, 99]
+	n	[173, 72, 199, 105]
+	a	[200, 75, 223, 104]
+Prediction for equation ./data/testResults/0844.png
+	-	[145, 69, 194, 76]
+	y	[153, 84, 187, 132]
+	x	[157, 36, 183, 62]
+Prediction for equation ./data/testResults/0677.png
+	a	[180, 68, 207, 93]
+	m	[201, 58, 217, 74]
+	n	[217, 59, 229, 73]
+Prediction for equation ./data/testResults/0111.png
+	a	[145, 68, 170, 100]
+	x	[167, 49, 182, 71]
+Prediction for equation ./data/testResults/0105.png
+	sqrt	[168, 36, 227, 99]
+	-	[197, 66, 217, 74]
+	n	[199, 43, 216, 64]
+	3	[204, 78, 217, 95]
+Prediction for equation ./data/testResults/0663.png
+	3	[127, 80, 140, 101]
+	sqrt	[142, 49, 206, 120]
+	x	[165, 72, 201, 110]
+Prediction for equation ./data/testResults/0139.png
+	cos	[161, 68, 210, 93]
+	pi	[216, 62, 243, 87]
+Prediction for equation ./data/testResults/0313.png
+	3	[62, 56, 95, 92]
+	sqrt	[78, 33, 158, 119]
+	w	[122, 58, 165, 102]
+Prediction for equation ./data/testResults/0475.png
+	sqrt	[30, 27, 172, 112]
+	-	[67, 77, 134, 90]
+	a	[83, 47, 111, 78]
+	b	[87, 92, 109, 136]
+Prediction for equation ./data/testResults/0461.png
+	b	[81, 47, 106, 95]
+	2	[103, 30, 134, 56]
+Prediction for equation ./data/testResults/0307.png
+	t	[56, 56, 91, 96]
+	m	[95, 43, 122, 69]
+	n	[127, 43, 149, 66]
+Prediction for equation ./data/testResults/0449.png
+	c	[40, 45, 80, 100]
+	0	[73, 53, 114, 91]
+	s	[110, 46, 133, 107]
+	y	[153, 44, 207, 122]
+Prediction for equation ./data/testResults/0448.png
+	s	[54, 70, 84, 110]
+	1	[85, 87, 91, 106]
+	n	[98, 75, 119, 114]
+	b	[126, 51, 151, 117]
+Prediction for equation ./data/testResults/0460.png
+	c	[33, 57, 67, 109]
+	0	[60, 72, 97, 107]
+	s	[100, 62, 123, 114]
+	pi	[140, 22, 219, 69]
+	-	[150, 69, 219, 84]
+	6	[171, 81, 204, 128]
+Prediction for equation ./data/testResults/0306.png
+	-	[43, 74, 189, 94]
+	sqrt	[62, -1, 114, 71]
+	sqrt	[80, 83, 125, 140]
+	a	[91, 13, 124, 67]
+	2	[108, 100, 143, 137]
+Prediction for equation ./data/testResults/0312.png
+	sqrt	[52, 30, 120, 110]
+	v	[87, 51, 128, 104]
+Prediction for equation ./data/testResults/0474.png
+	-	[41, 49, 116, 62]
+	y	[56, 76, 114, 142]
+	x	[68, 13, 93, 44]
+Prediction for equation ./data/testResults/0138.png
+	s	[159, 76, 172, 97]
+	1	[178, 79, 182, 94]
+	n	[188, 77, 203, 96]
+	pi	[216, 67, 246, 92]
+Prediction for equation ./data/testResults/0104.png
+	-	[180, 56, 205, 64]
+	n	[184, 25, 202, 51]
+	6	[185, 69, 200, 99]
+Prediction for equation ./data/testResults/0662.png
+	sqrt	[150, 45, 208, 114]
+	x	[173, 65, 207, 99]
+Prediction for equation ./data/testResults/0676.png
+	-	[161, 66, 258, 74]
+	sqrt	[170, 10, 233, 63]
+	sqrt	[170, 79, 248, 135]
+	a	[193, 33, 218, 52]
+	b	[202, 97, 218, 130]
+Prediction for equation ./data/testResults/0110.png
+	c	[167, 69, 187, 95]
+	0	[187, 65, 204, 91]
+	s	[206, 67, 221, 93]
+	-	[232, 74, 254, 82]
+	n	[234, 50, 248, 69]
+	y	[238, 85, 257, 117]
+Prediction for equation ./data/testResults/0845.png
+	sqrt	[119, 28, 198, 96]
+	a	[148, 84, 171, 105]
+	-	[149, 71, 183, 77]
+	6	[156, 40, 172, 69]
+Prediction for equation ./data/testResults/0689.png
+	cos	[147, 67, 193, 96]
+	b	[194, 55, 217, 95]
+Prediction for equation ./data/testResults/0851.png
+	y	[187, 63, 217, 124]
+	+	[224, 54, 243, 72]
+Prediction for equation ./data/testResults/0058.png
+	s	[67, 77, 92, 105]
+	|	[87, 88, 95, 103]
+	n	[97, 81, 117, 102]
+	x	[126, 79, 150, 103]
+Prediction for equation ./data/testResults/0070.png
+	c	[28, 67, 52, 95]
+	0	[56, 71, 79, 92]
+	s	[82, 64, 108, 92]
+	-	[114, 64, 168, 72]
+	pi	[118, 28, 153, 54]
+	2	[123, 76, 159, 99]
+Prediction for equation ./data/testResults/0716.png
+	-	[121, 67, 195, 78]
+	sqrt	[126, 19, 187, 64]
+	sqrt	[133, 89, 203, 139]
+	a	[152, 32, 184, 58]
+	b	[164, 106, 190, 140]
+Prediction for equation ./data/testResults/0702.png
+	sqrt	[165, 53, 220, 102]
+	x	[191, 71, 212, 100]
+Prediction for equation ./data/testResults/0064.png
+	-	[53, 68, 114, 82]
+	x	[69, 93, 92, 115]
+	y	[73, 31, 91, 68]
+Prediction for equation ./data/testResults/0528.png
+	s	[123, 66, 157, 112]
+	|	[167, 88, 177, 107]
+	n	[183, 78, 211, 106]
+	x	[223, 77, 250, 109]
+Prediction for equation ./data/testResults/0514.png
+	-	[146, 53, 215, 72]
+	a	[164, 31, 191, 56]
+	b	[168, 73, 198, 122]
+Prediction for equation ./data/testResults/0272.png
+	sqrt	[141, 56, 217, 109]
+	b	[175, 70, 198, 108]
+Prediction for equation ./data/testResults/0266.png
+	-	[93, 90, 237, 105]
+	sqrt	[126, 4, 224, 65]
+	sqrt	[134, 101, 220, 152]
+	a	[165, 34, 209, 69]
+	b	[173, 115, 200, 151]
+Prediction for equation ./data/testResults/0500.png
+	co	[206, 65, 254, 96]
+	s	[253, 67, 273, 94]
+	pi	[306, 33, 333, 57]
+	1	[322, 27, 352, 68]
+	b	[347, 39, 364, 75]
+Prediction for equation ./data/testResults/0299.png
+	c	[44, 58, 61, 101]
+	0	[63, 61, 89, 92]
+	s	[89, 57, 112, 87]
+	y	[118, 48, 151, 87]
+Prediction for equation ./data/testResults/0270.png
+	cos	[109, 71, 185, 113]
+	-	[206, 72, 262, 91]
+	pi	[213, 41, 256, 78]
+	6	[220, 82, 248, 130]
+Prediction for equation ./data/testResults/0516.png
+	-	[132, 60, 226, 83]
+	sqrt	[139, 20, 199, 68]
+	sqrt	[149, 80, 202, 129]
+	x	[168, 37, 190, 66]
+	y	[171, 98, 196, 138]
+Prediction for equation ./data/testResults/0502.png
+	sqrt	[132, 57, 195, 124]
+	x	[166, 77, 198, 115]
+Prediction for equation ./data/testResults/0264.png
+	-	[117, 77, 201, 93]
+	y	[141, 88, 187, 134]
+	x	[145, 34, 181, 67]
+Prediction for equation ./data/testResults/0258.png
+	s	[120, 82, 140, 107]
+	1	[140, 85, 145, 104]
+	n	[146, 83, 167, 106]
+	x	[179, 74, 200, 102]
+Prediction for equation ./data/testResults/0099.png
+	c	[174, 77, 191, 99]
+	0	[192, 74, 209, 94]
+	s	[211, 68, 227, 91]
+	y	[237, 66, 258, 103]
+Prediction for equation ./data/testResults/0714.png
+	-	[124, 80, 188, 88]
+	x	[141, 41, 169, 75]
+	y	[141, 93, 164, 135]
+Prediction for equation ./data/testResults/0072.png
+	sqrt	[69, 57, 147, 115]
+	x	[117, 89, 134, 109]
+Prediction for equation ./data/testResults/0066.png
+	-	[42, 58, 164, 82]
+	sqrt	[61, 17, 133, 58]
+	sqrt	[67, 73, 141, 110]
+	a	[91, 35, 111, 53]
+	x	[93, 92, 115, 111]
+Prediction for equation ./data/testResults/0700.png
+	os	[125, 89, 157, 112]
+	s	[160, 85, 176, 110]
+	-	[189, 90, 225, 97]
+	x	[193, 66, 218, 88]
+	3	[196, 101, 212, 126]
+Prediction for equation ./data/testResults/0728.png
+	s	[116, 86, 139, 127]
+	i	[139, 85, 150, 127]
+	n	[152, 99, 172, 129]
+	y	[182, 80, 207, 134]
+Prediction for equation ./data/testResults/0847.png
+	a	[144, 64, 169, 90]
+	m	[171, 43, 198, 64]
+	n	[200, 42, 221, 61]
+Prediction for equation ./data/testResults/0853.png
+	s	[154, 54, 177, 79]
+	sqrt	[172, 51, 232, 117]
+	x	[203, 78, 223, 113]
+Prediction for equation ./data/testResults/0660.png
+	c	[127, 70, 149, 95]
+	0	[148, 69, 174, 94]
+	s	[172, 69, 195, 95]
+	-	[207, 75, 280, 84]
+	1	[229, 87, 235, 110]
+	pi	[231, 43, 266, 70]
+	2	[242, 87, 272, 110]
+Prediction for equation ./data/testResults/0106.png
+	sqrt	[172, 25, 216, 60]
+	-	[179, 66, 216, 74]
+	sqrt	[182, 77, 218, 110]
+	n	[193, 35, 211, 56]
+	3	[201, 89, 218, 113]
+Prediction for equation ./data/testResults/0112.png
+	sqrt	[150, 52, 201, 98]
+	a	[174, 71, 197, 95]
+Prediction for equation ./data/testResults/0674.png
+	-	[160, 50, 228, 58]
+	y	[175, 64, 204, 99]
+	x	[178, 15, 204, 40]
+Prediction for equation ./data/testResults/0648.png
+	s	[179, 89, 204, 121]
+	i	[203, 88, 213, 119]
+	n	[211, 96, 230, 121]
+	x	[239, 90, 267, 122]
+Prediction for equation ./data/testResults/0489.png
+	c	[25, 59, 58, 103]
+	0	[51, 67, 83, 97]
+	s	[82, 57, 101, 95]
+	4	[119, 45, 163, 113]
+Prediction for equation ./data/testResults/0304.png
+	-	[79, 49, 158, 64]
+	a	[90, 14, 125, 50]
+	y	[99, 72, 144, 125]
+Prediction for equation ./data/testResults/0462.png
+	sqrt	[36, 35, 115, 95]
+	b	[72, 50, 98, 97]
+Prediction for equation ./data/testResults/0476.png
+	-	[15, 70, 176, 104]
+	sqrt	[38, 14, 146, 85]
+	sqrt	[44, 90, 143, 151]
+	a	[76, 41, 103, 74]
+	6	[83, 107, 109, 151]
+Prediction for equation ./data/testResults/0310.png
+	c	[39, 48, 57, 90]
+	0	[64, 54, 91, 83]
+	s	[91, 45, 115, 78]
+	pi	[143, 25, 182, 63]
+	1	[184, 24, 200, 83]
+	2	[201, 41, 237, 73]
+Prediction for equation ./data/testResults/0338.png
+	s	[45, 61, 71, 97]
+	s	[65, 56, 80, 90]
+	n	[80, 53, 103, 84]
+	x	[110, 52, 148, 89]
+Prediction for equation ./data/testResults/0339.png
+	(	[32, 52, 49, 99]
+	0	[57, 58, 80, 90]
+	s	[79, 54, 100, 87]
+	p	[109, 48, 134, 92]
+Prediction for equation ./data/testResults/0477.png
+	a	[21, 83, 59, 123]
+	m	[52, 60, 77, 86]
+	n	[83, 50, 112, 88]
+Prediction for equation ./data/testResults/0311.png
+	w	[79, 63, 131, 114]
+	2	[130, 42, 165, 73]
+Prediction for equation ./data/testResults/0305.png
+	sqrt	[61, 16, 143, 122]
+	-	[104, 66, 182, 86]
+	2	[116, 39, 155, 68]
+	y	[131, 80, 168, 142]
+Prediction for equation ./data/testResults/0463.png
+	sqrt	[16, 45, 135, 115]
+	3	[34, 60, 51, 85]
+	6	[78, 68, 99, 105]
+Prediction for equation ./data/testResults/0488.png
+	s	[33, 64, 55, 109]
+	|	[57, 84, 63, 105]
+	n	[64, 82, 81, 110]
+	4	[102, 55, 151, 122]
+Prediction for equation ./data/testResults/0649.png
+	c	[178, 79, 200, 117]
+	0	[197, 85, 216, 110]
+	s	[217, 84, 239, 109]
+	x	[247, 83, 275, 117]
+Prediction for equation ./data/testResults/0113.png
+	y	[132, 60, 149, 89]
+	sqrt	[149, 57, 215, 102]
+	a	[182, 72, 206, 98]
+Prediction for equation ./data/testResults/0675.png
+	sqrt	[154, 19, 254, 124]
+	-	[175, 64, 246, 73]
+	a	[196, 36, 219, 55]
+	b	[196, 84, 215, 111]
+Prediction for equation ./data/testResults/0661.png
+	x	[175, 70, 211, 114]
+	2	[222, 59, 238, 77]
+Prediction for equation ./data/testResults/0107.png
+	n	[156, 66, 175, 91]
+	a	[182, 48, 203, 70]
+	y	[205, 44, 219, 74]
+Prediction for equation ./data/testResults/0852.png
+	sqrt	[182, 52, 239, 106]
+	y	[203, 71, 228, 126]
+Prediction for equation ./data/testResults/0846.png
+	-	[120, 73, 195, 84]
+	sqrt	[129, 18, 190, 65]
+	sqrt	[130, 85, 186, 123]
+	a	[151, 99, 173, 121]
+	b	[159, 31, 177, 61]
+Prediction for equation ./data/testResults/0729.png
+	a	[106, 84, 141, 116]
+	6	[139, 78, 158, 115]
+	y	[167, 79, 193, 128]
+Prediction for equation ./data/testResults/0067.png
+	b	[36, 68, 59, 99]
+	x	[66, 58, 82, 74]
+	y	[84, 58, 101, 84]
+Prediction for equation ./data/testResults/0701.png
+	x	[188, 69, 214, 103]
+	2	[217, 55, 233, 76]
+Prediction for equation ./data/testResults/0715.png
+	sqrt	[111, 34, 183, 129]
+	-	[141, 78, 194, 88]
+	a	[145, 53, 182, 78]
+	b	[158, 89, 188, 128]
+Prediction for equation ./data/testResults/0073.png
+	3	[48, 51, 62, 73]
+	sqrt	[66, 55, 126, 92]
+	x	[97, 75, 111, 93]
+Prediction for equation ./data/testResults/0098.png
+	s	[171, 75, 186, 101]
+	i	[190, 76, 199, 99]
+	n	[204, 77, 222, 99]
+	y	[231, 71, 250, 103]
+Prediction for equation ./data/testResults/0259.png
+	c	[103, 78, 120, 100]
+	0	[117, 83, 133, 100]
+	s	[135, 80, 149, 101]
+	x	[158, 74, 189, 99]
+Prediction for equation ./data/testResults/0503.png
+	3	[118, 56, 135, 86]
+	sqrt	[121, 65, 181, 126]
+	x	[151, 91, 175, 117]
+Prediction for equation ./data/testResults/0265.png
+	sqrt	[124, 28, 220, 127]
+	-	[158, 82, 208, 93]
+	a	[169, 52, 201, 74]
+	b	[169, 96, 199, 130]
+Prediction for equation ./data/testResults/0271.png
+	a	[164, 71, 206, 110]
+	2	[197, 59, 214, 74]
+Prediction for equation ./data/testResults/0517.png
+	x	[137, 73, 170, 129]
+	a	[174, 57, 199, 81]
+	b	[199, 45, 225, 80]
+Prediction for equation ./data/testResults/0249.png
+	a	[97, 67, 140, 102]
+	s	[138, 80, 156, 100]
+	x	[168, 69, 200, 100]
+Prediction for equation ./data/testResults/0513.png
+	3	[121, 65, 143, 87]
+	sqrt	[127, 42, 199, 121]
+	y	[168, 72, 193, 126]
+Prediction for equation ./data/testResults/0275.png
+	sqrt	[129, 36, 198, 122]
+	-	[147, 83, 194, 89]
+	y	[153, 92, 182, 124]
+	x	[157, 56, 177, 76]
+Prediction for equation ./data/testResults/0261.png
+	x	[160, 67, 212, 116]
+	2	[203, 61, 223, 79]
+Prediction for equation ./data/testResults/0507.png
+	a	[143, 75, 177, 106]
+	m	[180, 53, 210, 79]
+	n	[215, 57, 231, 74]
+Prediction for equation ./data/testResults/0088.png
+	s	[170, 75, 188, 99]
+	i	[189, 69, 197, 98]
+	n	[201, 79, 218, 97]
+	3	[233, 68, 251, 94]
+Prediction for equation ./data/testResults/0739.png
+	a	[116, 78, 146, 109]
+	s	[157, 81, 176, 107]
+	-	[185, 79, 225, 89]
+	x	[199, 90, 218, 113]
+	n	[204, 54, 220, 68]
+Prediction for equation ./data/testResults/0077.png
+	a	[33, 80, 65, 100]
+	m	[56, 67, 85, 84]
+	n	[84, 65, 100, 82]
+Prediction for equation ./data/testResults/0711.png
+	x	[134, 67, 169, 108]
+	a	[158, 49, 180, 71]
+Prediction for equation ./data/testResults/0705.png
+	sqrt	[148, 33, 209, 117]
+	-	[178, 77, 207, 86]
+	a	[183, 49, 204, 72]
+	b	[186, 85, 204, 113]
+Prediction for equation ./data/testResults/0063.png
+	2	[60, 67, 84, 83]
+	sqrt	[84, 56, 163, 103]
+	y	[115, 74, 133, 107]
+Prediction for equation ./data/testResults/0842.png
+	sqrt	[139, 49, 207, 100]
+	x	[172, 70, 196, 95]
+Prediction for equation ./data/testResults/0856.png
+	-	[159, 84, 249, 98]
+	sqrt	[178, 12, 231, 66]
+	sqrt	[182, 102, 237, 156]
+	x	[207, 33, 227, 64]
+	b	[210, 114, 229, 149]
+Prediction for equation ./data/testResults/0659.png
+	c	[110, 69, 134, 94]
+	0	[133, 68, 156, 90]
+	s	[158, 67, 178, 92]
+	a	[189, 69, 218, 92]
+	b	[220, 49, 244, 94]
+Prediction for equation ./data/testResults/0103.png
+	a	[159, 65, 179, 91]
+	sqrt	[182, 60, 220, 102]
+	n	[199, 72, 216, 98]
+Prediction for equation ./data/testResults/0665.png
+	sqrt	[136, 34, 205, 125]
+	-	[166, 75, 212, 88]
+	a	[172, 47, 201, 76]
+	b	[177, 91, 203, 122]
+Prediction for equation ./data/testResults/0671.png
+	x	[186, 65, 212, 93]
+	2	[215, 51, 231, 70]
+Prediction for equation ./data/testResults/0117.png
+	a	[181, 65, 202, 88]
+	6	[201, 44, 211, 68]
+	pi	[214, 44, 238, 62]
+Prediction for equation ./data/testResults/0498.png
+	s	[232, 78, 252, 103]
+	1	[254, 83, 261, 98]
+	n	[264, 74, 284, 96]
+	x	[302, 67, 325, 96]
+Prediction for equation ./data/testResults/0329.png
+	c	[42, 54, 67, 94]
+	0	[69, 53, 94, 85]
+	s	[95, 49, 117, 89]
+	y	[123, 47, 160, 91]
+Prediction for equation ./data/testResults/0467.png
+	b	[29, 75, 51, 120]
+	n	[49, 41, 70, 76]
+	m	[80, 40, 113, 72]
+Prediction for equation ./data/testResults/0301.png
+	a	[80, 52, 106, 96]
+	2	[106, 34, 140, 63]
+Prediction for equation ./data/testResults/0315.png
+	sqrt	[50, 17, 132, 126]
+	-	[82, 79, 152, 94]
+	v	[88, 36, 124, 79]
+	w	[93, 96, 141, 128]
+Prediction for equation ./data/testResults/0473.png
+	sqrt	[16, 49, 152, 132]
+	6	[30, 54, 52, 91]
+	x	[88, 73, 123, 118]
+Prediction for equation ./data/testResults/0314.png
+	-	[65, 57, 164, 74]
+	v	[85, 81, 134, 128]
+	w	[88, 20, 140, 59]
+Prediction for equation ./data/testResults/0472.png
+	sqrt	[44, 49, 150, 109]
+	x	[84, 69, 111, 112]
+Prediction for equation ./data/testResults/0466.png
+	-	[25, 81, 139, 91]
+	sqrt	[29, 5, 132, 67]
+	sqrt	[37, 92, 115, 144]
+	n	[73, 111, 94, 149]
+	6	[82, 23, 106, 56]
+Prediction for equation ./data/testResults/0300.png
+	c	[45, 50, 61, 85]
+	c	[68, 47, 92, 79]
+	0	[87, 54, 109, 82]
+	sqrt	[129, 24, 161, 57]
+	1	[152, 31, 164, 60]
+	1	[154, 28, 183, 93]
+	6	[181, 49, 213, 86]
+Prediction for equation ./data/testResults/0328.png
+	s	[34, 71, 58, 102]
+	|	[63, 77, 73, 102]
+	n	[74, 67, 96, 98]
+	y	[98, 63, 133, 108]
+Prediction for equation ./data/testResults/0499.png
+	co	[236, 59, 277, 92]
+	s	[275, 58, 297, 89]
+	x	[321, 52, 348, 86]
+Prediction for equation ./data/testResults/0670.png
+	c	[114, 72, 138, 103]
+	0	[138, 75, 161, 102]
+	s	[168, 73, 188, 102]
+	-	[191, 78, 275, 88]
+	pi	[208, 44, 248, 75]
+	b	[223, 89, 250, 123]
+Prediction for equation ./data/testResults/0116.png
+	-	[189, 63, 235, 72]
+	sqrt	[190, 23, 229, 58]
+	sqrt	[198, 78, 232, 111]
+	b	[211, 34, 225, 56]
+	a	[216, 89, 234, 108]
+Prediction for equation ./data/testResults/0102.png
+	sqrt	[178, 58, 210, 97]
+	n	[195, 68, 210, 91]
+Prediction for equation ./data/testResults/0664.png
+	-	[141, 73, 225, 88]
+	2	[165, 89, 194, 141]
+	x	[169, 32, 203, 64]
+Prediction for equation ./data/testResults/0658.png
+	s	[116, 67, 143, 95]
+	c	[152, 72, 163, 92]
+	n	[165, 71, 203, 98]
+	(	[210, 59, 224, 103]
+	a	[225, 70, 259, 94]
+	b	[261, 53, 280, 92]
+	)	[279, 65, 300, 109]
+Prediction for equation ./data/testResults/0857.png
+	a	[166, 54, 197, 88]
+	n	[194, 46, 207, 64]
+	m	[208, 41, 231, 61]
+Prediction for equation ./data/testResults/0843.png
+	3	[121, 62, 139, 87]
+	sqrt	[123, 54, 204, 113]
+	x	[167, 73, 190, 101]
+Prediction for equation ./data/testResults/0704.png
+	-	[163, 73, 209, 84]
+	x	[174, 32, 195, 60]
+	y	[174, 87, 197, 123]
+Prediction for equation ./data/testResults/0062.png
+	sqrt	[92, 57, 174, 101]
+	x	[137, 82, 154, 104]
+Prediction for equation ./data/testResults/0076.png
+	-	[37, 58, 125, 74]
+	sqrt	[45, 75, 107, 116]
+	sqrt	[48, 16, 98, 51]
+	a	[69, 31, 91, 48]
+	b	[70, 92, 94, 116]
+Prediction for equation ./data/testResults/0710.png
+	6	[133, 75, 163, 99]
+	s	[164, 75, 179, 99]
+	-	[187, 79, 232, 89]
+	pi	[196, 51, 216, 81]
+	6	[201, 87, 217, 120]
+Prediction for equation ./data/testResults/0738.png
+	s	[113, 84, 139, 120]
+	|	[150, 94, 157, 115]
+	n	[159, 93, 180, 112]
+	-	[184, 86, 225, 94]
+	m	[198, 60, 224, 79]
+	2	[198, 103, 215, 120]
+Prediction for equation ./data/testResults/0089.png
+	c	[170, 74, 184, 97]
+	0	[189, 74, 205, 95]
+	s	[206, 70, 220, 91]
+	3	[236, 63, 253, 87]
+Prediction for equation ./data/testResults/0260.png
+	cos	[90, 78, 122, 99]
+	s	[123, 80, 139, 100]
+	-	[155, 81, 190, 87]
+	pi	[159, 56, 188, 82]
+	2	[163, 92, 186, 112]
+Prediction for equation ./data/testResults/0506.png
+	-	[122, 75, 214, 87]
+	sqrt	[141, 26, 187, 72]
+	sqrt	[148, 92, 195, 133]
+	a	[169, 38, 189, 57]
+	b	[177, 100, 198, 131]
+Prediction for equation ./data/testResults/0512.png
+	sqrt	[130, 43, 186, 120]
+	x	[162, 70, 188, 112]
+Prediction for equation ./data/testResults/0274.png
+	-	[127, 79, 199, 89]
+	a	[150, 44, 179, 68]
+	b	[152, 88, 176, 126]
+Prediction for equation ./data/testResults/0248.png
+	s	[87, 79, 120, 113]
+	i	[129, 74, 139, 109]
+	n	[139, 91, 173, 109]
+	x	[172, 76, 225, 107]
+Prediction for equation ./data/testResults/0289.png
+	c	[131, 67, 145, 93]
+	0	[147, 71, 158, 89]
+	s	[162, 70, 177, 90]
+	y	[188, 68, 215, 108]
+Prediction for equation ./data/testResults/0538.png
+	s	[93, 62, 117, 109]
+	i	[135, 56, 142, 102]
+	n	[161, 73, 191, 104]
+	x	[213, 70, 247, 103]
+Prediction for equation ./data/testResults/0504.png
+	-	[128, 66, 207, 83]
+	x	[154, 29, 185, 62]
+	y	[161, 77, 185, 143]
+Prediction for equation ./data/testResults/0262.png
+	sqrt	[152, 45, 223, 107]
+	x	[174, 74, 215, 108]
+Prediction for equation ./data/testResults/0276.png
+	-	[105, 80, 210, 87]
+	sqrt	[120, 94, 185, 138]
+	sqrt	[130, 23, 194, 69]
+	y	[144, 107, 171, 140]
+	3	[158, 36, 180, 63]
+Prediction for equation ./data/testResults/0510.png
+	a	[132, 77, 167, 111]
+	s	[165, 72, 188, 110]
+	-	[200, 74, 241, 84]
+	pi	[204, 51, 229, 75]
+	6	[212, 84, 228, 117]
+Prediction for equation ./data/testResults/0048.png
+	s	[45, 73, 67, 104]
+	|	[68, 84, 74, 101]
+	n	[75, 77, 100, 99]
+	y	[111, 75, 136, 121]
+Prediction for equation ./data/testResults/0060.png
+	a	[49, 63, 84, 93]
+	s	[87, 64, 106, 87]
+	-	[121, 60, 189, 71]
+	pi	[131, 26, 175, 53]
+	6	[144, 80, 169, 108]
+	c	[155, 32, 169, 57]
+Prediction for equation ./data/testResults/0706.png
+	-	[144, 74, 228, 86]
+	sqrt	[150, 23, 199, 68]
+	sqrt	[155, 97, 209, 137]
+	a	[177, 38, 201, 59]
+	b	[186, 108, 204, 134]
+Prediction for equation ./data/testResults/0712.png
+	sqrt	[110, 63, 192, 113]
+	x	[144, 81, 174, 110]
+Prediction for equation ./data/testResults/0074.png
+	-	[59, 59, 111, 73]
+	y	[73, 81, 90, 109]
+	x	[74, 38, 95, 56]
+Prediction for equation ./data/testResults/0855.png
+	sqrt	[170, 18, 223, 102]
+	-	[194, 62, 225, 71]
+	b	[201, 33, 217, 58]
+	a	[202, 76, 222, 100]
+Prediction for equation ./data/testResults/0841.png
+	x	[171, 64, 192, 91]
+	2	[195, 43, 215, 68]
+Prediction for equation ./data/testResults/0699.png
+	cos	[153, 67, 187, 90]
+	s	[191, 62, 207, 87]
+	y	[219, 65, 240, 106]
+Prediction for equation ./data/testResults/0128.png
+	s	[152, 86, 172, 108]
+	|	[172, 94, 179, 106]
+	dot	[173, 77, 180, 84]
+	n	[177, 92, 198, 105]
+	x	[209, 89, 229, 111]
+Prediction for equation ./data/testResults/0114.png
+	-	[175, 55, 215, 66]
+	a	[178, 23, 205, 53]
+	n	[188, 68, 206, 94]
+Prediction for equation ./data/testResults/0672.png
+	sqrt	[151, 54, 227, 97]
+	x	[185, 70, 209, 93]
+Prediction for equation ./data/testResults/0666.png
+	-	[74, 76, 271, 90]
+	sqrt	[136, 89, 207, 145]
+	sqrt	[139, 11, 199, 75]
+	a	[166, 29, 189, 60]
+	b	[166, 105, 191, 141]
+Prediction for equation ./data/testResults/0100.png
+	a	[179, 78, 213, 106]
+	s	[213, 77, 228, 100]
+	-	[238, 80, 270, 86]
+	y	[245, 48, 262, 78]
+	n	[248, 89, 266, 109]
+Prediction for equation ./data/testResults/0458.png
+	s	[47, 67, 81, 115]
+	)	[76, 89, 89, 116]
+	n	[90, 80, 116, 117]
+	x	[136, 52, 167, 126]
+Prediction for equation ./data/testResults/0470.png
+	c	[5, 46, 44, 102]
+	0	[36, 65, 74, 102]
+	s	[78, 61, 98, 102]
+	pi	[131, 26, 200, 75]
+	-	[131, 71, 201, 94]
+	m	[142, 95, 172, 126]
+	1	[149, 46, 158, 81]
+Prediction for equation ./data/testResults/0316.png
+	-	[38, 67, 149, 89]
+	sqrt	[52, 84, 100, 137]
+	sqrt	[53, 1, 105, 63]
+	w	[76, 104, 117, 133]
+	v	[81, 18, 110, 54]
+Prediction for equation ./data/testResults/0302.png
+	sqrt	[52, 33, 113, 104]
+	a	[77, 52, 113, 101]
+Prediction for equation ./data/testResults/0464.png
+	-	[48, 53, 113, 64]
+	x	[64, 71, 87, 110]
+	b	[70, 13, 97, 50]
+Prediction for equation ./data/testResults/0303.png
+	3	[47, 39, 78, 77]
+	sqrt	[50, 30, 135, 109]
+	a	[97, 60, 135, 106]
+Prediction for equation ./data/testResults/0465.png
+	sqrt	[20, 26, 159, 125]
+	-	[58, 77, 116, 92]
+	y	[73, 98, 105, 147]
+	6	[76, 47, 97, 80]
+Prediction for equation ./data/testResults/0471.png
+	x	[67, 66, 97, 117]
+	6	[98, 30, 125, 62]
+Prediction for equation ./data/testResults/0317.png
+	w	[38, 74, 78, 109]
+	m	[80, 55, 112, 82]
+	n	[117, 52, 139, 76]
+Prediction for equation ./data/testResults/0459.png
+	cos	[44, 50, 131, 105]
+	x	[136, 42, 176, 102]
+Prediction for equation ./data/testResults/0667.png
+	a	[139, 72, 185, 117]
+	m	[180, 61, 212, 79]
+	n	[216, 60, 240, 75]
+Prediction for equation ./data/testResults/0101.png
+	n	[185, 70, 202, 91]
+	2	[204, 55, 219, 70]
+Prediction for equation ./data/testResults/0115.png
+	sqrt	[167, 40, 232, 105]
+	-	[199, 81, 222, 86]
+	b	[202, 53, 217, 72]
+	a	[204, 92, 225, 113]
+Prediction for equation ./data/testResults/0673.png
+	sqrt	[147, 68, 235, 110]
+	3	[153, 65, 164, 81]
+	2	[189, 83, 209, 102]
+Prediction for equation ./data/testResults/0129.png
+	cos	[153, 73, 201, 91]
+	x	[210, 72, 230, 93]
+Prediction for equation ./data/testResults/0698.png
+	s	[169, 70, 191, 101]
+	-	[193, 65, 211, 74]
+	1	[193, 79, 200, 95]
+	n	[207, 78, 222, 94]
+	pi	[237, 69, 265, 97]
+Prediction for equation ./data/testResults/0840.png
+	c	[119, 61, 136, 82]
+	0	[143, 61, 161, 80]
+	s	[162, 59, 175, 84]
+	-	[189, 62, 224, 69]
+	6	[194, 72, 212, 102]
+	pi	[196, 38, 222, 60]
+Prediction for equation ./data/testResults/0854.png
+	-	[180, 90, 234, 97]
+	x	[194, 104, 221, 137]
+	y	[195, 25, 220, 77]
+Prediction for equation ./data/testResults/0713.png
+	3	[87, 70, 103, 92]
+	sqrt	[95, 67, 180, 121]
+	y	[132, 90, 152, 127]
+Prediction for equation ./data/testResults/0075.png
+	sqrt	[52, 36, 123, 113]
+	-	[78, 81, 108, 92]
+	a	[80, 59, 102, 79]
+	b	[81, 97, 102, 120]
+Prediction for equation ./data/testResults/0061.png
+	x	[147, 80, 166, 102]
+	2	[168, 57, 192, 75]
+Prediction for equation ./data/testResults/0707.png
+	a	[139, 79, 169, 110]
+	m	[172, 65, 194, 85]
+	n	[194, 61, 220, 81]
+Prediction for equation ./data/testResults/0049.png
+	c	[40, 71, 56, 102]
+	0	[56, 78, 72, 100]
+	s	[69, 75, 90, 99]
+	a	[106, 74, 127, 99]
+Prediction for equation ./data/testResults/0277.png
+	x	[127, 77, 161, 102]
+	d	[156, 44, 194, 80]
+Prediction for equation ./data/testResults/0511.png
+	n	[156, 82, 186, 118]
+	2	[186, 56, 212, 85]
+Prediction for equation ./data/testResults/0505.png
+	sqrt	[128, 56, 187, 131]
+	-	[163, 88, 202, 98]
+	a	[168, 63, 190, 84]
+	b	[177, 100, 198, 129]
+Prediction for equation ./data/testResults/0263.png
+	3	[130, 60, 150, 90]
+	sqrt	[144, 49, 226, 125]
+	x	[172, 76, 218, 116]
+Prediction for equation ./data/testResults/0539.png
+	c	[115, 60, 145, 104]
+	0	[161, 65, 202, 101]
+	s	[216, 61, 253, 104]
+	x	[281, 65, 320, 115]
+Prediction for equation ./data/testResults/0288.png
+	s	[132, 68, 152, 91]
+	n	[155, 72, 177, 89]
+	x	[194, 66, 216, 91]
+Prediction for equation ./data/testResults/0589.png
+	c	[85, 49, 134, 86]
+	s	[138, 55, 158, 83]
+	y	[188, 51, 208, 94]
+Prediction for equation ./data/testResults/0562.png
+	sqrt	[149, 49, 203, 95]
+	x	[171, 65, 198, 88]
+Prediction for equation ./data/testResults/0204.png
+	-	[151, 67, 199, 76]
+	y	[160, 90, 184, 138]
+	x	[165, 33, 192, 65]
+Prediction for equation ./data/testResults/0210.png
+	c	[99, 64, 124, 90]
+	0	[128, 66, 148, 90]
+	s	[147, 64, 163, 94]
+	-	[171, 63, 212, 72]
+	pi	[177, 37, 207, 61]
+	6	[184, 81, 201, 109]
+Prediction for equation ./data/testResults/0576.png
+	-	[152, 83, 233, 92]
+	sqrt	[153, 23, 237, 76]
+	sqrt	[157, 95, 245, 143]
+	a	[191, 43, 218, 64]
+	b	[199, 106, 229, 139]
+Prediction for equation ./data/testResults/0238.png
+	s	[119, 74, 149, 118]
+	-	[146, 72, 158, 78]
+	1	[151, 84, 160, 117]
+	n	[163, 72, 187, 114]
+	x	[197, 70, 228, 112]
+Prediction for equation ./data/testResults/0006.png
+	-	[98, 54, 189, 76]
+	sqrt	[111, 12, 170, 61]
+	sqrt	[116, 79, 170, 128]
+	a	[133, 33, 162, 55]
+	b	[144, 91, 162, 124]
+Prediction for equation ./data/testResults/0760.png
+	c	[83, 70, 99, 96]
+	a	[104, 69, 122, 95]
+	s	[127, 68, 143, 97]
+	(	[158, 47, 182, 112]
+	c	[179, 49, 195, 77]
+	-	[181, 81, 280, 89]
+	2	[189, 49, 209, 73]
+	(	[189, 89, 202, 121]
+	n	[201, 100, 219, 119]
+	n	[210, 56, 227, 76]
+	-	[228, 60, 238, 67]
+	6	[232, 90, 248, 115]
+	x	[242, 54, 270, 77]
+	|	[253, 91, 263, 115]
+	)	[269, 49, 280, 82]
+	)	[279, 45, 297, 116]
+Prediction for equation ./data/testResults/0774.png
+	-	[129, 59, 236, 72]
+	(	[140, 28, 155, 59]
+	c	[140, 80, 158, 114]
+	x	[154, 35, 175, 57]
+	y	[161, 88, 178, 118]
+	+	[181, 33, 192, 48]
+	1	[197, 22, 212, 55]
+	1	[203, 75, 217, 104]
+	)	[215, 23, 230, 58]
+	)	[226, 78, 239, 113]
+Prediction for equation ./data/testResults/0012.png
+	sqrt	[91, 46, 175, 97]
+	x	[138, 63, 169, 98]
+Prediction for equation ./data/testResults/0748.png
+	s	[91, 74, 116, 113]
+	i	[119, 76, 133, 108]
+	n	[133, 80, 154, 111]
+	(	[158, 59, 188, 123]
+	x	[177, 61, 226, 110]
+	)	[230, 55, 251, 123]
+Prediction for equation ./data/testResults/0833.png
+	sqrt	[138, 52, 230, 108]
+	3	[142, 56, 159, 86]
+	y	[188, 73, 220, 123]
+Prediction for equation ./data/testResults/0827.png
+	y	[152, 69, 179, 110]
+	m	[186, 44, 213, 67]
+	n	[217, 39, 238, 62]
+Prediction for equation ./data/testResults/0199.png
+	c	[118, 79, 141, 109]
+	0	[143, 83, 160, 108]
+	s	[159, 74, 184, 104]
+	x	[212, 79, 243, 120]
+Prediction for equation ./data/testResults/0172.png
+	sqrt	[118, 46, 206, 103]
+	x	[154, 66, 180, 98]
+Prediction for equation ./data/testResults/0614.png
+	-	[136, 58, 195, 63]
+	x	[153, 26, 172, 51]
+	y	[157, 80, 171, 112]
+Prediction for equation ./data/testResults/0600.png
+	c	[60, 58, 97, 97]
+	0	[93, 76, 111, 92]
+	s	[119, 68, 138, 94]
+	-	[144, 80, 225, 90]
+	pi	[156, 40, 211, 72]
+	6	[173, 93, 198, 131]
+Prediction for equation ./data/testResults/0166.png
+	-	[116, 74, 178, 87]
+	sqrt	[125, 30, 170, 74]
+	n	[133, 95, 167, 134]
+	a	[143, 48, 160, 67]
+	-	[362, -1, 374, 4]
+Prediction for equation ./data/testResults/0628.png
+	s	[119, 56, 145, 104]
+	1	[147, 49, 159, 96]
+	n	[167, 59, 200, 97]
+	x	[209, 55, 243, 97]
+Prediction for equation ./data/testResults/0416.png
+	-	[221, 55, 285, 69]
+	sqrt	[231, 2, 278, 58]
+	sqrt	[241, 72, 278, 117]
+	a	[251, 26, 266, 48]
+	x	[258, 88, 284, 118]
+Prediction for equation ./data/testResults/0370.png
+	c	[173, 70, 189, 96]
+	0	[193, 73, 207, 96]
+	s	[206, 72, 222, 94]
+	-	[240, 69, 283, 76]
+	x	[249, 46, 271, 70]
+	4	[250, 82, 271, 107]
+Prediction for equation ./data/testResults/0364.png
+	-	[179, 61, 238, 67]
+	c	[198, 75, 220, 96]
+	6	[199, 23, 216, 50]
+Prediction for equation ./data/testResults/0402.png
+	sqrt	[101, 63, 203, 114]
+	x	[147, 77, 172, 106]
+Prediction for equation ./data/testResults/0358.png
+	s	[97, 75, 130, 113]
+	i	[136, 63, 152, 107]
+	n	[152, 74, 179, 104]
+	x	[208, 62, 234, 113]
+Prediction for equation ./data/testResults/0359.png
+	c	[97, 62, 121, 92]
+	0	[123, 67, 145, 93]
+	s	[147, 64, 165, 94]
+	x	[201, 57, 233, 95]
+Prediction for equation ./data/testResults/0365.png
+	sqrt	[170, 32, 239, 93]
+	-	[206, 66, 250, 72]
+	z_line	[211, 79, 230, 100]
+	x	[213, 44, 234, 63]
+Prediction for equation ./data/testResults/0403.png
+	sqrt	[122, 48, 203, 109]
+	s	[130, 52, 142, 71]
+	x	[159, 65, 187, 107]
+Prediction for equation ./data/testResults/0417.png
+	a	[228, 59, 255, 93]
+	m	[261, 41, 285, 66]
+	b	[291, 35, 310, 71]
+Prediction for equation ./data/testResults/0371.png
+	x	[165, 91, 192, 128]
+	2	[204, 79, 222, 97]
+Prediction for equation ./data/testResults/0629.png
+	(	[119, 39, 135, 88]
+	0	[145, 43, 174, 89]
+	s	[176, 45, 197, 81]
+	x	[219, 35, 251, 79]
+Prediction for equation ./data/testResults/0601.png
+	x	[176, 67, 200, 101]
+	2	[202, 31, 222, 65]
+Prediction for equation ./data/testResults/0167.png
+	a	[117, 81, 138, 102]
+	m	[134, 65, 155, 83]
+	n	[158, 66, 174, 82]
+Prediction for equation ./data/testResults/0173.png
+	s	[96, 65, 115, 85]
+	sqrt	[110, 54, 198, 109]
+	x	[141, 73, 166, 101]
+Prediction for equation ./data/testResults/0615.png
+	sqrt	[132, 42, 237, 108]
+	-	[176, 73, 224, 81]
+	a	[183, 54, 206, 73]
+	b	[192, 82, 209, 110]
+Prediction for equation ./data/testResults/0826.png
+	-	[130, 63, 196, 70]
+	sqrt	[138, 72, 193, 111]
+	sqrt	[140, 10, 191, 57]
+	y	[161, 88, 188, 125]
+	x	[163, 23, 183, 46]
+Prediction for equation ./data/testResults/0198.png
+	s	[132, 89, 154, 117]
+	1	[158, 102, 165, 117]
+	n	[170, 95, 192, 115]
+	y	[202, 82, 221, 133]
+Prediction for equation ./data/testResults/0832.png
+	sqrt	[153, 46, 220, 93]
+	y	[184, 64, 215, 106]
+Prediction for equation ./data/testResults/0749.png
+	c	[76, 81, 99, 112]
+	0	[97, 86, 115, 106]
+	s	[115, 80, 135, 115]
+	(	[153, 62, 170, 124]
+	c	[178, 59, 203, 116]
+	3	[195, 72, 225, 121]
+	|	[215, 67, 231, 128]
+Prediction for equation ./data/testResults/0775.png
+	sqrt	[112, 45, 232, 125]
+	(	[153, 62, 169, 137]
+	-	[168, 92, 206, 101]
+	c	[172, 68, 192, 88]
+	d	[173, 101, 189, 131]
+	3	[189, 54, 207, 71]
+	b	[195, 98, 206, 117]
+	)	[208, 58, 225, 129]
+Prediction for equation ./data/testResults/0013.png
+	3	[102, 67, 122, 90]
+	sqrt	[133, 46, 223, 98]
+	x	[176, 66, 212, 96]
+Prediction for equation ./data/testResults/0007.png
+	a	[105, 82, 138, 113]
+	m	[139, 60, 162, 75]
+	n	[162, 57, 178, 75]
+Prediction for equation ./data/testResults/0761.png
+	(	[138, 54, 158, 106]
+	z_no_line	[153, 74, 193, 97]
+	2	[191, 47, 216, 71]
+	)	[216, 50, 232, 110]
+	2	[226, 30, 256, 57]
+Prediction for equation ./data/testResults/0239.png
+	a	[101, 65, 145, 114]
+	s	[146, 63, 168, 106]
+	x	[187, 62, 224, 105]
+Prediction for equation ./data/testResults/0211.png
+	y	[188, 70, 210, 119]
+	2	[205, 48, 222, 66]
+Prediction for equation ./data/testResults/0577.png
+	a	[121, 60, 160, 95]
+	m	[160, 51, 194, 69]
+	n	[190, 49, 220, 69]
+Prediction for equation ./data/testResults/0563.png
+	3	[132, 52, 151, 82]
+	sqrt	[133, 48, 202, 103]
+	x	[164, 67, 188, 96]
+Prediction for equation ./data/testResults/0205.png
+	sqrt	[148, 43, 229, 132]
+	-	[179, 80, 214, 91]
+	b	[186, 95, 206, 127]
+	a	[187, 59, 210, 79]
+Prediction for equation ./data/testResults/0588.png
+	s	[76, 66, 116, 99]
+	|	[123, 79, 131, 97]
+	n	[134, 79, 155, 99]
+	x	[176, 70, 194, 100]
+Prediction for equation ./data/testResults/0575.png
+	sqrt	[114, 20, 253, 118]
+	-	[175, 77, 240, 86]
+	a	[186, 46, 213, 66]
+	b	[198, 90, 229, 127]
+Prediction for equation ./data/testResults/0213.png
+	sqrt	[148, 53, 221, 94]
+	3	[151, 56, 165, 73]
+	y	[179, 71, 199, 110]
+Prediction for equation ./data/testResults/0207.png
+	a	[148, 76, 174, 106]
+	m	[169, 61, 192, 78]
+	n	[193, 61, 210, 75]
+Prediction for equation ./data/testResults/0561.png
+	x	[174, 65, 197, 93]
+	2	[193, 51, 218, 73]
+Prediction for equation ./data/testResults/0549.png
+	c	[87, 63, 117, 105]
+	0	[115, 71, 136, 103]
+	s	[144, 64, 174, 100]
+	c	[185, 49, 212, 105]
+	x	[217, 62, 252, 95]
+	)	[248, 45, 280, 102]
+Prediction for equation ./data/testResults/0788.png
+	s	[107, 81, 145, 123]
+	i	[150, 76, 159, 122]
+	n	[165, 94, 207, 127]
+	x	[222, 76, 267, 128]
+Prediction for equation ./data/testResults/0011.png
+	x	[127, 69, 167, 107]
+	2	[175, 53, 211, 80]
+Prediction for equation ./data/testResults/0777.png
 	a	[99, 87, 137, 119]
 	(	[133, 53, 144, 87]
 	m	[149, 63, 175, 87]
@@ -191,428 +1165,2805 @@ predict for equation ./test_toy_res/0013.png
 	n	[217, 64, 236, 89]
 	3	[232, 45, 248, 69]
 	)	[250, 51, 264, 92]
-predict for equation ./test_toy_res/0011.png
-	c	[125, 65, 144, 90]
-	0	[151, 67, 176, 94]
-	s	[183, 66, 200, 92]
-	pi	[208, 35, 259, 63]
-	-	[216, 71, 275, 81]
-	b	[234, 83, 254, 120]
-predict for equation ./test_toy_res/0039.png
-	s	[116, 86, 137, 125]
-	|	[138, 96, 145, 125]
-	n	[152, 98, 170, 127]
-	f	[182, 79, 204, 132]
-predict for equation ./test_toy_res/0038.png
-	cos	[125, 89, 156, 111]
-	s	[160, 85, 175, 109]
-	-	[189, 90, 224, 96]
-	x	[193, 66, 217, 87]
-	3	[196, 101, 211, 125]
-predict for equation ./test_toy_res/0010.png
-	a	[117, 78, 145, 108]
-	s	[157, 81, 175, 105]
-	-	[185, 80, 224, 88]
-	3	[199, 91, 217, 112]
-	n	[205, 54, 219, 67]
-predict for equation ./test_toy_res/0028.png
-	-	[94, 76, 302, 90]
+Prediction for equation ./data/testResults/0763.png
+	sqrt	[101, 44, 254, 108]
+	3	[106, 49, 126, 71]
+	(	[156, 65, 172, 103]
+	b	[177, 66, 199, 106]
+	-	[198, 85, 215, 93]
+	a	[217, 78, 235, 103]
+	)	[231, 62, 246, 109]
+Prediction for equation ./data/testResults/0005.png
+	sqrt	[109, 37, 190, 121]
+	-	[134, 81, 182, 93]
+	a	[145, 57, 167, 80]
+	b	[149, 92, 166, 123]
+Prediction for equation ./data/testResults/0039.png
+	c	[166, 73, 178, 93]
+	0	[184, 73, 201, 92]
+	s	[203, 72, 216, 92]
+	x	[230, 72, 249, 92]
+Prediction for equation ./data/testResults/0818.png
+	s	[122, 70, 135, 101]
+	i	[145, 64, 152, 99]
+	n	[158, 65, 180, 97]
+	x	[184, 63, 210, 98]
+Prediction for equation ./data/testResults/0824.png
+	-	[147, 59, 190, 69]
+	a	[154, 82, 179, 106]
+	b	[161, 24, 178, 58]
+Prediction for equation ./data/testResults/0830.png
+	c	[98, 60, 117, 87]
+	0	[123, 61, 147, 85]
+	s	[150, 58, 164, 85]
+	-	[185, 62, 226, 70]
+	6	[188, 77, 212, 112]
+	pi	[189, 26, 221, 60]
+Prediction for equation ./data/testResults/0165.png
+	sqrt	[114, 47, 171, 138]
+	-	[129, 100, 162, 109]
+	a	[133, 71, 153, 92]
+	b	[142, 112, 158, 132]
+	2	[267, 15, 273, 24]
+	-	[272, 31, 284, 36]
+Prediction for equation ./data/testResults/0603.png
+	3	[139, 54, 157, 83]
+	sqrt	[141, 57, 247, 113]
+	x	[192, 76, 218, 109]
+Prediction for equation ./data/testResults/0617.png
+	a	[141, 75, 162, 103]
+	m	[165, 58, 188, 77]
+	n	[192, 56, 210, 76]
+Prediction for equation ./data/testResults/0171.png
+	x	[144, 73, 174, 106]
+	2	[180, 51, 198, 74]
+Prediction for equation ./data/testResults/0159.png
+	cos	[184, 70, 228, 94]
+	y	[233, 72, 253, 114]
+Prediction for equation ./data/testResults/0398.png
+	s	[113, 69, 137, 91]
+	s	[138, 63, 154, 89]
+	n	[153, 69, 173, 89]
+	y	[179, 70, 208, 111]
+Prediction for equation ./data/testResults/0401.png
+	x	[135, 64, 183, 117]
+	2	[176, 47, 197, 69]
+Prediction for equation ./data/testResults/0367.png
+	a	[181, 65, 208, 91]
+	m	[211, 46, 230, 63]
+	n	[237, 45, 254, 61]
+Prediction for equation ./data/testResults/0373.png
+	3	[117, 77, 134, 104]
+	sqrt	[134, 70, 186, 131]
+	x	[154, 93, 176, 126]
+Prediction for equation ./data/testResults/0415.png
+	sqrt	[231, 25, 327, 113]
+	-	[258, 73, 314, 90]
+	n	[260, 49, 285, 78]
+	b	[276, 93, 299, 125]
+Prediction for equation ./data/testResults/0429.png
+	c	[56, 51, 82, 102]
+	0	[80, 58, 102, 93]
+	s	[101, 53, 124, 94]
+	x	[141, 58, 172, 95]
+Prediction for equation ./data/testResults/0428.png
+	s	[69, 61, 93, 103]
+	|	[92, 87, 102, 105]
+	dot	[100, 62, 111, 71]
+	n	[115, 66, 136, 94]
+	y	[155, 62, 188, 115]
+Prediction for equation ./data/testResults/0372.png
+	sqrt	[140, 71, 190, 124]
+	x	[166, 87, 194, 121]
+Prediction for equation ./data/testResults/0414.png
+	-	[207, 68, 267, 76]
+	x	[241, 18, 269, 55]
+	y	[244, 80, 264, 125]
+Prediction for equation ./data/testResults/0400.png
+	c	[88, 67, 106, 87]
+	0	[104, 67, 122, 85]
+	s	[124, 65, 142, 87]
+	-	[152, 68, 223, 81]
+	pi	[161, 43, 193, 67]
+	6	[161, 92, 183, 126]
+	|	[167, 49, 175, 67]
+Prediction for equation ./data/testResults/0366.png
+	-	[173, 62, 252, 69]
+	sqrt	[178, 78, 229, 118]
+	sqrt	[183, 18, 230, 57]
+	c	[206, 92, 226, 113]
+	a	[208, 27, 232, 54]
+Prediction for equation ./data/testResults/0399.png
+	c	[102, 63, 121, 86]
+	0	[124, 64, 146, 82]
+	s	[145, 62, 163, 83]
+	a	[181, 63, 208, 84]
+Prediction for equation ./data/testResults/0158.png
+	s	[178, 81, 189, 104]
+	|	[195, 89, 200, 102]
+	n	[203, 84, 220, 103]
+	y	[228, 81, 248, 117]
+Prediction for equation ./data/testResults/0616.png
+	-	[129, 68, 240, 73]
+	sqrt	[150, 17, 198, 62]
+	sqrt	[156, 88, 207, 130]
+	a	[174, 32, 191, 53]
+	b	[181, 102, 197, 131]
+Prediction for equation ./data/testResults/0170.png
+	c	[107, 63, 121, 84]
+	b	[120, 60, 139, 80]
+	s	[140, 59, 154, 83]
+	-	[167, 62, 196, 73]
+	pi	[170, 38, 190, 57]
+	6	[176, 77, 192, 109]
+Prediction for equation ./data/testResults/0164.png
+	x	[121, 47, 141, 66]
+	-	[121, 85, 147, 92]
+	y	[124, 110, 143, 147]
+Prediction for equation ./data/testResults/0602.png
+	sqrt	[142, 32, 230, 98]
+	x	[187, 55, 210, 95]
+Prediction for equation ./data/testResults/0831.png
+	y	[172, 65, 203, 109]
+	2	[207, 38, 228, 65]
+Prediction for equation ./data/testResults/0825.png
+	sqrt	[128, 28, 218, 102]
+	-	[168, 68, 207, 77]
+	x	[178, 38, 207, 63]
+	y	[178, 85, 207, 132]
+Prediction for equation ./data/testResults/0819.png
+	c	[117, 72, 138, 105]
+	0	[138, 74, 157, 101]
+	s	[160, 71, 177, 104]
+	x	[199, 68, 226, 101]
+Prediction for equation ./data/testResults/0038.png
+	s	[168, 80, 185, 104]
+	1	[187, 87, 192, 102]
+	n	[194, 84, 210, 104]
+	x	[212, 80, 237, 106]
+Prediction for equation ./data/testResults/0762.png
+	sqrt	[104, 40, 231, 108]
+	(	[155, 60, 169, 106]
+	2	[167, 73, 207, 103]
+	3	[196, 57, 222, 84]
+	)	[221, 57, 233, 102]
+Prediction for equation ./data/testResults/0004.png
+	-	[115, 58, 201, 74]
+	x	[129, 26, 173, 62]
+	y	[138, 89, 159, 127]
+Prediction for equation ./data/testResults/0010.png
+	c	[89, 74, 102, 94]
+	0	[105, 76, 121, 98]
+	s	[126, 73, 139, 97]
+	-	[153, 65, 202, 78]
+	pi	[158, 38, 199, 66]
+	6	[164, 79, 181, 107]
+Prediction for equation ./data/testResults/0776.png
+	-	[102, 104, 246, 146]
+	sqrt	[103, 23, 246, 78]
+	-	[112, 80, 234, 96]
+	c	[146, 113, 167, 151]
+	(	[149, 38, 167, 82]
+	1	[165, 116, 181, 154]
+	a	[168, 56, 191, 79]
+	0	[184, 113, 199, 151]
+	+	[188, 57, 207, 74]
+	b	[202, 116, 218, 153]
+	3	[203, 43, 223, 80]
+	)	[218, 115, 232, 156]
+	2	[219, 40, 234, 81]
+Prediction for equation ./data/testResults/0789.png
+	c	[87, 66, 132, 121]
+	os	[132, 75, 184, 118]
+	x	[217, 71, 254, 113]
+Prediction for equation ./data/testResults/0548.png
+	s	[85, 72, 115, 111]
+	(	[125, 79, 132, 114]
+	n	[141, 67, 171, 110]
+	(	[177, 52, 201, 115]
+	y	[197, 71, 235, 130]
+	)	[232, 60, 262, 110]
+Prediction for equation ./data/testResults/0206.png
+	-	[157, 82, 244, 95]
+	sqrt	[164, 29, 228, 76]
+	sqrt	[166, 101, 223, 144]
+	a	[196, 44, 219, 67]
+	b	[196, 111, 213, 138]
+Prediction for equation ./data/testResults/0560.png
+	c	[155, 72, 173, 98]
+	0	[173, 82, 189, 96]
+	s	[195, 77, 214, 99]
+	-	[232, 78, 284, 86]
+	pi	[235, 57, 266, 73]
+	b	[250, 91, 272, 119]
+Prediction for equation ./data/testResults/0574.png
+	-	[144, 76, 226, 87]
+	x	[162, 41, 189, 70]
+	y	[165, 87, 191, 133]
+Prediction for equation ./data/testResults/0212.png
+	sqrt	[156, 53, 225, 95]
+	y	[185, 70, 207, 107]
+Prediction for equation ./data/testResults/0558.png
+	s	[162, 67, 192, 96]
+	dot	[196, 69, 203, 76]
+	1	[198, 79, 204, 89]
+	n	[212, 74, 227, 94]
+	x	[250, 68, 273, 103]
+Prediction for equation ./data/testResults/0216.png
+	-	[188, 76, 240, 84]
+	sqrt	[189, 28, 244, 76]
+	sqrt	[189, 92, 246, 130]
+	b	[214, 41, 229, 71]
+	a	[214, 111, 236, 132]
+Prediction for equation ./data/testResults/0570.png
+	c	[123, 50, 136, 71]
+	dot	[139, 53, 153, 73]
+	s	[157, 47, 173, 70]
+	-	[181, 50, 225, 63]
+	pi	[184, 23, 221, 51]
+	6	[195, 62, 213, 95]
+Prediction for equation ./data/testResults/0564.png
+	-	[133, 51, 181, 74]
+	x	[140, 27, 169, 56]
+	y	[145, 68, 169, 103]
+Prediction for equation ./data/testResults/0202.png
+	sqrt	[173, 72, 236, 112]
+	x	[197, 83, 218, 115]
+Prediction for equation ./data/testResults/0799.png
+	cos	[72, 59, 119, 89]
+	s	[118, 60, 140, 91]
+	a	[174, 57, 211, 81]
+Prediction for equation ./data/testResults/0028.png
+	s	[169, 74, 184, 98]
+	|	[188, 76, 193, 95]
+	n	[199, 75, 218, 93]
+	2	[244, 63, 264, 85]
+Prediction for equation ./data/testResults/0772.png
+	sqrt	[104, 53, 237, 104]
+	(	[145, 67, 161, 111]
+	x	[158, 78, 175, 98]
+	+	[180, 78, 193, 95]
+	1	[196, 68, 209, 100]
+	)	[213, 66, 227, 114]
+Prediction for equation ./data/testResults/0014.png
+	-	[149, 70, 201, 79]
+	y	[163, 91, 193, 135]
+	x	[164, 38, 215, 66]
+Prediction for equation ./data/testResults/0766.png
+	sqrt	[92, 14, 208, 66]
+	sqrt	[98, 84, 206, 129]
+	-	[100, 69, 222, 87]
+	(	[135, 29, 149, 62]
+	a	[147, 41, 166, 59]
+	b	[148, 99, 165, 127]
+	s	[167, 94, 190, 116]
+	+	[169, 36, 183, 53]
+	6	[185, 36, 206, 59]
+	i	[202, 30, 213, 61]
+Prediction for equation ./data/testResults/0821.png
+	a	[153, 64, 173, 91]
+	2	[180, 44, 201, 68]
+Prediction for equation ./data/testResults/0835.png
+	sqrt	[138, 19, 194, 110]
+	-	[162, 60, 189, 67]
+	a	[167, 30, 185, 54]
+	b	[167, 73, 185, 104]
+Prediction for equation ./data/testResults/0809.png
+	c	[140, 81, 153, 105]
+	0	[156, 81, 172, 99]
+	s	[171, 75, 194, 106]
+	x	[198, 80, 226, 106]
+Prediction for equation ./data/testResults/0148.png
+	s	[158, 74, 175, 103]
+	i	[177, 75, 186, 103]
+	n	[193, 75, 208, 99]
+	m	[221, 70, 244, 93]
+Prediction for equation ./data/testResults/0606.png
+	-	[160, 77, 222, 84]
+	sqrt	[163, 14, 215, 69]
+	sqrt	[168, 97, 224, 144]
+	a	[187, 35, 213, 62]
+	b	[195, 115, 217, 143]
+Prediction for equation ./data/testResults/0160.png
+	cos	[184, 72, 220, 97]
+	s	[220, 73, 236, 96]
+	2	[254, 47, 274, 68]
+	-	[255, 69, 277, 79]
+	3	[258, 81, 275, 106]
+Prediction for equation ./data/testResults/0174.png
+	-	[112, 51, 175, 65]
+	x	[129, 24, 153, 49]
+	y	[130, 72, 163, 126]
+Prediction for equation ./data/testResults/0612.png
+	sqrt	[143, 60, 209, 102]
+	x	[175, 79, 192, 101]
+Prediction for equation ./data/testResults/0389.png
+	c	[83, 81, 105, 110]
+	0	[100, 89, 112, 103]
+	s	[115, 84, 133, 111]
+	x	[138, 84, 165, 110]
+Prediction for equation ./data/testResults/0438.png
+	s	[47, 64, 76, 106]
+	1	[78, 93, 87, 109]
+	n	[92, 81, 111, 112]
+	x	[142, 65, 172, 112]
+Prediction for equation ./data/testResults/0362.png
+	sqrt	[172, 55, 244, 100]
+	y	[211, 72, 233, 110]
+Prediction for equation ./data/testResults/0404.png
+	-	[109, 62, 181, 82]
+	x	[134, 27, 170, 64]
+	y	[135, 80, 167, 132]
+Prediction for equation ./data/testResults/0410.png
+	c	[64, 53, 91, 95]
+	0	[91, 56, 108, 88]
+	s	[115, 50, 136, 93]
+	-	[153, 63, 197, 71]
+	pi	[160, 24, 204, 60]
+	6	[169, 77, 188, 108]
+Prediction for equation ./data/testResults/0376.png
+	-	[101, 76, 189, 92]
+	sqrt	[116, 31, 159, 84]
+	sqrt	[117, 90, 166, 131]
+	a	[140, 48, 157, 77]
+	b	[144, 102, 161, 129]
+Prediction for equation ./data/testResults/0411.png
+	x	[246, 69, 270, 113]
+	2	[273, 65, 294, 95]
+Prediction for equation ./data/testResults/0377.png
+	a	[132, 61, 163, 103]
+	m	[160, 52, 186, 76]
+	n	[189, 53, 213, 71]
+Prediction for equation ./data/testResults/0363.png
+	sqrt	[160, 57, 235, 100]
+	a	[204, 70, 229, 93]
+Prediction for equation ./data/testResults/0405.png
+	sqrt	[85, 53, 169, 122]
+	-	[122, 82, 153, 92]
+	b	[126, 93, 148, 125]
+	a	[128, 63, 147, 82]
+Prediction for equation ./data/testResults/0439.png
+	c	[38, 48, 72, 114]
+	os	[71, 50, 149, 114]
+	x	[166, 64, 196, 122]
+Prediction for equation ./data/testResults/0388.png
+	s	[96, 79, 114, 102]
+	|	[124, 85, 130, 96]
+	n	[134, 80, 155, 102]
+	x	[162, 75, 186, 103]
+Prediction for equation ./data/testResults/0175.png
+	sqrt	[127, 46, 187, 124]
+	-	[155, 79, 185, 90]
+	a	[160, 60, 179, 77]
+	b	[167, 94, 186, 127]
+Prediction for equation ./data/testResults/0613.png
+	3	[120, 52, 134, 77]
+	sqrt	[133, 56, 196, 105]
+	x	[166, 75, 184, 99]
+Prediction for equation ./data/testResults/0607.png
+	a	[137, 82, 161, 104]
+	m	[158, 60, 182, 80]
+	n	[186, 59, 206, 77]
+Prediction for equation ./data/testResults/0161.png
+	pi	[107, 76, 124, 98]
+	2	[122, 52, 140, 72]
+Prediction for equation ./data/testResults/0149.png
+	c	[157, 65, 176, 93]
+	0	[177, 64, 194, 88]
+	s	[194, 61, 208, 84]
+	m	[226, 62, 251, 86]
+Prediction for equation ./data/testResults/0808.png
+	s	[139, 83, 159, 116]
+	i	[162, 77, 173, 110]
+	m	[171, 88, 199, 114]
+	x	[204, 82, 231, 110]
+Prediction for equation ./data/testResults/0834.png
+	-	[163, 83, 207, 90]
+	x	[173, 98, 196, 121]
+	y	[178, 34, 208, 74]
+Prediction for equation ./data/testResults/0820.png
+	cos	[107, 59, 151, 85]
+	s	[153, 57, 168, 86]
+	6	[180, 84, 201, 119]
+	-	[182, 67, 209, 74]
+	pi	[185, 41, 208, 64]
+Prediction for equation ./data/testResults/0001.png
+	x	[130, 74, 172, 101]
+	2	[166, 50, 190, 75]
+Prediction for equation ./data/testResults/0767.png
+	a	[102, 77, 139, 102]
+	(	[121, 47, 139, 80]
+	-	[131, 58, 154, 66]
+	m	[155, 52, 188, 77]
+	s	[182, 48, 199, 78]
+	(	[199, 46, 213, 82]
+	n	[212, 60, 243, 88]
+	pi	[227, 51, 247, 68]
+	)	[238, 49, 254, 85]
+	dot	[247, 30, 270, 61]
+Prediction for equation ./data/testResults/0773.png
+	sqrt	[91, 37, 205, 101]
+	3	[114, 51, 129, 70]
+	2	[152, 61, 182, 98]
+	b	[183, 58, 202, 97]
+Prediction for equation ./data/testResults/0015.png
+	sqrt	[121, 30, 234, 120]
+	-	[174, 78, 227, 85]
+	a	[191, 47, 221, 72]
+	b	[192, 99, 219, 134]
+Prediction for equation ./data/testResults/0029.png
+	co	[169, 74, 207, 102]
+	s	[209, 73, 224, 96]
+	2	[243, 68, 265, 91]
+Prediction for equation ./data/testResults/0798.png
+	s	[88, 55, 114, 90]
+	i	[114, 47, 121, 85]
+	n	[128, 59, 162, 85]
+	y	[177, 54, 215, 103]
+Prediction for equation ./data/testResults/0565.png
+	sqrt	[137, 31, 217, 103]
+	-	[171, 67, 201, 81]
+	a	[173, 47, 192, 68]
+	b	[179, 79, 200, 106]
+Prediction for equation ./data/testResults/0203.png
+	sqrt	[157, 61, 225, 104]
+	s	[160, 64, 174, 81]
+	x	[183, 74, 204, 105]
+Prediction for equation ./data/testResults/0217.png
+	b	[181, 66, 197, 102]
+	n	[202, 54, 218, 71]
+	m	[221, 54, 247, 71]
+Prediction for equation ./data/testResults/0571.png
+	x	[187, 50, 220, 91]
+	2	[223, 32, 250, 58]
+Prediction for equation ./data/testResults/0559.png
+	c	[165, 74, 182, 103]
+	0	[189, 83, 204, 100]
+	s	[200, 78, 222, 104]
+	x	[241, 75, 283, 108]
+Prediction for equation ./data/testResults/0598.png
+	s	[74, 59, 123, 101]
+	|	[128, 77, 139, 94]
+	n	[146, 77, 172, 96]
+	y	[207, 56, 236, 109]
+Prediction for equation ./data/testResults/0229.png
+	c	[144, 56, 171, 112]
+	0	[178, 71, 198, 103]
+	s	[209, 58, 231, 104]
+	x	[252, 54, 284, 107]
+Prediction for equation ./data/testResults/0201.png
+	x	[198, 71, 224, 104]
+	2	[222, 51, 240, 71]
+Prediction for equation ./data/testResults/0567.png
+	a	[143, 67, 167, 99]
+	m	[169, 53, 194, 71]
+	n	[197, 51, 215, 70]
+Prediction for equation ./data/testResults/0573.png
+	3	[94, 37, 110, 57]
+	sqrt	[94, 44, 217, 101]
+	x	[149, 62, 183, 98]
+Prediction for equation ./data/testResults/0215.png
+	sqrt	[171, 56, 237, 129]
+	-	[197, 86, 230, 93]
+	a	[203, 101, 226, 120]
+	b	[207, 65, 220, 85]
+Prediction for equation ./data/testResults/0759.png
+	c	[55, 74, 78, 103]
+	dot	[80, 79, 100, 102]
+	s	[105, 73, 122, 105]
+	c	[136, 59, 158, 113]
+	s	[159, 73, 176, 104]
+	dot	[179, 71, 190, 80]
+	|	[181, 81, 191, 99]
+	n	[190, 74, 212, 101]
+	(	[218, 56, 238, 116]
+	1	[236, 67, 252, 104]
+	dot	[255, 85, 265, 97]
+	s	[266, 63, 290, 108]
+	)	[289, 54, 308, 108]
+	)	[308, 53, 325, 110]
+Prediction for equation ./data/testResults/0765.png
+	sqrt	[87, 48, 188, 128]
+	(	[128, 63, 139, 92]
+	(	[129, 108, 140, 139]
+	-	[133, 94, 181, 102]
+	a	[136, 70, 160, 93]
+	b	[140, 102, 156, 134]
+	3	[153, 58, 174, 75]
+	-	[156, 116, 168, 123]
+	2	[168, 109, 187, 134]
+	1	[174, 62, 184, 88]
+	)	[188, 110, 197, 129]
+Prediction for equation ./data/testResults/0003.png
+	3	[106, 65, 123, 89]
+	sqrt	[109, 42, 181, 110]
+	x	[138, 70, 174, 103]
+Prediction for equation ./data/testResults/0017.png
+	a	[146, 74, 189, 103]
+	m	[182, 59, 229, 78]
+	n	[227, 61, 257, 84]
+Prediction for equation ./data/testResults/0771.png
+	(	[124, 63, 142, 107]
+	x	[143, 72, 175, 104]
+	+	[178, 75, 192, 93]
+	2	[199, 64, 226, 107]
+	)	[224, 60, 242, 111]
+	2	[244, 33, 270, 61]
+Prediction for equation ./data/testResults/0836.png
+	-	[133, 77, 195, 85]
+	sqrt	[138, 20, 195, 66]
+	sqrt	[142, 88, 196, 128]
+	a	[161, 34, 182, 56]
+	b	[170, 98, 189, 128]
+Prediction for equation ./data/testResults/0188.png
+	s	[121, 66, 149, 108]
+	i	[154, 68, 165, 101]
+	n	[166, 77, 193, 101]
+	x	[212, 67, 244, 108]
+Prediction for equation ./data/testResults/0822.png
+	sqrt	[132, 45, 208, 94]
+	b	[169, 56, 187, 94]
+Prediction for equation ./data/testResults/0639.png
+	c	[195, 83, 214, 113]
+	0	[215, 85, 235, 110]
+	s	[235, 85, 252, 109]
+	x	[273, 83, 295, 108]
+Prediction for equation ./data/testResults/0611.png
+	x	[151, 71, 178, 94]
+	2	[179, 54, 189, 71]
+Prediction for equation ./data/testResults/0177.png
+	a	[146, 80, 174, 104]
+	m	[175, 63, 201, 81]
+	n	[204, 62, 223, 79]
+Prediction for equation ./data/testResults/0163.png
+	1	[87, 77, 95, 99]
+	sqrt	[101, 74, 143, 121]
+	dot	[117, 93, 133, 107]
+Prediction for equation ./data/testResults/0605.png
+	sqrt	[154, 41, 239, 124]
+	-	[189, 85, 231, 91]
+	a	[194, 57, 222, 75]
+	b	[202, 96, 225, 128]
+Prediction for equation ./data/testResults/0349.png
+	c	[117, 67, 136, 97]
+	0	[140, 74, 158, 92]
+	s	[162, 67, 180, 96]
+	x	[210, 70, 233, 106]
+Prediction for equation ./data/testResults/0375.png
+	sqrt	[91, 33, 164, 123]
+	-	[119, 71, 162, 81]
+	a	[130, 43, 146, 71]
+	b	[131, 88, 148, 118]
+Prediction for equation ./data/testResults/0413.png
+	3	[210, 50, 224, 79]
+	sqrt	[216, 43, 270, 99]
+	y	[249, 61, 269, 118]
+Prediction for equation ./data/testResults/0407.png
+	a	[98, 80, 121, 112]
+	m	[120, 66, 144, 86]
+	n	[147, 63, 162, 86]
+Prediction for equation ./data/testResults/0361.png
+	z_line	[204, 66, 232, 87]
+	2	[232, 45, 248, 59]
+Prediction for equation ./data/testResults/0406.png
+	-	[77, 78, 156, 90]
+	sqrt	[81, 95, 160, 139]
+	sqrt	[82, 28, 171, 72]
+	a	[118, 44, 141, 72]
+	b	[121, 104, 142, 143]
+Prediction for equation ./data/testResults/0360.png
+	c	[114, 67, 141, 99]
+	0	[147, 71, 173, 94]
+	s	[179, 67, 199, 93]
+	-	[209, 59, 259, 79]
+	pi	[214, 29, 258, 63]
+	6	[226, 77, 256, 115]
+Prediction for equation ./data/testResults/0374.png
+	-	[117, 69, 182, 86]
+	a	[124, 47, 155, 77]
+	y	[136, 89, 159, 138]
+Prediction for equation ./data/testResults/0412.png
+	sqrt	[224, 48, 280, 111]
+	x	[254, 72, 281, 114]
+Prediction for equation ./data/testResults/0348.png
+	s	[127, 67, 146, 105]
+	|	[160, 79, 165, 99]
+	n	[176, 79, 197, 106]
+	x	[225, 78, 245, 111]
+Prediction for equation ./data/testResults/0162.png
+	sqrt	[84, 68, 140, 117]
+	|	[106, 85, 120, 105]
+Prediction for equation ./data/testResults/0604.png
+	-	[169, 70, 222, 80]
+	x	[174, 38, 208, 65]
+	|	[182, 94, 202, 110]
+	1	[201, 85, 207, 130]
+Prediction for equation ./data/testResults/0610.png
+	c	[100, 71, 124, 112]
+	cos	[128, 82, 172, 111]
+	-	[187, 86, 231, 94]
+	pi	[188, 49, 228, 80]
+	c	[193, 106, 223, 139]
+Prediction for equation ./data/testResults/0176.png
+	-	[138, 57, 231, 74]
+	sqrt	[154, 16, 214, 59]
+	sqrt	[162, 73, 222, 117]
+	a	[179, 33, 200, 53]
+	b	[190, 89, 211, 114]
+Prediction for equation ./data/testResults/0638.png
+	s	[184, 81, 204, 115]
+	(	[213, 96, 218, 112]
+	n	[218, 89, 238, 113]
+	x	[262, 76, 283, 109]
+Prediction for equation ./data/testResults/0823.png
+	sqrt	[132, 46, 217, 109]
+	3	[135, 52, 151, 81]
+	b	[173, 63, 193, 102]
+Prediction for equation ./data/testResults/0837.png
+	a	[140, 72, 166, 95]
+	m	[159, 52, 186, 72]
+	n	[190, 49, 208, 70]
+Prediction for equation ./data/testResults/0189.png
+	c	[115, 69, 147, 110]
+	0	[144, 70, 166, 106]
+	s	[165, 73, 187, 107]
+	x	[207, 71, 242, 107]
+Prediction for equation ./data/testResults/0016.png
+	sqrt	[138, 28, 210, 77]
+	-	[138, 85, 218, 96]
+	sqrt	[138, 96, 205, 145]
+	a	[168, 47, 210, 77]
+	b	[177, 108, 206, 141]
+Prediction for equation ./data/testResults/0770.png
+	c	[74, 85, 97, 115]
+	0	[106, 85, 125, 111]
+	s	[130, 84, 144, 114]
+	(	[161, 55, 185, 124]
+	-	[184, 93, 218, 100]
+	x	[189, 60, 222, 89]
+	2	[193, 104, 214, 125]
+	-	[225, 92, 240, 98]
+	1	[249, 67, 264, 119]
+	)	[270, 59, 288, 124]
+Prediction for equation ./data/testResults/0764.png
+	-	[103, 73, 178, 83]
+	(	[104, 93, 119, 132]
+	(	[109, 33, 123, 66]
+	s	[124, 34, 147, 66]
+	y	[125, 106, 143, 138]
+	2	[143, 93, 158, 113]
+	x	[152, 48, 168, 65]
+	)	[162, 91, 176, 136]
+	)	[170, 31, 183, 67]
+Prediction for equation ./data/testResults/0002.png
+	sqrt	[106, 45, 194, 110]
+	x	[142, 75, 176, 107]
+Prediction for equation ./data/testResults/0758.png
+	s	[78, 88, 95, 119]
+	i	[99, 89, 112, 119]
+	n	[117, 90, 143, 118]
+	c	[149, 73, 171, 124]
+	1	[171, 75, 187, 115]
+	)	[193, 70, 209, 128]
+Prediction for equation ./data/testResults/0572.png
+	sqrt	[124, 40, 232, 96]
+	x	[171, 54, 207, 94]
+Prediction for equation ./data/testResults/0214.png
+	-	[157, 78, 229, 86]
+	y	[171, 35, 199, 74]
+	x	[173, 93, 196, 122]
+Prediction for equation ./data/testResults/0200.png
+	c	[103, 86, 125, 118]
+	0	[125, 93, 142, 114]
+	s	[142, 87, 166, 116]
+	-	[190, 73, 267, 101]
+	pi	[211, 64, 240, 87]
+	2	[217, 111, 244, 134]
+Prediction for equation ./data/testResults/0566.png
+	-	[142, 56, 229, 77]
+	sqrt	[150, 67, 210, 118]
+	sqrt	[152, 3, 217, 57]
+	a	[176, 22, 196, 51]
+	b	[181, 83, 205, 117]
+Prediction for equation ./data/testResults/0228.png
+	s	[158, 57, 188, 105]
+	1	[198, 83, 205, 101]
+	n	[213, 72, 237, 102]
+	x	[253, 62, 282, 106]
+Prediction for equation ./data/testResults/0599.png
+	c	[76, 59, 120, 100]
+	0	[123, 75, 144, 93]
+	s	[148, 66, 169, 94]
+	x	[196, 60, 225, 94]
+Prediction for equation ./data/testResults/0580.png
+	c	[67, 56, 111, 96]
+	0	[109, 74, 131, 92]
+	s	[138, 63, 162, 94]
+	-	[185, 81, 256, 88]
+	pi	[192, 41, 251, 74]
+	6	[207, 90, 229, 122]
+Prediction for equation ./data/testResults/0594.png
+	-	[132, 81, 220, 90]
+	x	[154, 38, 187, 71]
+	y	[160, 90, 185, 135]
+Prediction for equation ./data/testResults/0543.png
+	sqrt	[94, 41, 229, 133]
+	3	[104, 56, 137, 96]
+	y	[178, 77, 206, 132]
+Prediction for equation ./data/testResults/0225.png
+	sqrt	[138, 37, 260, 128]
+	-	[216, 78, 287, 97]
+	a	[219, 57, 260, 82]
+	b	[236, 106, 266, 132]
+Prediction for equation ./data/testResults/0231.png
+	x	[149, 66, 187, 103]
+	2	[192, 47, 214, 71]
+Prediction for equation ./data/testResults/0557.png
+	a	[183, 79, 218, 105]
+	m	[205, 65, 222, 80]
+	n	[224, 66, 238, 80]
+Prediction for equation ./data/testResults/0219.png
+	cos	[154, 64, 200, 98]
+	y	[213, 65, 238, 119]
+Prediction for equation ./data/testResults/0782.png
+	sqrt	[117, 45, 248, 123]
+	x	[178, 77, 209, 119]
+Prediction for equation ./data/testResults/0796.png
+	-	[144, 54, 220, 70]
+	sqrt	[150, -1, 186, 43]
+	sqrt	[164, 69, 222, 123]
+	a	[175, 16, 198, 36]
+	y	[187, 97, 219, 137]
+Prediction for equation ./data/testResults/0027.png
+	2	[176, 80, 201, 110]
+	y	[198, 62, 216, 91]
+	n	[218, 58, 233, 73]
+Prediction for equation ./data/testResults/0741.png
+	y	[144, 70, 166, 119]
+	2	[168, 47, 195, 75]
+Prediction for equation ./data/testResults/0755.png
+	sqrt	[91, 29, 199, 112]
+	(	[131, 49, 151, 112]
+	-	[142, 77, 192, 85]
+	a	[150, 54, 178, 77]
+	b	[150, 88, 168, 116]
+	a	[168, 86, 186, 100]
+	b	[175, 38, 190, 61]
+	)	[193, 44, 204, 97]
+Prediction for equation ./data/testResults/0033.png
+	3	[159, 67, 174, 89]
+	sqrt	[175, 59, 217, 102]
+	x	[194, 77, 211, 98]
+Prediction for equation ./data/testResults/0769.png
+	c	[57, 78, 76, 106]
+	0	[84, 78, 105, 104]
+	s	[110, 78, 126, 110]
+	(	[137, 65, 161, 123]
+	c	[159, 85, 175, 114]
+	os	[181, 82, 212, 110]
+	-	[207, 70, 220, 79]
+	1	[219, 59, 232, 83]
+	(	[235, 65, 250, 116]
+	0	[252, 69, 276, 117]
+	dot	[282, 99, 289, 109]
+	s	[294, 73, 318, 113]
+	)	[320, 66, 336, 119]
+	)	[333, 65, 349, 127]
+Prediction for equation ./data/testResults/0190.png
+	c	[109, 65, 134, 103]
+	a	[135, 68, 157, 96]
+	y	[153, 73, 177, 103]
+	pi	[186, 37, 222, 77]
+	pi	[186, 74, 229, 120]
+Prediction for equation ./data/testResults/0184.png
+	-	[145, 55, 188, 74]
+	x	[155, 27, 183, 56]
+	y	[165, 67, 200, 123]
+Prediction for equation ./data/testResults/0812.png
+	sqrt	[129, 59, 194, 98]
+	x	[160, 67, 186, 93]
+Prediction for equation ./data/testResults/0806.png
+	-	[114, 88, 201, 100]
+	sqrt	[137, 106, 192, 149]
+	sqrt	[141, 45, 183, 87]
+	a	[159, 58, 183, 86]
+	b	[160, 113, 181, 148]
+Prediction for equation ./data/testResults/0153.png
+	3	[192, 66, 205, 87]
+	sqrt	[202, 59, 239, 107]
+	y	[220, 83, 240, 120]
+Prediction for equation ./data/testResults/0635.png
+	sqrt	[172, 47, 243, 123]
+	-	[212, 92, 245, 96]
+	a	[215, 62, 233, 81]
+	b	[225, 100, 239, 125]
+Prediction for equation ./data/testResults/0621.png
+	x	[155, 79, 182, 124]
+	2	[178, 59, 199, 82]
+Prediction for equation ./data/testResults/0147.png
+	m	[168, 61, 192, 84]
+	3	[197, 44, 211, 64]
+	a	[213, 45, 231, 64]
+Prediction for equation ./data/testResults/0609.png
+	c	[122, 66, 145, 107]
+	0	[148, 82, 169, 108]
+	s	[170, 80, 191, 103]
+	x	[203, 64, 229, 105]
+Prediction for equation ./data/testResults/0392.png
+	sqrt	[144, 47, 242, 103]
+	a	[188, 67, 224, 91]
+Prediction for equation ./data/testResults/0386.png
+	-	[94, 66, 175, 81]
+	sqrt	[110, 82, 163, 136]
+	sqrt	[113, 19, 160, 71]
+	a	[138, 35, 158, 59]
+	b	[143, 95, 164, 128]
+Prediction for equation ./data/testResults/0437.png
+	a	[50, 79, 80, 118]
+	m	[81, 44, 108, 73]
+	n	[111, 40, 137, 73]
+Prediction for equation ./data/testResults/0351.png
+	x	[157, 57, 210, 122]
+	2	[211, 34, 251, 72]
+Prediction for equation ./data/testResults/0345.png
+	sqrt	[118, 36, 185, 124]
+	-	[151, 80, 191, 87]
+	a	[162, 42, 186, 69]
+	b	[164, 95, 182, 126]
+Prediction for equation ./data/testResults/0423.png
+	sqrt	[48, 51, 158, 117]
+	6	[58, 52, 71, 75]
+	x	[96, 76, 125, 110]
+Prediction for equation ./data/testResults/0379.png
+	a	[147, 73, 180, 109]
+	s	[183, 81, 201, 110]
+	x	[213, 75, 239, 110]
+Prediction for equation ./data/testResults/0378.png
+	s	[139, 85, 161, 124]
+	1	[160, 98, 170, 120]
+	-	[165, 84, 177, 91]
+	n	[173, 95, 196, 121]
+	x	[209, 87, 239, 121]
+Prediction for equation ./data/testResults/0344.png
+	-	[149, 71, 200, 80]
+	y	[158, 87, 180, 134]
+	x	[166, 27, 185, 61]
+Prediction for equation ./data/testResults/0422.png
+	sqrt	[68, 51, 176, 108]
+	a	[112, 74, 140, 110]
+Prediction for equation ./data/testResults/0436.png
+	-	[34, 63, 139, 78]
+	sqrt	[41, 3, 144, 71]
+	sqrt	[46, 77, 127, 134]
+	y	[81, 99, 117, 148]
+	x	[86, 24, 110, 63]
+Prediction for equation ./data/testResults/0350.png
+	c	[99, 75, 116, 107]
+	0	[125, 82, 147, 103]
+	s	[154, 74, 170, 106]
+	-	[189, 87, 245, 95]
+	pi	[196, 57, 229, 79]
+	6	[203, 99, 222, 132]
+Prediction for equation ./data/testResults/0387.png
+	a	[112, 72, 141, 98]
+	m	[145, 60, 172, 82]
+	n	[174, 60, 194, 81]
+Prediction for equation ./data/testResults/0393.png
+	3	[132, 61, 150, 88]
+	sqrt	[141, 51, 243, 108]
+	x	[188, 75, 216, 102]
+Prediction for equation ./data/testResults/0608.png
+	s	[120, 71, 150, 108]
+	1	[155, 87, 161, 104]
+	n	[166, 85, 184, 105]
+	x	[199, 74, 226, 106]
+Prediction for equation ./data/testResults/0620.png
+	a	[79, 71, 114, 96]
+	s	[115, 70, 128, 97]
+	-	[144, 67, 195, 76]
+	pi	[151, 49, 175, 68]
+	6	[162, 76, 176, 104]
+Prediction for equation ./data/testResults/0146.png
+	sqrt	[175, 33, 220, 64]
+	-	[179, 68, 234, 81]
+	sqrt	[187, 91, 222, 124]
+	m	[194, 45, 216, 62]
+	n	[203, 100, 219, 119]
+Prediction for equation ./data/testResults/0152.png
+	sqrt	[195, 56, 239, 94]
+	y	[211, 75, 233, 108]
+Prediction for equation ./data/testResults/0634.png
+	-	[203, 60, 251, 66]
+	y	[219, 81, 235, 133]
+	x	[222, 26, 241, 50]
+Prediction for equation ./data/testResults/0807.png
+	a	[148, 76, 183, 112]
+	m	[180, 63, 205, 86]
+	n	[205, 63, 229, 83]
+Prediction for equation ./data/testResults/0813.png
+	sqrt	[115, 57, 189, 108]
+	3	[119, 60, 131, 83]
+	x	[151, 74, 178, 99]
+Prediction for equation ./data/testResults/0185.png
+	sqrt	[133, 24, 198, 110]
+	a	[168, 37, 194, 69]
+	-	[170, 71, 203, 83]
+	b	[175, 85, 199, 115]
+Prediction for equation ./data/testResults/0191.png
+	x	[166, 87, 202, 133]
+	2	[210, 76, 226, 93]
+Prediction for equation ./data/testResults/0768.png
+	s	[61, 76, 80, 109]
+	i	[87, 79, 100, 108]
+	n	[100, 82, 125, 110]
+	(	[141, 63, 162, 113]
+	c	[166, 78, 183, 103]
+	0	[186, 79, 206, 102]
+	s	[207, 74, 225, 108]
+	(	[228, 62, 247, 113]
+	0	[245, 67, 266, 109]
+	)	[271, 62, 284, 113]
+	)	[282, 56, 300, 121]
+Prediction for equation ./data/testResults/0754.png
+	(	[117, 74, 129, 108]
+	-	[118, 53, 221, 63]
+	x	[124, 31, 141, 48]
+	y	[128, 78, 148, 110]
+	+	[140, 29, 159, 47]
+	-	[153, 83, 166, 89]
+	2	[160, 23, 185, 45]
+	2	[170, 76, 185, 97]
+	-	[186, 30, 197, 36]
+	)	[191, 70, 202, 103]
+	1	[198, 14, 213, 46]
+	2	[201, 63, 221, 79]
+Prediction for equation ./data/testResults/0032.png
+	sqrt	[171, 53, 218, 107]
+	x	[193, 75, 211, 98]
+Prediction for equation ./data/testResults/0026.png
+	sqrt	[171, 42, 229, 99]
+	-	[178, 100, 231, 111]
+	pi	[196, 112, 232, 143]
+	2	[198, 58, 218, 80]
+Prediction for equation ./data/testResults/0740.png
+	a	[97, 77, 127, 112]
+	s	[132, 82, 154, 109]
+	-	[160, 77, 196, 87]
+	pi	[163, 49, 193, 78]
+	3	[167, 91, 187, 118]
+Prediction for equation ./data/testResults/0797.png
+	x	[134, 64, 159, 93]
+	a	[157, 35, 183, 57]
+	b	[192, 30, 211, 55]
+Prediction for equation ./data/testResults/0783.png
+	sqrt	[101, 45, 259, 133]
+	3	[116, 45, 142, 84]
+	x	[184, 78, 224, 131]
+Prediction for equation ./data/testResults/0218.png
+	s	[164, 78, 182, 109]
+	1	[186, 87, 193, 105]
+	n	[196, 84, 218, 104]
+	y	[232, 83, 251, 121]
+Prediction for equation ./data/testResults/0230.png
+	(	[131, 66, 152, 122]
+	0	[160, 82, 183, 115]
+	s	[189, 72, 213, 111]
+	pi	[236, 33, 303, 71]
+	-	[237, 69, 314, 79]
+	6	[259, 89, 287, 128]
+Prediction for equation ./data/testResults/0556.png
+	-	[161, 84, 270, 90]
+	sqrt	[172, 22, 241, 73]
+	sqrt	[172, 103, 252, 145]
+	2	[203, 37, 226, 69]
+	b	[206, 114, 234, 147]
+Prediction for equation ./data/testResults/0542.png
+	sqrt	[118, 43, 195, 121]
+	x	[155, 63, 189, 115]
+Prediction for equation ./data/testResults/0224.png
+	-	[188, 63, 248, 71]
+	x	[198, 20, 224, 57]
+	y	[205, 85, 251, 136]
+Prediction for equation ./data/testResults/0595.png
+	sqrt	[91, 33, 262, 120]
+	-	[147, 86, 239, 95]
+	a	[179, 52, 204, 76]
+	b	[180, 98, 214, 134]
+Prediction for equation ./data/testResults/0581.png
+	y	[175, 54, 204, 105]
+	2	[201, 33, 225, 56]
+Prediction for equation ./data/testResults/0597.png
+	b	[121, 48, 162, 100]
+	m	[177, 45, 208, 65]
+	n	[214, 45, 237, 67]
+Prediction for equation ./data/testResults/0583.png
+	3	[92, 34, 108, 54]
+	sqrt	[95, 44, 213, 103]
+	y	[154, 59, 179, 103]
+Prediction for equation ./data/testResults/0554.png
+	-	[190, 61, 245, 73]
+	x	[198, 26, 221, 57]
+	y	[203, 85, 234, 132]
+Prediction for equation ./data/testResults/0232.png
+	sqrt	[108, 51, 186, 112]
+	x	[151, 70, 180, 106]
+Prediction for equation ./data/testResults/0226.png
+	sqrt	[143, 16, 243, 74]
+	sqrt	[161, 87, 239, 141]
+	-	[167, 68, 261, 81]
+	a	[209, 38, 244, 63]
+	b	[220, 102, 250, 134]
+Prediction for equation ./data/testResults/0540.png
+	c	[106, 60, 144, 106]
+	0	[160, 58, 198, 106]
+	s	[204, 65, 242, 110]
+	-	[263, 92, 340, 102]
+	pi	[274, 34, 325, 85]
+	6	[275, 105, 313, 148]
+Prediction for equation ./data/testResults/0568.png
+	s	[134, 64, 151, 91]
+	i	[156, 58, 167, 86]
+	n	[169, 65, 191, 83]
+	x	[193, 58, 221, 84]
+Prediction for equation ./data/testResults/0795.png
+	sqrt	[117, 14, 211, 90]
+	-	[157, 52, 206, 65]
+	a	[164, 80, 210, 104]
+	x	[172, 28, 192, 50]
+Prediction for equation ./data/testResults/0781.png
+	x	[168, 74, 206, 126]
+	2	[212, 51, 240, 78]
+Prediction for equation ./data/testResults/0030.png
+	a	[178, 65, 217, 95]
+	s	[219, 61, 236, 86]
+	-	[256, 66, 283, 72]
+	2	[259, 39, 281, 62]
+	b	[262, 72, 281, 99]
+Prediction for equation ./data/testResults/0756.png
+	sqrt	[90, 75, 204, 125]
+	sqrt	[92, 5, 190, 56]
+	-	[105, 56, 189, 70]
+	(	[125, 88, 142, 131]
+	4	[133, 86, 150, 121]
+	a	[139, 34, 161, 54]
+	b	[149, 87, 168, 126]
+	2	[158, 19, 176, 36]
+	-	[166, 99, 178, 106]
+	i	[175, 23, 192, 123]
+	)	[194, 88, 206, 131]
+Prediction for equation ./data/testResults/0742.png
+	sqrt	[108, 47, 205, 105]
+	2	[153, 64, 184, 103]
+	x	[184, 78, 205, 102]
+Prediction for equation ./data/testResults/0024.png
+	-	[184, 58, 215, 68]
+	2	[188, 34, 209, 54]
+	y	[188, 81, 207, 117]
+Prediction for equation ./data/testResults/0018.png
+	s	[142, 84, 162, 114]
+	|	[164, 89, 177, 113]
+	n	[180, 81, 212, 107]
+	x	[211, 83, 252, 112]
+Prediction for equation ./data/testResults/0187.png
+	a	[117, 67, 153, 106]
+	m	[162, 56, 196, 80]
+	n	[199, 54, 219, 78]
+Prediction for equation ./data/testResults/0839.png
+	c	[107, 60, 130, 86]
+	0	[132, 62, 153, 83]
+	s	[157, 58, 171, 84]
+	y	[191, 57, 223, 100]
+Prediction for equation ./data/testResults/0193.png
+	3	[133, 108, 148, 134]
+	sqrt	[161, 85, 225, 134]
+	x	[181, 109, 207, 134]
+Prediction for equation ./data/testResults/0805.png
+	sqrt	[141, 45, 195, 130]
+	-	[161, 84, 200, 96]
+	a	[167, 60, 185, 84]
+	b	[170, 95, 191, 126]
+Prediction for equation ./data/testResults/0811.png
+	x	[166, 73, 191, 101]
+	2	[191, 48, 213, 72]
+Prediction for equation ./data/testResults/0144.png
+	-	[175, 64, 193, 70]
+	m	[176, 79, 200, 100]
+	a	[178, 32, 197, 54]
+Prediction for equation ./data/testResults/0622.png
+	sqrt	[123, 67, 217, 121]
+	x	[159, 86, 188, 119]
+Prediction for equation ./data/testResults/0636.png
+	-	[182, 87, 263, 92]
+	sqrt	[185, 113, 244, 150]
+	sqrt	[192, 26, 244, 63]
+	a	[221, 40, 239, 62]
+	b	[221, 123, 238, 147]
+Prediction for equation ./data/testResults/0150.png
+	c	[159, 76, 176, 100]
+	0	[181, 74, 197, 95]
+	s	[199, 73, 212, 100]
+	-	[228, 70, 266, 80]
+	m	[231, 38, 258, 62]
+	x	[243, 82, 261, 107]
+Prediction for equation ./data/testResults/0178.png
+	s	[136, 74, 161, 104]
+	|	[159, 82, 166, 101]
+	n	[169, 82, 187, 104]
+	x	[209, 78, 230, 103]
+Prediction for equation ./data/testResults/0385.png
+	sqrt	[109, 47, 163, 125]
+	-	[133, 82, 170, 92]
+	a	[139, 57, 158, 80]
+	b	[144, 95, 167, 130]
+Prediction for equation ./data/testResults/0391.png
+	x	[180, 70, 217, 105]
+	2	[216, 44, 239, 67]
+Prediction for equation ./data/testResults/0420.png
+	co	[202, 59, 247, 92]
+	s	[249, 54, 267, 83]
+	-	[272, 57, 323, 71]
+	pi	[277, 29, 305, 52]
+	3	[291, 71, 315, 103]
+Prediction for equation ./data/testResults/0346.png
+	-	[134, 73, 209, 82]
+	sqrt	[144, 28, 200, 66]
+	sqrt	[146, 94, 196, 134]
+	b	[168, 104, 186, 132]
+	a	[170, 45, 190, 65]
+Prediction for equation ./data/testResults/0352.png
+	sqrt	[113, 35, 234, 112]
+	x	[165, 57, 200, 106]
+Prediction for equation ./data/testResults/0434.png
+	-	[63, 47, 137, 61]
+	a	[81, 16, 117, 50]
+	6	[83, 60, 113, 119]
+Prediction for equation ./data/testResults/0408.png
+	s	[93, 65, 116, 106]
+	i	[126, 72, 139, 109]
+	n	[142, 77, 159, 110]
+	x	[174, 68, 201, 104]
+Prediction for equation ./data/testResults/0409.png
+	a	[80, 54, 121, 100]
+	s	[124, 54, 146, 93]
+	x	[171, 48, 200, 91]
+Prediction for equation ./data/testResults/0353.png
+	sqrt	[114, 36, 295, 123]
+	3	[123, 42, 146, 74]
+	x	[187, 62, 221, 110]
+Prediction for equation ./data/testResults/0435.png
+	sqrt	[49, 40, 168, 131]
+	-	[88, 94, 134, 102]
+	a	[90, 65, 116, 93]
+	6	[103, 102, 127, 139]
+Prediction for equation ./data/testResults/0421.png
+	y	[117, 67, 147, 116]
+	2	[149, 42, 175, 70]
+Prediction for equation ./data/testResults/0347.png
+	a	[147, 75, 179, 103]
+	m	[170, 52, 197, 72]
+	n	[206, 51, 224, 71]
+Prediction for equation ./data/testResults/0390.png
+	c	[65, 80, 84, 106]
+	2	[81, 85, 97, 104]
+	s	[99, 77, 116, 104]
+	-	[123, 79, 171, 94]
+	sqrt	[133, 62, 154, 83]
+	6	[137, 91, 152, 120]
+	|	[138, 69, 146, 83]
+Prediction for equation ./data/testResults/0384.png
+	-	[123, 64, 172, 77]
+	x	[129, 39, 159, 67]
+	y	[135, 78, 162, 122]
+Prediction for equation ./data/testResults/0179.png
+	a	[129, 72, 168, 97]
+	s	[175, 70, 188, 93]
+	x	[209, 71, 230, 92]
+Prediction for equation ./data/testResults/0637.png
+	a	[195, 77, 222, 113]
+	m	[223, 58, 249, 79]
+	n	[253, 59, 265, 78]
+Prediction for equation ./data/testResults/0151.png
+	y	[196, 70, 212, 103]
+	2	[216, 59, 234, 76]
+Prediction for equation ./data/testResults/0145.png
+	sqrt	[164, 36, 228, 96]
+	m	[194, 49, 217, 67]
+	-	[195, 65, 224, 74]
+	n	[200, 73, 215, 94]
+Prediction for equation ./data/testResults/0623.png
+	cube root	[116, 63, 203, 110]
+	x	[159, 76, 187, 110]
+Prediction for equation ./data/testResults/0810.png
+	a	[126, 81, 159, 108]
+	s	[162, 75, 179, 105]
+	-	[189, 80, 242, 91]
+	pi	[202, 53, 227, 83]
+	6	[207, 89, 227, 124]
+Prediction for equation ./data/testResults/0804.png
+	-	[148, 74, 195, 84]
+	y	[155, 86, 185, 129]
+	x	[158, 46, 187, 76]
+Prediction for equation ./data/testResults/0192.png
+	n	[145, 120, 161, 134]
+	sqrt	[162, 78, 218, 134]
+	4	[185, 97, 202, 134]
+Prediction for equation ./data/testResults/0186.png
+	-	[126, 67, 212, 79]
+	sqrt	[128, 82, 183, 132]
+	sqrt	[129, 6, 188, 67]
+	b	[157, 92, 182, 133]
+	a	[164, 25, 192, 56]
+Prediction for equation ./data/testResults/0838.png
+	s	[124, 68, 140, 97]
+	1	[149, 75, 155, 92]
+	n	[164, 68, 186, 94]
+	y	[199, 65, 234, 111]
+Prediction for equation ./data/testResults/0019.png
+	c	[148, 68, 172, 102]
+	0	[174, 75, 191, 98]
+	s	[201, 71, 217, 101]
+	x	[217, 69, 259, 105]
+Prediction for equation ./data/testResults/0743.png
+	sqrt	[94, 43, 210, 111]
+	3	[108, 53, 130, 76]
+	(	[146, 64, 162, 114]
+	2	[161, 80, 190, 105]
+	2	[182, 62, 199, 80]
+	)	[198, 60, 212, 112]
+Prediction for equation ./data/testResults/0025.png
+	sqrt	[170, 45, 222, 98]
+	-	[196, 74, 222, 83]
+	2	[199, 56, 218, 70]
+	pi	[202, 80, 224, 100]
+Prediction for equation ./data/testResults/0031.png
+	x	[179, 73, 205, 106]
+	2	[214, 56, 230, 76]
+Prediction for equation ./data/testResults/0757.png
+	a	[80, 72, 122, 104]
+	c	[111, 36, 131, 77]
+	-	[126, 56, 155, 62]
+	m	[127, 37, 150, 55]
+	4	[133, 62, 161, 81]
+	)	[156, 37, 170, 80]
+	(	[179, 38, 202, 86]
+	sqrt	[195, 37, 238, 77]
+	n	[216, 54, 243, 79]
+	)	[241, 36, 256, 87]
+Prediction for equation ./data/testResults/0780.png
+	c	[69, 83, 94, 115]
+	0	[95, 91, 116, 115]
+	s	[123, 85, 141, 120]
+	(	[152, 62, 172, 139]
+	-	[175, 102, 244, 111]
+	x	[179, 70, 210, 101]
+	3	[194, 109, 221, 145]
+	(	[208, 71, 219, 101]
+	n	[215, 80, 237, 101]
+	2	[232, 69, 244, 101]
+	)	[235, 60, 257, 147]
+Prediction for equation ./data/testResults/0794.png
+	-	[152, 61, 197, 73]
+	a	[157, 23, 184, 48]
+	b	[163, 81, 187, 124]
+Prediction for equation ./data/testResults/0569.png
+	c	[126, 64, 142, 90]
+	os	[146, 57, 182, 86]
+	x	[184, 58, 218, 83]
+Prediction for equation ./data/testResults/0227.png
+	a	[185, 73, 223, 114]
+	m	[221, 58, 246, 81]
+	n	[255, 58, 271, 77]
+Prediction for equation ./data/testResults/0541.png
+	x	[169, 71, 212, 125]
+	2	[220, 48, 261, 85]
+Prediction for equation ./data/testResults/0555.png
+	sqrt	[161, 24, 235, 135]
+	-	[191, 67, 246, 75]
+	2	[201, 35, 222, 60]
+	b	[206, 92, 235, 119]
+Prediction for equation ./data/testResults/0233.png
+	3	[94, 63, 116, 89]
+	sqrt	[102, 55, 182, 116]
+	x	[141, 76, 170, 112]
+Prediction for equation ./data/testResults/0582.png
+	sqrt	[119, 41, 239, 100]
+	x	[171, 59, 200, 91]
+Prediction for equation ./data/testResults/0596.png
+	-	[108, 77, 231, 88]
+	sqrt	[122, 94, 219, 143]
+	sqrt	[130, 16, 218, 74]
+	y	[175, 103, 200, 147]
+	x	[178, 34, 205, 62]
+Prediction for equation ./data/testResults/0592.png
+	sqrt	[122, 39, 248, 101]
+	x	[181, 58, 215, 94]
+Prediction for equation ./data/testResults/0586.png
+	-	[114, 59, 225, 71]
+	sqrt	[133, 7, 204, 56]
+	sqrt	[134, 72, 226, 120]
+	a	[171, 24, 197, 47]
+	b	[174, 83, 204, 118]
+Prediction for equation ./data/testResults/0579.png
+	c	[77, 59, 115, 102]
+	0	[126, 75, 148, 95]
+	s	[153, 68, 176, 100]
+	x	[207, 66, 236, 97]
+Prediction for equation ./data/testResults/0237.png
+	2	[125, 64, 154, 114]
+	m	[162, 56, 189, 81]
+	n	[189, 54, 209, 85]
+Prediction for equation ./data/testResults/0551.png
+	x	[199, 65, 232, 114]
+	2	[236, 53, 260, 71]
+Prediction for equation ./data/testResults/0545.png
+	sqrt	[98, 49, 214, 149]
+	-	[135, 94, 187, 108]
+	a	[139, 65, 165, 92]
+	b	[149, 110, 181, 142]
+Prediction for equation ./data/testResults/0223.png
+	3	[135, 39, 163, 68]
+	sqrt	[143, 45, 250, 115]
+	x	[213, 72, 246, 106]
+Prediction for equation ./data/testResults/0790.png
+	0	[79, 65, 110, 119]
+	os	[113, 67, 164, 118]
+	-	[185, 36, 270, 83]
+	pi	[193, 27, 239, 65]
+	6	[209, 82, 237, 133]
+Prediction for equation ./data/testResults/0784.png
+	-	[147, 75, 235, 91]
+	x	[165, 33, 205, 74]
+	4	[178, 89, 230, 146]
+Prediction for equation ./data/testResults/0009.png
+	c	[92, 72, 110, 99]
+	0	[111, 73, 131, 98]
+	s	[133, 72, 148, 96]
+	x	[167, 74, 189, 96]
+Prediction for equation ./data/testResults/0753.png
+	sqrt	[98, 37, 224, 103]
+	3	[104, 49, 124, 70]
+	(	[144, 61, 163, 115]
+	-	[158, 79, 213, 94]
+	y	[159, 64, 174, 87]
+	2	[178, 92, 205, 113]
+	-	[179, 62, 192, 72]
+	s	[195, 50, 211, 77]
+	)	[216, 52, 230, 104]
+Prediction for equation ./data/testResults/0035.png
+	sqrt	[169, 42, 239, 112]
+	-	[206, 84, 225, 90]
+	6	[207, 103, 223, 126]
+	a	[208, 53, 228, 77]
+Prediction for equation ./data/testResults/0021.png
+	2	[162, 69, 187, 94]
+	m	[188, 46, 209, 66]
+Prediction for equation ./data/testResults/0747.png
+	(	[56, 56, 71, 115]
+	2	[77, 61, 103, 109]
+	a	[103, 71, 136, 107]
+	y	[126, 61, 144, 123]
+	(	[141, 47, 153, 76]
+	m	[153, 54, 176, 72]
+	x	[181, 56, 200, 71]
+	)	[204, 43, 217, 77]
+	c	[220, 43, 236, 76]
+	n	[237, 54, 254, 77]
+	x	[257, 54, 275, 77]
+	)	[277, 45, 290, 79]
+Prediction for equation ./data/testResults/0800.png
+	c	[53, 71, 80, 99]
+	0	[81, 72, 106, 94]
+	s	[105, 64, 128, 98]
+	pi	[136, 30, 189, 65]
+	-	[141, 72, 196, 86]
+	4	[151, 94, 185, 140]
+Prediction for equation ./data/testResults/0814.png
+	-	[157, 56, 201, 63]
+	y	[162, 68, 191, 118]
+	x	[168, 27, 189, 50]
+Prediction for equation ./data/testResults/0182.png
+	sqrt	[120, 34, 187, 108]
+	x	[164, 62, 195, 100]
+Prediction for equation ./data/testResults/0196.png
+	-	[253, 107, 343, 116]
+	n	[266, 153, 281, 161]
+	sqrt	[269, 65, 317, 106]
+	sqrt	[277, 128, 321, 161]
+	a	[293, 83, 310, 100]
+	x	[295, 142, 313, 161]
+Prediction for equation ./data/testResults/0828.png
+	s	[134, 68, 148, 98]
+	c	[159, 62, 171, 92]
+	n	[178, 71, 202, 92]
+	a	[218, 65, 241, 90]
+Prediction for equation ./data/testResults/0169.png
+	(	[107, 63, 119, 88]
+	0	[119, 64, 139, 84]
+	s	[140, 62, 154, 87]
+	a	[168, 65, 191, 84]
+Prediction for equation ./data/testResults/0627.png
+	a	[129, 62, 167, 102]
+	m	[157, 53, 177, 74]
+	n	[176, 49, 193, 71]
+Prediction for equation ./data/testResults/0141.png
+	a	[175, 69, 193, 98]
+	m	[197, 51, 218, 68]
+Prediction for equation ./data/testResults/0155.png
+	sqrt	[191, 39, 253, 106]
+	n	[218, 93, 236, 112]
+	m	[219, 54, 239, 71]
+	-	[219, 76, 237, 84]
+Prediction for equation ./data/testResults/0633.png
+	s	[204, 62, 214, 82]
+	sqrt	[204, 64, 255, 108]
+	x	[236, 76, 252, 104]
+Prediction for equation ./data/testResults/0380.png
+	a	[120, 86, 154, 127]
+	s	[154, 96, 173, 125]
+	-	[200, 97, 230, 104]
+	pi	[202, 64, 222, 92]
+	2	[209, 110, 229, 135]
+	v	[215, 70, 235, 90]
+Prediction for equation ./data/testResults/0394.png
+	-	[141, 56, 222, 63]
+	y	[162, 80, 186, 118]
+	x	[165, 22, 195, 48]
+Prediction for equation ./data/testResults/0419.png
+	cos	[228, 53, 291, 87]
+	y	[324, 55, 348, 104]
+Prediction for equation ./data/testResults/0343.png
+	sqrt	[120, 59, 201, 108]
+	3	[122, 51, 140, 77]
+	x	[161, 73, 181, 104]
+Prediction for equation ./data/testResults/0425.png
+	sqrt	[32, 37, 187, 131]
+	-	[90, 75, 139, 84]
+	b	[97, 92, 121, 138]
+	a	[100, 54, 121, 76]
+Prediction for equation ./data/testResults/0431.png
+	b	[90, 33, 122, 108]
+	2	[130, 30, 158, 59]
+Prediction for equation ./data/testResults/0357.png
+	a	[132, 79, 167, 112]
+	m	[162, 51, 190, 79]
+	n	[193, 52, 216, 80]
+Prediction for equation ./data/testResults/0430.png
+	a	[34, 58, 78, 108]
+	s	[77, 58, 98, 105]
+	-	[118, 64, 168, 78]
+	pi	[125, 29, 173, 66]
+	3	[132, 81, 163, 126]
+Prediction for equation ./data/testResults/0356.png
+	-	[140, 68, 234, 82]
+	sqrt	[145, 88, 217, 145]
+	sqrt	[150, 9, 214, 64]
+	a	[180, 34, 205, 52]
+	b	[183, 107, 205, 145]
+Prediction for equation ./data/testResults/0342.png
+	sqrt	[127, 62, 202, 113]
+	x	[162, 80, 184, 109]
+Prediction for equation ./data/testResults/0424.png
+	-	[88, 52, 144, 60]
+	a	[98, 18, 135, 51]
+	x	[98, 68, 131, 103]
+Prediction for equation ./data/testResults/0418.png
+	s	[233, 60, 259, 93]
+	i	[263, 52, 268, 63]
+	c	[265, 69, 274, 89]
+	n	[275, 61, 295, 84]
+	x	[312, 58, 338, 90]
+Prediction for equation ./data/testResults/0395.png
+	sqrt	[130, 25, 229, 106]
+	-	[182, 66, 219, 74]
+	a	[188, 42, 210, 61]
+	b	[190, 80, 205, 107]
+Prediction for equation ./data/testResults/0381.png
+	x	[145, 80, 173, 115]
+	2	[173, 73, 188, 93]
+Prediction for equation ./data/testResults/0154.png
+	-	[208, 61, 235, 72]
+	m	[211, 30, 233, 52]
+	n	[213, 79, 231, 102]
+Prediction for equation ./data/testResults/0632.png
+	sqrt	[200, 64, 252, 112]
+	x	[226, 87, 245, 111]
+Prediction for equation ./data/testResults/0626.png
+	-	[134, 57, 229, 69]
+	sqrt	[138, 13, 204, 57]
+	sqrt	[144, 81, 217, 123]
+	a	[167, 31, 202, 53]
+	b	[180, 98, 202, 129]
+Prediction for equation ./data/testResults/0140.png
+	c	[164, 65, 180, 88]
+	0	[182, 62, 197, 87]
+	s	[199, 66, 212, 87]
+	-	[225, 64, 269, 73]
+	pi	[229, 38, 255, 59]
+	m	[233, 75, 260, 101]
+Prediction for equation ./data/testResults/0168.png
+	s	[108, 74, 123, 101]
+	1	[123, 78, 132, 97]
+	n	[133, 73, 156, 97]
+	|	[171, 72, 192, 93]
+Prediction for equation ./data/testResults/0197.png
+	a	[135, 93, 164, 131]
+	m	[171, 79, 191, 99]
+	n	[194, 78, 208, 94]
+Prediction for equation ./data/testResults/0829.png
+	c	[115, 50, 132, 76]
+	0	[135, 53, 155, 76]
+	s	[159, 48, 173, 77]
+	b	[203, 36, 229, 80]
+Prediction for equation ./data/testResults/0183.png
+	3	[112, 43, 135, 82]
+	sqrt	[125, 45, 179, 113]
+	x	[151, 69, 180, 104]
+Prediction for equation ./data/testResults/0815.png
+	sqrt	[127, 42, 190, 117]
+	-	[147, 80, 181, 87]
+	a	[153, 53, 172, 80]
+	b	[156, 90, 174, 125]
+Prediction for equation ./data/testResults/0801.png
+	x	[149, 73, 182, 107]
+	2	[180, 64, 199, 81]
+Prediction for equation ./data/testResults/0020.png
+	c	[124, 61, 142, 88]
+	6	[150, 58, 165, 81]
+	s	[177, 50, 189, 79]
+	pi	[208, 43, 258, 84]
+	6	[224, 86, 246, 123]
+Prediction for equation ./data/testResults/0746.png
+	sqrt	[99, 22, 184, 65]
+	sqrt	[107, 74, 187, 124]
+	-	[108, 65, 193, 74]
+	a	[140, 43, 160, 65]
+	b	[151, 89, 167, 121]
+	4	[163, 31, 177, 50]
+Prediction for equation ./data/testResults/0752.png
+	sqrt	[111, 46, 251, 100]
+	(	[148, 63, 164, 103]
+	x	[164, 69, 187, 97]
+	+	[189, 72, 203, 91]
+	2	[205, 63, 226, 98]
+	)	[225, 63, 235, 100]
+	2	[230, 55, 247, 72]
+Prediction for equation ./data/testResults/0034.png
+	x	[180, 33, 207, 60]
+	-	[187, 69, 207, 76]
+	y	[187, 86, 208, 122]
+Prediction for equation ./data/testResults/0008.png
+	s	[99, 82, 117, 111]
+	i	[121, 64, 130, 111]
+	n	[128, 83, 151, 108]
+	x	[170, 80, 195, 103]
+Prediction for equation ./data/testResults/0785.png
+	sqrt	[128, 24, 251, 137]
+	-	[171, 75, 235, 86]
+	b	[185, 93, 218, 142]
+	a	[186, 46, 225, 71]
+Prediction for equation ./data/testResults/0791.png
+	x	[173, 60, 207, 100]
+	dot	[219, 30, 229, 40]
+	2	[224, 30, 256, 55]
+Prediction for equation ./data/testResults/0544.png
+	-	[100, 75, 183, 85]
+	y	[125, 95, 157, 145]
+	x	[126, 31, 160, 69]
+Prediction for equation ./data/testResults/0222.png
+	sqrt	[140, 48, 231, 105]
+	x	[206, 64, 231, 97]
+Prediction for equation ./data/testResults/0236.png
+	-	[124, 67, 215, 81]
+	sqrt	[131, 84, 196, 140]
+	sqrt	[136, 8, 203, 61]
+	b	[165, 102, 192, 138]
+	2	[174, 25, 198, 58]
+Prediction for equation ./data/testResults/0550.png
+	c	[81, 58, 108, 90]
+	0	[114, 61, 137, 90]
+	s	[141, 58, 171, 92]
+	(	[190, 35, 222, 126]
+	-	[213, 84, 252, 91]
+	pi	[222, 42, 256, 76]
+	2	[227, 93, 265, 119]
+	)	[262, 30, 287, 124]
+Prediction for equation ./data/testResults/0578.png
+	s	[76, 71, 119, 103]
+	|	[121, 83, 132, 100]
+	n	[132, 81, 160, 98]
+	x	[175, 65, 205, 100]
+Prediction for equation ./data/testResults/0587.png
+	x	[111, 60, 135, 98]
+	m	[139, 45, 167, 63]
+	n	[167, 46, 189, 64]
+Prediction for equation ./data/testResults/0593.png
+	3	[117, 36, 136, 61]
+	sqrt	[121, 41, 248, 107]
+	a	[186, 62, 222, 91]
+Prediction for equation ./data/testResults/0585.png
+	sqrt	[106, 26, 266, 112]
+	-	[162, 76, 239, 82]
+	x	[183, 42, 213, 70]
+	y	[186, 88, 212, 132]
+Prediction for equation ./data/testResults/0591.png
+	x	[193, 52, 227, 100]
+	2	[231, 32, 259, 57]
+Prediction for equation ./data/testResults/0208.png
+	s	[129, 75, 148, 102]
+	|	[151, 83, 157, 99]
+	n	[159, 80, 180, 100]
+	x	[205, 77, 226, 103]
+Prediction for equation ./data/testResults/0220.png
+	c	[148, 70, 168, 101]
+	0	[168, 80, 186, 105]
+	s	[187, 75, 202, 100]
+	-	[207, 70, 245, 77]
+	pi	[214, 39, 244, 67]
+	8	[219, 83, 236, 113]
+Prediction for equation ./data/testResults/0546.png
+	-	[85, 91, 217, 107]
+	sqrt	[97, 20, 210, 86]
+	sqrt	[118, 100, 205, 161]
+	x	[142, 40, 181, 82]
+	4	[160, 117, 189, 161]
+Prediction for equation ./data/testResults/0552.png
+	sqrt	[168, 70, 251, 111]
+	x	[211, 84, 242, 116]
+Prediction for equation ./data/testResults/0234.png
+	-	[112, 60, 176, 73]
+	y	[130, 76, 156, 131]
+	x	[132, 25, 164, 59]
+Prediction for equation ./data/testResults/0787.png
+	a	[131, 89, 181, 127]
+	m	[177, 66, 217, 92]
+	n	[220, 68, 252, 95]
+Prediction for equation ./data/testResults/0793.png
+	3	[113, 44, 140, 85]
+	sqrt	[132, 39, 255, 121]
+	x	[187, 78, 215, 109]
+Prediction for equation ./data/testResults/0778.png
+	s	[83, 88, 104, 121]
+	i	[108, 84, 119, 124]
+	n	[126, 90, 154, 124]
+	(	[158, 66, 183, 132]
+	x	[181, 93, 212, 127]
+	2	[207, 78, 230, 97]
+	)	[226, 69, 246, 127]
+Prediction for equation ./data/testResults/0744.png
+	-	[132, 71, 181, 78]
+	y	[147, 27, 166, 67]
+	x	[147, 93, 167, 116]
+Prediction for equation ./data/testResults/0022.png
+	sqrt	[168, 61, 209, 97]
+	2	[188, 72, 211, 92]
+Prediction for equation ./data/testResults/0036.png
+	sqrt	[178, 27, 222, 67]
+	-	[179, 71, 225, 86]
+	sqrt	[189, 81, 231, 124]
+	a	[199, 43, 220, 66]
+	b	[209, 99, 227, 123]
+Prediction for equation ./data/testResults/0750.png
+	c	[76, 83, 102, 113]
+	dot	[98, 85, 118, 111]
+	s	[120, 83, 136, 113]
+	(	[149, 54, 174, 132]
+	2	[183, 54, 210, 85]
+	-	[186, 81, 242, 95]
+	6	[201, 95, 226, 132]
+	pi	[207, 54, 239, 84]
+	)	[237, 52, 263, 129]
+Prediction for equation ./data/testResults/0817.png
+	a	[151, 73, 181, 99]
+	m	[176, 52, 201, 73]
+	n	[203, 47, 219, 70]
+Prediction for equation ./data/testResults/0803.png
+	3	[140, 68, 153, 88]
+	sqrt	[141, 77, 193, 123]
+	x	[162, 92, 190, 118]
+Prediction for equation ./data/testResults/0195.png
+	sqrt	[248, 75, 336, 150]
+	-	[261, 123, 339, 132]
+	a	[288, 93, 307, 118]
+Prediction for equation ./data/testResults/0181.png
+	x	[137, 65, 179, 109]
+	2	[186, 51, 206, 77]
+Prediction for equation ./data/testResults/0618.png
+	s	[99, 77, 116, 100]
+	(	[124, 79, 129, 100]
+	n	[132, 78, 154, 99]
+	x	[159, 74, 183, 98]
+Prediction for equation ./data/testResults/0630.png
+	c	[98, 58, 120, 102]
+	0	[126, 60, 154, 101]
+	s	[160, 59, 183, 98]
+	-	[188, 64, 236, 79]
+	pi	[191, 32, 245, 65]
+	6	[202, 82, 220, 121]
+Prediction for equation ./data/testResults/0156.png
+	-	[193, 75, 232, 86]
+	sqrt	[197, 37, 231, 70]
+	pi	[202, 96, 237, 125]
+	)	[216, 48, 236, 140]
+Prediction for equation ./data/testResults/0142.png
+	sqrt	[172, 59, 217, 103]
+	m	[192, 74, 215, 96]
+Prediction for equation ./data/testResults/0624.png
+	-	[161, 70, 226, 82]
+	x	[172, 29, 202, 64]
+	y	[177, 88, 197, 133]
+Prediction for equation ./data/testResults/0397.png
+	a	[130, 69, 167, 94]
+	m	[159, 55, 184, 68]
+	n	[185, 55, 202, 71]
+Prediction for equation ./data/testResults/0383.png
+	3	[91, 68, 108, 89]
+	sqrt	[101, 62, 148, 113]
+	x	[128, 79, 155, 108]
+Prediction for equation ./data/testResults/0368.png
+	s	[172, 71, 187, 95]
+	1	[189, 74, 194, 91]
+	|	[191, 58, 197, 68]
+	n	[199, 71, 216, 91]
+	y	[241, 68, 260, 100]
+Prediction for equation ./data/testResults/0354.png
+	-	[152, 65, 195, 77]
+	x	[157, 16, 187, 56]
+	y	[165, 88, 187, 139]
+Prediction for equation ./data/testResults/0432.png
+	sqrt	[62, 38, 160, 115]
+	x	[106, 61, 142, 111]
+Prediction for equation ./data/testResults/0426.png
+	sqrt	[69, 11, 163, 53]
+	-	[69, 63, 157, 73]
+	sqrt	[75, 85, 151, 128]
+	y	[112, 93, 142, 138]
+	x	[116, 22, 141, 54]
+Prediction for equation ./data/testResults/0340.png
+	c	[31, 51, 47, 92]
+	0	[51, 53, 72, 84]
+	s	[73, 50, 96, 82]
+	-	[113, 69, 186, 90]
+	pi	[125, 32, 153, 66]
+	(	[130, 39, 140, 70]
+	(	[139, 90, 148, 125]
+	(	[155, 93, 172, 126]
+Prediction for equation ./data/testResults/0427.png
+	b	[79, 67, 103, 107]
+	n	[105, 49, 126, 72]
+	y	[133, 45, 153, 81]
+Prediction for equation ./data/testResults/0341.png
+	x	[169, 77, 194, 122]
+	2	[196, 51, 217, 74]
+Prediction for equation ./data/testResults/0355.png
+	sqrt	[134, 26, 234, 138]
+	-	[171, 75, 213, 84]
+	a	[178, 44, 202, 66]
+	b	[182, 95, 205, 125]
+Prediction for equation ./data/testResults/0433.png
+	sqrt	[52, 43, 182, 117]
+	3	[65, 50, 84, 90]
+	x	[123, 69, 156, 117]
+Prediction for equation ./data/testResults/0369.png
+	c	[171, 71, 190, 102]
+	0	[190, 74, 205, 98]
+	s	[204, 75, 219, 97]
+	x	[251, 69, 278, 97]
+Prediction for equation ./data/testResults/0382.png
+	sqrt	[117, 57, 155, 106]
+	x	[136, 73, 163, 99]
+Prediction for equation ./data/testResults/0396.png
+	-	[140, 67, 226, 77]
+	sqrt	[140, 82, 200, 121]
+	sqrt	[143, 20, 203, 59]
+	a	[174, 35, 198, 54]
+	b	[174, 93, 189, 121]
+Prediction for equation ./data/testResults/0143.png
+	m	[150, 57, 168, 76]
+	sqrt	[172, 51, 214, 92]
+	a	[193, 68, 209, 90]
+Prediction for equation ./data/testResults/0625.png
+	sqrt	[148, 33, 217, 134]
+	-	[180, 82, 212, 90]
+	a	[182, 53, 209, 80]
+	b	[190, 98, 215, 131]
+Prediction for equation ./data/testResults/0631.png
+	x	[217, 80, 239, 110]
+	2	[248, 58, 264, 78]
+Prediction for equation ./data/testResults/0157.png
+	3	[191, 69, 211, 98]
+	x	[211, 56, 226, 76]
+	y	[227, 55, 242, 82]
+Prediction for equation ./data/testResults/0619.png
+	c	[89, 74, 103, 97]
+	0	[107, 76, 121, 97]
+	s	[126, 75, 136, 98]
+	x	[153, 73, 173, 99]
+Prediction for equation ./data/testResults/0180.png
+	co	[125, 74, 162, 103]
+	s	[160, 78, 174, 100]
+	-	[192, 80, 231, 88]
+	6	[199, 91, 216, 115]
+	pi	[200, 55, 225, 76]
+Prediction for equation ./data/testResults/0194.png
+	-	[131, 110, 213, 122]
+	1	[136, 13, 142, 23]
+	|	[155, 13, 164, 26]
+	x	[159, 78, 180, 110]
+	|	[160, 137, 167, 150]
+	|	[171, 134, 178, 150]
+	|	[198, 13, 207, 26]
+Prediction for equation ./data/testResults/0802.png
+	sqrt	[149, 71, 198, 119]
+	x	[168, 86, 195, 114]
+Prediction for equation ./data/testResults/0816.png
+	-	[137, 70, 203, 81]
+	sqrt	[139, 26, 192, 71]
+	sqrt	[143, 81, 208, 121]
+	a	[165, 47, 189, 67]
+	b	[177, 93, 196, 125]
+Prediction for equation ./data/testResults/0037.png
+	a	[165, 71, 191, 98]
+	m	[191, 52, 209, 70]
+	n	[209, 54, 222, 71]
+Prediction for equation ./data/testResults/0751.png
+	(	[121, 51, 142, 111]
+	-	[148, 80, 181, 90]
+	x	[151, 57, 172, 82]
+	2	[158, 89, 186, 108]
+	)	[188, 58, 206, 109]
+	2	[206, 40, 233, 62]
+Prediction for equation ./data/testResults/0745.png
+	sqrt	[82, 41, 195, 133]
+	-	[132, 91, 193, 99]
+	s	[134, 54, 159, 90]
+	2	[136, 101, 154, 137]
+	a	[162, 67, 182, 87]
+	b	[163, 101, 180, 138]
+Prediction for equation ./data/testResults/0023.png
+	m	[160, 69, 178, 87]
+	sqrt	[171, 63, 213, 105]
+	2	[194, 73, 212, 96]
+Prediction for equation ./data/testResults/0779.png
+	c	[83, 85, 106, 116]
+	0	[107, 88, 128, 117]
+	s	[130, 86, 148, 122]
+	(	[159, 72, 177, 124]
+	y	[187, 85, 206, 127]
+	-	[200, 76, 218, 83]
+	1	[218, 61, 231, 93]
+	)	[234, 69, 249, 127]
+Prediction for equation ./data/testResults/0792.png
+	sqrt	[142, 33, 224, 101]
+	x	[177, 66, 204, 94]
+Prediction for equation ./data/testResults/0786.png
+	-	[94, 77, 301, 90]
 	sqrt	[123, 98, 233, 161]
 	sqrt	[129, 15, 223, 74]
-	a	[171, 42, 216, 69]
+	a	[171, 42, 216, 68]
 	b	[176, 114, 211, 161]
-predict for equation ./test_toy_res/0014.png
-	b	[138, 54, 153, 87]
-	d	[138, 75, 171, 121]
-	-	[157, 58, 204, 68]
-	a	[176, 89, 199, 114]
-predict for equation ./test_toy_res/0015.png
-	-	[147, 74, 235, 92]
-	x	[164, 33, 205, 75]
-	4	[178, 89, 230, 146]
-predict for equation ./test_toy_res/0029.png
-	-	[103, 88, 199, 109]
-	sqrt	[117, 106, 170, 159]
-	sqrt	[122, 32, 169, 86]
-	y	[141, 122, 164, 161]
-	x	[143, 48, 164, 78]
-predict for equation ./test_toy_res/0017.png
-	s	[135, 77, 149, 108]
-	1	[151, 81, 158, 99]
-	n	[162, 81, 185, 97]
-	m	[208, 80, 243, 97]
-predict for equation ./test_toy_res/0016.png
-	c	[56, 75, 72, 101]
-	0	[81, 79, 99, 100]
-	s	[106, 74, 120, 103]
-	(	[137, 59, 154, 111]
-	s	[159, 73, 175, 102]
-	|	[181, 82, 189, 98]
-	n	[191, 75, 210, 100]
-	(	[218, 57, 236, 114]
-	1	[237, 68, 250, 102]
-	dot	[256, 86, 263, 96]
-	s	[266, 63, 289, 106]
-	)	[290, 55, 306, 106]
-	)	[310, 54, 324, 108]
-predict for equation ./test_toy_res/0027.png
-	a	[82, 73, 119, 102]
-	(	[112, 36, 128, 75]
-	m	[128, 38, 149, 53]
-	-	[128, 56, 152, 62]
-	2	[134, 62, 153, 79]
-	)	[157, 37, 168, 78]
-	(	[180, 39, 195, 84]
-	sqrt	[196, 38, 236, 75]
-	n	[217, 55, 237, 77]
-	)	[242, 36, 254, 84]
-predict for equation ./test_toy_res/0033.png
-	c	[124, 69, 139, 93]
-	0	[139, 68, 160, 88]
-	s	[166, 66, 180, 91]
-	n	[204, 67, 233, 93]
-predict for equation ./test_toy_res/0032.png
-	c	[83, 71, 97, 94]
-	0	[104, 69, 121, 93]
-	s	[128, 68, 142, 95]
-	(	[158, 48, 180, 110]
-	(	[180, 50, 190, 75]
-	-	[183, 81, 275, 88]
-	2	[190, 49, 207, 71]
-	(	[190, 90, 200, 116]
-	n	[202, 100, 218, 117]
-	n	[210, 56, 226, 75]
-	dot	[223, 102, 230, 109]
-	6	[233, 92, 246, 113]
-	x	[243, 51, 268, 76]
-	)	[255, 92, 261, 112]
-	)	[270, 50, 279, 83]
-	)	[281, 46, 296, 113]
-predict for equation ./test_toy_res/0026.png
-	sqrt	[99, 23, 184, 64]
-	sqrt	[107, 74, 185, 123]
-	-	[108, 66, 192, 74]
-	a	[140, 44, 160, 65]
-	b	[152, 89, 166, 121]
-	4	[163, 31, 176, 51]
-	3	[165, 81, 187, 105]
-predict for equation ./test_toy_res/0030.png
-	-	[163, 73, 208, 83]
-	x	[174, 32, 194, 59]
-	y	[174, 87, 196, 122]
-predict for equation ./test_toy_res/0024.png
-	sqrt	[111, 46, 251, 99]
-	(	[148, 62, 165, 104]
-	x	[161, 68, 187, 97]
-	+	[188, 71, 203, 91]
-	2	[204, 63, 225, 97]
-	)	[224, 62, 235, 100]
-	pi	[229, 55, 247, 71]
-predict for equation ./test_toy_res/0018.png
-	a	[124, 94, 159, 129]
-	n	[151, 89, 168, 109]
-	m	[169, 84, 199, 109]
-predict for equation ./test_toy_res/0019.png
-	-	[121, 67, 194, 77]
-	sqrt	[126, 19, 186, 63]
-	sqrt	[133, 89, 202, 138]
-	a	[152, 32, 183, 57]
-	b	[164, 106, 189, 139]
-predict for equation ./test_toy_res/0025.png
-	cos	[153, 67, 186, 89]
-	s	[191, 62, 206, 86]
-	y	[219, 65, 238, 105]
-predict for equation ./test_toy_res/0031.png
-	sqrt	[130, 66, 198, 130]
-	n	[164, 94, 188, 122]
-predict for equation ./test_toy_res/0035.png
-	c	[107, 84, 125, 115]
-	0	[124, 89, 140, 109]
-	s	[139, 79, 156, 113]
-	y	[168, 80, 191, 126]
-predict for equation ./test_toy_res/0021.png
-	-	[144, 74, 227, 85]
-	sqrt	[150, 23, 198, 67]
-	sqrt	[155, 97, 208, 136]
-	a	[177, 38, 200, 58]
-	b	[186, 108, 203, 133]
-predict for equation ./test_toy_res/0020.png
-	-	[141, 83, 214, 98]
-	sqrt	[147, 31, 211, 76]
-	sqrt	[155, 109, 201, 143]
-	m	[170, 48, 201, 66]
-	n	[171, 125, 191, 143]
-predict for equation ./test_toy_res/0034.png
-	sqrt	[107, 72, 154, 124]
-	a	[129, 90, 164, 122]
-predict for equation ./test_toy_res/0022.png
-	sqrt	[90, 75, 203, 124]
-	sqrt	[92, 4, 189, 56]
-	-	[104, 55, 189, 69]
-	(	[125, 88, 142, 130]
-	y	[132, 86, 149, 120]
-	a	[138, 33, 160, 53]
-	b	[148, 86, 167, 125]
-	2	[158, 19, 176, 35]
-	+	[165, 99, 177, 107]
-	i	[174, 24, 190, 123]
-	)	[192, 88, 205, 132]
-predict for equation ./test_toy_res/0036.png
-	s	[84, 89, 104, 121]
-	|	[112, 95, 118, 123]
-	n	[127, 90, 146, 123]
-	(	[159, 67, 178, 132]
-	x	[182, 94, 212, 126]
-	2	[208, 79, 227, 96]
-	)	[227, 70, 246, 126]
-predict for equation ./test_toy_res/0037.png
-	sqrt	[117, 14, 210, 89]
-	-	[157, 52, 206, 64]
-	a	[164, 81, 210, 103]
-	x	[173, 29, 192, 50]
-predict for equation ./test_toy_res/0023.png
-	sqrt	[142, 33, 224, 101]
-	x	[178, 67, 204, 94]
-predict for equation ./test_toy_res/0087.png
-	sqrt	[101, 44, 259, 133]
-	3	[116, 45, 143, 84]
-	x	[184, 78, 225, 131]
-predict for equation ./test_toy_res/0093.png
-	sqrt	[108, 47, 204, 104]
-	2	[153, 64, 183, 102]
-	x	[184, 78, 204, 101]
-predict for equation ./test_toy_res/0044.png
-	sqrt	[103, 104, 245, 145]
-	sqrt	[104, 24, 245, 77]
-	-	[113, 81, 234, 95]
-	(	[147, 114, 165, 150]
-	(	[149, 39, 166, 82]
-	1	[165, 116, 180, 153]
-	a	[169, 56, 190, 78]
-	i	[185, 58, 206, 151]
-	b	[203, 117, 218, 153]
-	3	[204, 44, 223, 80]
-	)	[218, 116, 232, 156]
-	)	[220, 40, 233, 80]
-predict for equation ./test_toy_res/0050.png
-	c	[117, 74, 140, 99]
-	0	[139, 78, 158, 97]
-	s	[158, 77, 184, 104]
-	y	[201, 75, 225, 115]
-predict for equation ./test_toy_res/0078.png
-	-	[99, 95, 182, 118]
-	y	[128, 49, 160, 89]
-	x	[143, 105, 168, 136]
-predict for equation ./test_toy_res/0079.png
-	s	[150, 79, 171, 106]
-	n	[172, 88, 193, 104]
-	x	[199, 76, 223, 102]
-predict for equation ./test_toy_res/0051.png
-	s	[107, 81, 146, 123]
-	i	[150, 76, 160, 122]
-	n	[165, 94, 207, 127]
-	x	[222, 75, 268, 128]
-predict for equation ./test_toy_res/0045.png
-	-	[130, 60, 236, 73]
-	(	[140, 29, 153, 59]
-	c	[140, 81, 158, 114]
-	x	[155, 35, 175, 55]
-	y	[162, 88, 178, 118]
-	+	[182, 34, 192, 48]
-	1	[198, 23, 213, 55]
-	1	[204, 75, 218, 104]
-	)	[220, 27, 231, 62]
-	)	[228, 80, 239, 114]
-predict for equation ./test_toy_res/0092.png
-	sqrt	[112, 45, 230, 124]
-	(	[153, 62, 167, 134]
-	pi	[169, 93, 206, 116]
-	c	[172, 68, 191, 88]
-	d	[173, 100, 189, 130]
-	3	[190, 55, 206, 70]
-	)	[212, 59, 224, 115]
-predict for equation ./test_toy_res/0086.png
-	y	[144, 70, 166, 119]
-	2	[168, 47, 194, 75]
-predict for equation ./test_toy_res/0090.png
-	s	[79, 89, 93, 117]
-	|	[100, 97, 108, 118]
-	n	[118, 95, 139, 117]
-	(	[150, 74, 167, 122]
-	1	[172, 75, 185, 113]
-	)	[194, 71, 208, 126]
-predict for equation ./test_toy_res/0084.png
-	a	[103, 76, 137, 101]
-	(	[122, 47, 132, 75]
-	-	[132, 58, 153, 66]
-	m	[156, 53, 184, 76]
-	s	[182, 48, 199, 77]
-	(	[200, 47, 212, 81]
-	n	[212, 61, 242, 87]
-	+	[228, 30, 269, 84]
-predict for equation ./test_toy_res/0053.png
-	a	[139, 79, 168, 109]
-	mn	[172, 61, 219, 84]
-predict for equation ./test_toy_res/0047.png
-	c	[58, 79, 76, 105]
-	0	[85, 80, 104, 104]
-	s	[112, 80, 126, 109]
-	(	[139, 66, 158, 123]
-	c	[160, 87, 174, 113]
-	0	[183, 89, 196, 109]
-	s	[198, 84, 212, 109]
-	1	[221, 61, 231, 82]
-	(	[236, 67, 249, 115]
-	0	[253, 71, 275, 116]
-	s	[296, 74, 317, 112]
-	)	[322, 68, 335, 118]
-	)	[337, 67, 349, 125]
-predict for equation ./test_toy_res/008.png
-	c	[87, 66, 132, 121]
-	os	[131, 74, 184, 118]
-	x	[217, 70, 255, 113]
-predict for equation ./test_toy_res/009.png
-	3	[111, 52, 122, 77]
-	sqrt	[119, 65, 178, 110]
-	m	[145, 87, 180, 105]
-predict for equation ./test_toy_res/0046.png
-	b	[147, 63, 166, 95]
-	x	[173, 43, 192, 60]
-	y	[198, 45, 226, 76]
-predict for equation ./test_toy_res/0052.png
-	sqrt	[93, 15, 206, 65]
-	sqrt	[99, 86, 205, 128]
-	-	[101, 70, 220, 86]
-	(	[137, 31, 148, 61]
-	a	[149, 42, 164, 58]
-	b	[149, 100, 163, 126]
-	s	[168, 94, 188, 115]
-	+	[173, 39, 181, 50]
-	c	[186, 37, 205, 58]
-	)	[204, 31, 212, 60]
-predict for equation ./test_toy_res/0085.png
-	x	[174, 60, 206, 99]
-	dot	[219, 30, 227, 39]
-	2	[224, 30, 255, 54]
-predict for equation ./test_toy_res/0091.png
-	sqrt	[94, 43, 209, 110]
-	3	[108, 53, 129, 75]
-	(	[146, 64, 161, 113]
-	z_no_line	[161, 80, 189, 104]
-	2	[182, 62, 198, 79]
-	)	[198, 60, 211, 111]
-predict for equation ./test_toy_res/0095.png
-	sqrt	[129, 54, 202, 126]
-	m	[156, 72, 188, 91]
-	-	[156, 89, 200, 101]
-	n	[168, 106, 189, 122]
-predict for equation ./test_toy_res/0081.png
-	-	[152, 61, 197, 72]
-	a	[158, 24, 184, 48]
-	b	[163, 81, 187, 123]
-predict for equation ./test_toy_res/0056.png
-	a	[124, 83, 163, 129]
-	x	[164, 69, 179, 91]
-	y	[183, 68, 198, 96]
-predict for equation ./test_toy_res/0042.png
-	c	[114, 76, 130, 101]
-	0	[135, 76, 155, 99]
-	s	[163, 73, 177, 99]
-	-	[195, 78, 246, 89]
-	pi	[197, 40, 233, 69]
-	3	[208, 101, 224, 136]
-predict for equation ./test_toy_res/0043.png
-	sqrt	[119, 59, 176, 131]
-	-	[140, 92, 180, 109]
-	a	[147, 69, 171, 91]
-	b	[152, 103, 174, 134]
-predict for equation ./test_toy_res/0057.png
-	y	[122, 71, 158, 130]
-	2	[159, 59, 181, 91]
-predict for equation ./test_toy_res/0080.png
-	a	[141, 71, 171, 98]
-	s	[170, 73, 186, 93]
-	x	[199, 69, 221, 96]
-predict for equation ./test_toy_res/0094.png
-	c	[75, 85, 95, 114]
-	0	[106, 86, 124, 110]
-	s	[131, 85, 143, 113]
-	(	[162, 55, 184, 124]
-	-	[185, 94, 217, 100]
-	x	[189, 61, 221, 89]
-	2	[194, 104, 213, 124]
-	-	[226, 92, 239, 98]
-	1	[250, 67, 264, 118]
-	)	[271, 59, 288, 123]
-predict for equation ./test_toy_res/0082.png
-	c	[78, 83, 96, 111]
-	0	[99, 88, 114, 105]
-	s	[117, 82, 134, 114]
-	(	[155, 64, 169, 123]
-	c	[180, 61, 202, 115]
-	|	[197, 105, 205, 119]
-	s	[205, 69, 230, 128]
-predict for equation ./test_toy_res/0096.png
-	c	[70, 84, 89, 114]
-	0	[96, 92, 115, 115]
-	s	[124, 87, 140, 119]
-	(	[153, 63, 170, 138]
-	z_line	[176, 70, 244, 110]
-	x	[180, 71, 209, 101]
-	3	[196, 110, 220, 144]
-	n	[215, 80, 233, 100]
-	)	[237, 61, 256, 145]
-predict for equation ./test_toy_res/0069.png
-	sqrt	[106, 65, 172, 113]
-	m	[133, 87, 167, 107]
-predict for equation ./test_toy_res/0041.png
-	sqrt	[103, 40, 229, 106]
-	(	[154, 59, 167, 101]
-	z_no_line	[164, 72, 205, 101]
-	3	[195, 57, 219, 82]
-	)	[221, 57, 230, 99]
-predict for equation ./test_toy_res/0055.png
-	a	[131, 69, 167, 96]
-	m	[162, 50, 184, 71]
-	n	[186, 47, 207, 66]
-predict for equation ./test_toy_res/0054.png
-	sqrt	[111, 34, 182, 128]
-	a	[145, 53, 181, 77]
-	-	[146, 78, 193, 87]
-	b	[158, 89, 187, 127]
-predict for equation ./test_toy_res/0040.png
-	(	[137, 53, 155, 103]
-	z_no_line	[152, 73, 191, 95]
-	2	[190, 47, 213, 69]
-	)	[215, 50, 230, 107]
-	2	[225, 29, 254, 55]
-predict for equation ./test_toy_res/0068.png
-	sqrt	[98, 37, 224, 103]
-	3	[105, 49, 123, 71]
-	(	[144, 60, 165, 115]
-	2	[158, 64, 213, 93]
-	-	[178, 63, 193, 71]
-	2	[178, 92, 206, 113]
-	s	[195, 50, 211, 77]
-	)	[214, 51, 230, 107]
-predict for equation ./test_toy_res/0097.png
-	(	[117, 74, 128, 107]
-	-	[118, 53, 220, 62]
-	x	[124, 30, 141, 47]
-	y	[128, 78, 147, 109]
-	+	[140, 29, 158, 47]
-	-	[152, 83, 165, 89]
-	2	[160, 22, 185, 44]
-	2	[169, 76, 185, 97]
-	-	[186, 30, 197, 36]
-	)	[190, 69, 201, 102]
-	1	[198, 13, 212, 45]
-	2	[201, 63, 220, 78]
-predict for equation ./test_toy_res/0083.png
-	c	[76, 84, 95, 111]
-	0	[99, 86, 116, 110]
-	s	[122, 83, 134, 111]
-	(	[150, 55, 171, 130]
-	2	[184, 55, 207, 83]
-	-	[190, 82, 241, 93]
-	6	[201, 96, 224, 131]
+Prediction for equation ./data/testResults/0553.png
+	sqrt	[155, 50, 276, 120]
+	3	[155, 61, 176, 89]
+	x	[215, 81, 237, 114]
+Prediction for equation ./data/testResults/0235.png
+	sqrt	[127, 22, 202, 125]
+	-	[166, 70, 211, 81]
+	0	[174, 37, 200, 67]
+	b	[176, 85, 200, 126]
+Prediction for equation ./data/testResults/0221.png
+	x	[172, 50, 213, 108]
+	2	[231, 42, 262, 68]
+Prediction for equation ./data/testResults/0547.png
+	n	[94, 72, 139, 118]
+	x	[143, 52, 173, 82]
+	y	[178, 51, 207, 102]
+Prediction for equation ./data/testResults/0209.png
+	c	[120, 66, 153, 97]
+	0	[153, 69, 176, 100]
+	s	[175, 65, 197, 98]
+	x	[212, 69, 232, 98]
+Prediction for equation ./data/testResults/0590.png
+	c	[73, 59, 117, 95]
+	s	[117, 68, 139, 90]
+	pi	[152, 51, 208, 79]
+	-	[155, 79, 219, 88]
+	3	[180, 94, 203, 124]
+Prediction for equation ./data/testResults/0584.png
+	-	[127, 71, 187, 79]
+	a	[139, 30, 164, 51]
+	b	[146, 79, 174, 111]
+Prediction for equation ./data/testResults/0285.png
+	sqrt	[134, 24, 205, 117]
+	-	[162, 64, 202, 72]
+	x	[175, 40, 193, 60]
+	y	[175, 81, 197, 118]
+Prediction for equation ./data/testResults/0291.png
+	x	[92, 42, 139, 93]
+	c	[137, 30, 161, 51]
+Prediction for equation ./data/testResults/0246.png
+	sqrt	[112, 90, 176, 127]
+	sqrt	[114, 17, 162, 53]
+	-	[117, 62, 185, 75]
+	a	[137, 29, 165, 47]
+	b	[145, 106, 169, 129]
+Prediction for equation ./data/testResults/0520.png
+	c	[111, 79, 138, 116]
+	0	[139, 83, 161, 114]
+	s	[172, 79, 196, 112]
+	pi	[218, 65, 259, 114]
+Prediction for equation ./data/testResults/0534.png
+	-	[199, 63, 253, 72]
+	x	[207, 29, 241, 61]
+	y	[218, 74, 250, 130]
+Prediction for equation ./data/testResults/0252.png
+	sqrt	[154, 54, 239, 114]
+	y	[192, 71, 240, 118]
+Prediction for equation ./data/testResults/0508.png
+	s	[136, 75, 164, 113]
+	1	[166, 86, 178, 105]
+	dot	[171, 75, 179, 83]
+	n	[178, 82, 202, 103]
+	x	[211, 75, 234, 102]
+Prediction for equation ./data/testResults/0087.png
+	3	[170, 69, 191, 97]
+	x	[194, 52, 210, 72]
+	m	[212, 46, 237, 69]
+Prediction for equation ./data/testResults/0093.png
+	x	[148, 67, 164, 93]
+	sqrt	[169, 56, 210, 96]
+	y	[190, 71, 209, 109]
+Prediction for equation ./data/testResults/0722.png
+	sqrt	[107, 72, 155, 125]
+	a	[129, 90, 165, 123]
+Prediction for equation ./data/testResults/0044.png
+	-	[102, 56, 155, 67]
+	a	[111, 34, 129, 56]
+	b	[116, 81, 138, 111]
+Prediction for equation ./data/testResults/0050.png
+	c	[35, 70, 52, 102]
+	0	[53, 74, 68, 100]
+	s	[69, 73, 87, 99]
+	-	[97, 57, 144, 67]
+	6	[106, 73, 130, 105]
+	a	[107, 33, 128, 54]
+Prediction for equation ./data/testResults/0736.png
+	-	[106, 65, 214, 90]
+	sqrt	[126, 24, 182, 76]
+	d	[129, 102, 156, 136]
+	-	[141, 84, 187, 100]
+	1	[156, 38, 182, 71]
+	p	[165, 107, 179, 146]
+Prediction for equation ./data/testResults/0078.png
+	s	[49, 70, 69, 97]
+	|	[70, 76, 77, 90]
+	n	[78, 69, 97, 89]
+	x	[108, 63, 131, 91]
+Prediction for equation ./data/testResults/0695.png
+	sqrt	[166, 33, 245, 106]
+	-	[198, 66, 243, 75]
+	a	[213, 45, 230, 63]
+	6	[213, 77, 231, 108]
+Prediction for equation ./data/testResults/0859.png
+	c	[161, 65, 188, 102]
+	0	[189, 64, 211, 96]
+	s	[215, 62, 234, 99]
+	y	[252, 59, 280, 115]
+Prediction for equation ./data/testResults/0681.png
+	y	[202, 72, 237, 129]
+	2	[237, 65, 259, 86]
+Prediction for equation ./data/testResults/0656.png
+	-	[131, 64, 244, 73]
+	sqrt	[147, 73, 207, 126]
+	sqrt	[148, 13, 210, 61]
+	b	[171, 87, 196, 120]
+	a	[173, 29, 207, 55]
+	2	[197, 22, 210, 37]
+Prediction for equation ./data/testResults/0130.png
+	cos	[131, 84, 180, 106]
+	pi	[186, 76, 222, 98]
+	6	[201, 99, 226, 124]
+Prediction for equation ./data/testResults/0124.png
+	-	[134, 76, 194, 88]
+	x	[148, 54, 174, 79]
+	y	[153, 92, 172, 127]
+Prediction for equation ./data/testResults/0642.png
+	sqrt	[172, 57, 234, 107]
+	x	[200, 72, 231, 105]
+Prediction for equation ./data/testResults/0118.png
+	s	[174, 71, 190, 95]
+	|	[193, 72, 200, 90]
+	n	[204, 68, 224, 89]
+	a	[242, 65, 266, 88]
+Prediction for equation ./data/testResults/0497.png
+	a	[231, 63, 263, 100]
+	m	[269, 41, 294, 65]
+	n	[295, 39, 315, 63]
+Prediction for equation ./data/testResults/0483.png
+	sqrt	[27, 43, 157, 116]
+	3	[44, 42, 64, 82]
+	4	[107, 66, 145, 132]
+Prediction for equation ./data/testResults/0332.png
+	sqrt	[42, 30, 96, 103]
+	x	[77, 33, 110, 97]
+Prediction for equation ./data/testResults/0454.png
+	-	[92, 60, 155, 70]
+	y	[106, 74, 149, 137]
+	x	[108, 14, 136, 50]
+Prediction for equation ./data/testResults/0440.png
+	c	[31, 58, 68, 121]
+	0	[70, 73, 107, 107]
+	s	[113, 62, 139, 118]
+	-	[178, 60, 261, 74]
+	pi	[188, 20, 247, 66]
+	6	[198, 78, 235, 130]
+	1	[202, 33, 210, 67]
+Prediction for equation ./data/testResults/0326.png
+	-	[58, 49, 163, 75]
+	sqrt	[71, 8, 106, 59]
+	sqrt	[77, 68, 127, 120]
+	a	[95, 15, 137, 47]
+	x	[106, 89, 135, 121]
+Prediction for equation ./data/testResults/0468.png
+	s	[18, 59, 49, 109]
+	1	[45, 93, 54, 109]
+	n	[58, 84, 72, 109]
+	b	[103, 51, 130, 116]
+Prediction for equation ./data/testResults/0469.png
+	c	[18, 61, 51, 107]
+	0	[45, 71, 79, 99]
+	s	[74, 63, 96, 106]
+	b	[115, 47, 142, 103]
+Prediction for equation ./data/testResults/0441.png
+	x	[105, 64, 135, 123]
+	2	[127, 35, 170, 67]
+Prediction for equation ./data/testResults/0327.png
+	a	[52, 55, 100, 94]
+	m	[89, 43, 115, 66]
+	n	[120, 43, 141, 65]
+Prediction for equation ./data/testResults/0333.png
+	3	[32, 63, 58, 96]
+	sqrt	[50, 37, 110, 117]
+	|	[83, 49, 120, 110]
+Prediction for equation ./data/testResults/0455.png
+	sqrt	[22, 26, 191, 135]
+	-	[69, 87, 134, 100]
+	a	[87, 52, 117, 85]
+	b	[92, 99, 116, 148]
+Prediction for equation ./data/testResults/0482.png
+	sqrt	[39, 42, 147, 116]
+	y	[91, 72, 137, 130]
+Prediction for equation ./data/testResults/0496.png
+	-	[240, 61, 311, 83]
+	sqrt	[246, 6, 293, 62]
+	sqrt	[255, 78, 295, 124]
+	a	[263, 28, 289, 57]
+	b	[275, 93, 295, 126]
+Prediction for equation ./data/testResults/0119.png
+	c	[175, 66, 194, 91]
+	0	[196, 62, 212, 87]
+	s	[213, 64, 232, 86]
+	a	[246, 64, 269, 89]
+Prediction for equation ./data/testResults/0125.png
+	sqrt	[151, 49, 226, 118]
+	-	[181, 84, 212, 91]
+	a	[185, 64, 205, 82]
+	b	[191, 98, 210, 118]
+Prediction for equation ./data/testResults/0643.png
+	sqrt	[161, 63, 230, 115]
+	3	[161, 67, 173, 85]
+	x	[196, 82, 217, 112]
+Prediction for equation ./data/testResults/0657.png
+	x	[135, 59, 172, 94]
+	a	[171, 49, 192, 65]
+	b	[191, 39, 207, 67]
+Prediction for equation ./data/testResults/0131.png
+	pi	[165, 67, 195, 94]
+	2	[201, 54, 213, 70]
+Prediction for equation ./data/testResults/0680.png
+	c	[142, 71, 162, 91]
+	0	[162, 73, 181, 92]
+	s	[178, 66, 196, 94]
+	-	[217, 65, 281, 74]
+	pi	[232, 42, 260, 66]
+	b	[236, 80, 257, 110]
+Prediction for equation ./data/testResults/0858.png
+	s	[157, 63, 178, 99]
+	i	[187, 60, 195, 92]
+	n	[202, 65, 224, 97]
+	y	[246, 59, 279, 117]
+Prediction for equation ./data/testResults/0694.png
+	-	[191, 53, 246, 63]
+	y	[206, 66, 230, 107]
+	x	[211, 30, 233, 51]
+Prediction for equation ./data/testResults/0079.png
+	c	[22, 59, 40, 86]
+	0	[44, 62, 63, 83]
+	s	[66, 57, 89, 87]
+	x	[92, 58, 112, 82]
+Prediction for equation ./data/testResults/0051.png
+	x	[136, 86, 164, 126]
+	2	[169, 70, 189, 95]
+Prediction for equation ./data/testResults/0737.png
+	a	[124, 83, 164, 130]
+	x	[163, 68, 180, 92]
+	1	[182, 67, 199, 97]
+Prediction for equation ./data/testResults/0723.png
+	+	[114, 65, 136, 104]
+	sqrt	[124, 64, 178, 127]
+	x	[145, 87, 176, 122]
+Prediction for equation ./data/testResults/0045.png
+	sqrt	[78, 45, 183, 117]
+	-	[100, 83, 156, 96]
+	y	[113, 101, 135, 137]
+	x	[114, 64, 132, 84]
+Prediction for equation ./data/testResults/0092.png
+	sqrt	[155, 64, 193, 103]
+	y	[177, 78, 193, 107]
+Prediction for equation ./data/testResults/0086.png
+	sqrt	[175, 40, 219, 71]
+	-	[181, 80, 225, 86]
+	sqrt	[188, 91, 221, 124]
+	3	[202, 51, 218, 69]
+	a	[205, 103, 225, 124]
+Prediction for equation ./data/testResults/0509.png
+	cos	[133, 70, 192, 114]
+	x	[204, 83, 229, 113]
+Prediction for equation ./data/testResults/0535.png
+	sqrt	[170, 17, 273, 129]
+	-	[212, 87, 286, 95]
+	a	[225, 50, 266, 81]
+	b	[236, 101, 264, 140]
+Prediction for equation ./data/testResults/0253.png
+	3	[151, 63, 166, 84]
+	sqrt	[154, 56, 221, 114]
+	x	[181, 75, 220, 102]
+Prediction for equation ./data/testResults/0247.png
+	a	[102, 81, 137, 107]
+	m	[136, 69, 165, 87]
+	n	[169, 69, 194, 83]
+Prediction for equation ./data/testResults/0521.png
+	x	[154, 65, 190, 122]
+	2	[187, 40, 217, 73]
+Prediction for equation ./data/testResults/0290.png
+	c	[120, 63, 134, 85]
+	0	[134, 65, 146, 81]
+	s	[153, 66, 164, 82]
+	-	[171, 67, 222, 76]
+	pi	[179, 46, 204, 66]
+	4	[190, 78, 209, 104]
+Prediction for equation ./data/testResults/0284.png
+	-	[140, 64, 210, 73]
+	b	[175, 77, 194, 102]
+	a	[176, 29, 192, 50]
+Prediction for equation ./data/testResults/0292.png
+	sqrt	[78, 38, 138, 103]
+	x	[111, 61, 151, 101]
+Prediction for equation ./data/testResults/0286.png
+	-	[142, 68, 213, 75]
+	sqrt	[157, 20, 198, 64]
+	sqrt	[160, 84, 197, 118]
+	x	[180, 37, 197, 58]
+	b	[184, 97, 198, 118]
+Prediction for equation ./data/testResults/0251.png
+	x	[166, 64, 208, 101]
+	2	[209, 51, 231, 70]
+Prediction for equation ./data/testResults/0537.png
+	a	[153, 83, 201, 128]
+	m	[201, 59, 235, 79]
+	n	[243, 58, 260, 78]
+Prediction for equation ./data/testResults/0523.png
+	3	[87, 45, 122, 78]
+	sqrt	[99, 36, 245, 117]
+	x	[173, 66, 206, 100]
+Prediction for equation ./data/testResults/0245.png
+	sqrt	[110, 45, 190, 124]
+	a	[139, 64, 165, 85]
+	y	[158, 69, 185, 107]
+	b	[181, 93, 202, 121]
+Prediction for equation ./data/testResults/0279.png
+	c	[94, 77, 115, 98]
+	0	[115, 82, 135, 101]
+	s	[134, 78, 152, 105]
+	b	[160, 55, 186, 103]
+Prediction for equation ./data/testResults/0090.png
+	c	[170, 68, 187, 93]
+	0	[186, 68, 203, 94]
+	s	[204, 69, 219, 92]
+	-	[237, 71, 259, 78]
+	pi	[237, 82, 256, 102]
+	3	[239, 43, 254, 65]
+Prediction for equation ./data/testResults/0084.png
+	-	[166, 67, 200, 73]
+	pi	[170, 79, 199, 98]
+	3	[174, 37, 191, 60]
+Prediction for equation ./data/testResults/0735.png
+	-	[109, 67, 198, 126]
+	-	[133, 46, 193, 60]
+	m	[159, 67, 186, 84]
+	n	[164, 108, 186, 132]
+Prediction for equation ./data/testResults/0053.png
+	s	[73, 61, 91, 82]
+	sqrt	[95, 54, 157, 106]
+	x	[121, 76, 142, 101]
+Prediction for equation ./data/testResults/0047.png
+	x	[50, 81, 76, 105]
+	y	[82, 60, 99, 93]
+	pi	[101, 43, 141, 69]
+Prediction for equation ./data/testResults/0721.png
+	y	[122, 71, 159, 131]
+	2	[159, 59, 182, 92]
+Prediction for equation ./data/testResults/0709.png
+	a	[141, 71, 172, 99]
+	s	[170, 73, 187, 94]
+	x	[199, 69, 222, 97]
+Prediction for equation ./data/testResults/0682.png
+	sqrt	[187, 57, 237, 102]
+	n	[206, 70, 238, 104]
+Prediction for equation ./data/testResults/0696.png
+	-	[147, 55, 261, 75]
+	sqrt	[170, 78, 228, 128]
+	sqrt	[177, 18, 229, 58]
+	b	[201, 90, 222, 126]
+	a	[202, 33, 219, 50]
+Prediction for equation ./data/testResults/0641.png
+	x	[181, 66, 212, 106]
+	2	[221, 50, 237, 68]
+Prediction for equation ./data/testResults/0127.png
+	a	[162, 74, 186, 95]
+	m	[188, 65, 211, 81]
+	n	[211, 61, 232, 77]
+Prediction for equation ./data/testResults/0133.png
+	3	[166, 66, 180, 84]
+	sqrt	[187, 57, 240, 98]
+	pi	[205, 69, 235, 94]
+Prediction for equation ./data/testResults/0655.png
+	sqrt	[127, 32, 223, 111]
+	-	[156, 62, 217, 71]
+	y	[166, 73, 208, 112]
+	x	[175, 41, 196, 63]
+Prediction for equation ./data/testResults/0669.png
+	cos	[115, 79, 163, 113]
+	s	[166, 80, 186, 108]
+	x	[201, 73, 242, 111]
+Prediction for equation ./data/testResults/0480.png
+	co	[9, 47, 78, 99]
+	s	[71, 52, 93, 98]
+	sqrt	[101, 26, 165, 75]
+	-	[103, 71, 150, 83]
+	6	[109, 88, 146, 125]
+Prediction for equation ./data/testResults/0494.png
+	-	[211, 62, 293, 75]
+	x	[231, 13, 270, 59]
+	y	[243, 82, 275, 133]
+Prediction for equation ./data/testResults/0325.png
+	sqrt	[65, 30, 113, 128]
+	-	[83, 76, 133, 94]
+	a	[88, 46, 112, 79]
+	b	[103, 98, 131, 130]
+Prediction for equation ./data/testResults/0443.png
+	sqrt	[45, 47, 183, 120]
+	3	[63, 56, 79, 88]
+	a	[114, 70, 151, 102]
+Prediction for equation ./data/testResults/0457.png
+	a	[29, 79, 66, 125]
+	m	[67, 53, 94, 82]
+	n	[94, 48, 119, 78]
+Prediction for equation ./data/testResults/0331.png
+	|	[43, 34, 72, 108]
+	2	[78, 35, 113, 65]
+Prediction for equation ./data/testResults/0319.png
+	(	[16, 53, 35, 94]
+	0	[41, 57, 70, 86]
+	s	[72, 51, 93, 87]
+	v	[104, 44, 130, 81]
+Prediction for equation ./data/testResults/0318.png
+	s	[39, 64, 63, 98]
+	|	[67, 70, 80, 97]
+	n	[87, 61, 114, 91]
+	w	[123, 60, 161, 87]
+Prediction for equation ./data/testResults/0456.png
+	-	[12, 62, 169, 99]
+	sqrt	[38, 2, 132, 76]
+	sqrt	[41, 90, 126, 149]
+	a	[77, 27, 114, 68]
+	b	[87, 107, 111, 150]
+Prediction for equation ./data/testResults/0330.png
+	(	[26, 54, 44, 98]
+	0	[47, 56, 73, 86]
+	s	[71, 53, 99, 87]
+	-	[110, 61, 176, 82]
+	pi	[113, 32, 153, 64]
+	2	[134, 86, 177, 128]
+Prediction for equation ./data/testResults/0324.png
+	-	[78, 62, 156, 77]
+	y	[87, 82, 140, 135]
+	x	[95, 24, 125, 69]
+Prediction for equation ./data/testResults/0442.png
+	sqrt	[71, 34, 159, 102]
+	4	[111, 57, 147, 123]
+Prediction for equation ./data/testResults/0495.png
+	sqrt	[226, 14, 300, 121]
+	-	[261, 70, 319, 81]
+	a	[268, 28, 298, 63]
+	b	[281, 85, 302, 127]
+Prediction for equation ./data/testResults/0481.png
+	4	[70, 51, 107, 124]
+	2	[106, 35, 137, 63]
+Prediction for equation ./data/testResults/0668.png
+	s	[116, 85, 143, 121]
+	m	[145, 92, 194, 114]
+	-	[147, 77, 161, 82]
+	x	[206, 77, 247, 113]
+Prediction for equation ./data/testResults/0132.png
+	sqrt	[160, 54, 210, 99]
+	pi	[180, 66, 205, 92]
+Prediction for equation ./data/testResults/0654.png
+	|	[148, 32, 163, 66]
+	-	[188, 74, 289, 82]
+	x	[193, 35, 219, 65]
+	+	[219, 37, 249, 62]
+	x	[219, 86, 252, 115]
+	y	[242, 37, 283, 73]
+Prediction for equation ./data/testResults/0640.png
+	c	[185, 83, 206, 114]
+	0	[208, 86, 226, 109]
+	s	[226, 87, 245, 110]
+	-	[257, 91, 304, 99]
+	pi	[262, 59, 291, 82]
+	6	[273, 102, 288, 137]
+Prediction for equation ./data/testResults/0126.png
+	-	[145, 57, 202, 67]
+	sqrt	[149, 26, 193, 60]
+	sqrt	[151, 68, 197, 98]
+	a	[170, 41, 187, 57]
+	b	[171, 76, 193, 99]
+Prediction for equation ./data/testResults/0697.png
+	a	[169, 74, 199, 108]
+	m	[196, 57, 219, 75]
+	n	[219, 60, 234, 73]
+Prediction for equation ./data/testResults/0683.png
+	3	[179, 54, 195, 79]
+	sqrt	[183, 58, 245, 103]
+	a	[208, 72, 235, 104]
+Prediction for equation ./data/testResults/0708.png
+	s	[150, 79, 172, 107]
+	n	[172, 88, 194, 105]
+	x	[199, 76, 224, 103]
+Prediction for equation ./data/testResults/0046.png
+	-	[83, 58, 170, 68]
+	sqrt	[89, 8, 157, 52]
+	sqrt	[93, 74, 153, 112]
+	x	[115, 27, 133, 49]
+	m	[115, 90, 144, 111]
+Prediction for equation ./data/testResults/0720.png
+	c	[124, 63, 146, 91]
+	0	[151, 66, 177, 95]
+	s	[182, 65, 201, 93]
+	pi	[207, 34, 260, 64]
+	-	[215, 70, 277, 82]
+	b	[233, 82, 254, 121]
+Prediction for equation ./data/testResults/0734.png
+	-	[131, 76, 209, 94]
+	a	[162, 48, 183, 76]
+	b	[167, 92, 191, 127]
+Prediction for equation ./data/testResults/0052.png
+	sqrt	[111, 56, 184, 104]
+	x	[133, 79, 155, 102]
+Prediction for equation ./data/testResults/0085.png
+	sqrt	[157, 36, 216, 107]
+	3	[186, 52, 202, 72]
+	-	[186, 77, 207, 86]
+	a	[187, 87, 207, 110]
+Prediction for equation ./data/testResults/0091.png
+	y	[150, 75, 172, 116]
+	2	[178, 57, 194, 78]
+Prediction for equation ./data/testResults/0278.png
+	s	[110, 83, 127, 109]
+	-	[131, 76, 148, 81]
+	(	[136, 88, 143, 108]
+	n	[145, 84, 168, 109]
+	a	[181, 69, 218, 100]
+Prediction for equation ./data/testResults/0522.png
+	sqrt	[110, 30, 273, 123]
+	x	[186, 64, 218, 109]
+Prediction for equation ./data/testResults/0244.png
+	x	[131, 44, 171, 71]
+	y	[159, 59, 191, 105]
+	y	[186, 91, 213, 131]
+Prediction for equation ./data/testResults/0250.png
+	c	[46, 61, 71, 99]
+	6	[72, 74, 87, 95]
+	s	[90, 75, 105, 96]
+	pi	[127, 51, 154, 75]
+	y	[141, 56, 171, 99]
+	6	[163, 74, 178, 103]
+Prediction for equation ./data/testResults/0536.png
+	-	[167, 82, 282, 97]
+	sqrt	[170, 102, 269, 152]
+	sqrt	[179, 10, 252, 72]
+	a	[210, 37, 256, 68]
+	b	[223, 121, 257, 161]
+Prediction for equation ./data/testResults/0287.png
+	a	[148, 65, 169, 89]
+	m	[178, 50, 197, 64]
+	n	[198, 51, 216, 65]
+Prediction for equation ./data/testResults/0293.png
+	sqrt	[53, 30, 118, 109]
+	3	[53, 34, 82, 64]
+	x	[104, 50, 150, 96]
+Prediction for equation ./data/testResults/0297.png
+	a	[55, 74, 89, 112]
+	m	[96, 56, 125, 81]
+	n	[132, 58, 152, 79]
+Prediction for equation ./data/testResults/0283.png
+	sqrt	[148, 47, 219, 106]
+	3	[150, 62, 161, 75]
+	x	[181, 69, 204, 96]
+Prediction for equation ./data/testResults/0268.png
+	sin	[104, 69, 198, 114]
+	-	[154, 63, 166, 71]
+	x	[203, 56, 244, 104]
+Prediction for equation ./data/testResults/0532.png
+	sqrt	[180, 42, 274, 106]
+	x	[227, 69, 259, 105]
+Prediction for equation ./data/testResults/0254.png
+	-	[152, 75, 228, 86]
+	b	[173, 83, 195, 127]
+	a	[177, 37, 205, 64]
+Prediction for equation ./data/testResults/0240.png
+	c	[105, 58, 129, 108]
+	0	[131, 66, 154, 108]
+	s	[155, 57, 179, 103]
+	-	[192, 83, 255, 96]
+	pi	[195, 33, 240, 69]
+	6	[214, 103, 243, 143]
+Prediction for equation ./data/testResults/0526.png
+	-	[103, 61, 221, 87]
+	sqrt	[106, 7, 222, 66]
+	sqrt	[110, 78, 223, 144]
+	a	[154, 29, 190, 58]
+	b	[170, 98, 196, 136]
+Prediction for equation ./data/testResults/0095.png
+	sqrt	[167, 24, 232, 88]
+	-	[197, 62, 219, 71]
+	y	[201, 38, 216, 62]
+	2	[203, 73, 226, 94]
+Prediction for equation ./data/testResults/0081.png
+	3	[166, 72, 185, 96]
+	b	[190, 45, 207, 70]
+Prediction for equation ./data/testResults/0718.png
+	s	[122, 74, 139, 100]
+	|	[149, 84, 153, 100]
+	n	[162, 78, 180, 97]
+	x	[202, 72, 230, 105]
+Prediction for equation ./data/testResults/0056.png
+	-	[76, 75, 154, 89]
+	sqrt	[80, 22, 136, 66]
+	sqrt	[89, 89, 140, 129]
+	a	[104, 42, 122, 65]
+	b	[106, 100, 132, 130]
+Prediction for equation ./data/testResults/0730.png
+	a	[97, 91, 136, 127]
+	s	[135, 86, 155, 124]
+	-	[159, 88, 207, 105]
+	+	[164, 62, 201, 88]
+	y	[173, 102, 201, 146]
+Prediction for equation ./data/testResults/0724.png
+	-	[99, 95, 183, 119]
+	y	[128, 49, 161, 90]
+	x	[143, 105, 169, 137]
+Prediction for equation ./data/testResults/0042.png
+	sqrt	[110, 56, 171, 105]
+	3	[138, 74, 159, 102]
+Prediction for equation ./data/testResults/0687.png
+	a	[155, 63, 181, 96]
+	|	[179, 50, 195, 73]
+	1	[189, 49, 208, 85]
+Prediction for equation ./data/testResults/0693.png
+	1	[177, 60, 186, 84]
+	sqrt	[182, 67, 242, 115]
+	x	[211, 89, 234, 115]
+Prediction for equation ./data/testResults/0678.png
+	s	[160, 76, 172, 97]
+	1	[175, 83, 180, 97]
+	n	[184, 80, 198, 99]
+	x	[223, 73, 249, 99]
+Prediction for equation ./data/testResults/0122.png
+	sqrt	[142, 75, 184, 114]
+	x	[164, 91, 182, 117]
+Prediction for equation ./data/testResults/0644.png
+	-	[173, 77, 214, 81]
+	x	[183, 30, 211, 64]
+	y	[183, 92, 209, 131]
+Prediction for equation ./data/testResults/0650.png
+	a	[187, 85, 222, 118]
+	s	[223, 89, 241, 114]
+	-	[258, 94, 308, 101]
+	pi	[268, 63, 294, 88]
+	6	[279, 102, 297, 137]
+Prediction for equation ./data/testResults/0136.png
+	sqrt	[157, 33, 210, 67]
+	-	[161, 74, 174, 80]
+	sqrt	[170, 82, 206, 111]
+	-	[172, 69, 212, 78]
+	pi	[182, 42, 201, 63]
+	x	[185, 91, 202, 111]
+Prediction for equation ./data/testResults/0485.png
+	sqrt	[47, 27, 186, 127]
+	-	[100, 87, 169, 106]
+	4	[113, 53, 154, 94]
+	6	[125, 98, 149, 145]
+Prediction for equation ./data/testResults/0491.png
+	x	[218, 64, 256, 124]
+	2	[264, 50, 290, 81]
+Prediction for equation ./data/testResults/0308.png
+	s	[51, 56, 75, 93]
+	1	[80, 61, 90, 86]
+	n	[94, 56, 119, 86]
+	t	[118, 40, 150, 82]
+Prediction for equation ./data/testResults/0446.png
+	pi	[77, 2, 180, 59]
+	-	[77, 63, 191, 79]
+	sqrt	[85, 77, 179, 142]
+	m	[138, 101, 175, 135]
+Prediction for equation ./data/testResults/0320.png
+	(	[33, 38, 50, 77]
+	0	[52, 36, 78, 70]
+	s	[80, 34, 108, 65]
+	pi	[132, 16, 168, 57]
+	1	[163, 16, 183, 79]
+	3	[191, 34, 219, 80]
+Prediction for equation ./data/testResults/0334.png
+	-	[35, 74, 152, 100]
+	d	[68, 14, 104, 79]
+	k	[75, 103, 104, 146]
+Prediction for equation ./data/testResults/0452.png
+	sqrt	[69, 45, 170, 102]
+	x	[115, 64, 150, 113]
+Prediction for equation ./data/testResults/0335.png
+	sqrt	[34, 31, 123, 133]
+	-	[66, 80, 124, 100]
+	a	[79, 101, 122, 133]
+	p	[85, 46, 105, 87]
+Prediction for equation ./data/testResults/0453.png
+	sqrt	[49, 49, 180, 118]
+	x	[115, 76, 139, 122]
+Prediction for equation ./data/testResults/0447.png
+	a	[54, 87, 87, 123]
+	x	[81, 48, 105, 82]
+	y	[110, 48, 140, 102]
+Prediction for equation ./data/testResults/0321.png
+	x	[93, 57, 134, 103]
+	2	[124, 35, 159, 68]
+Prediction for equation ./data/testResults/0309.png
+	c	[47, 57, 70, 97]
+	0	[73, 56, 100, 88]
+	s	[100, 45, 121, 88]
+	z_line	[134, 44, 172, 81]
+Prediction for equation ./data/testResults/0490.png
+	c	[21, 43, 57, 99]
+	0	[53, 54, 93, 90]
+	s	[94, 46, 115, 91]
+	-	[150, 62, 220, 69]
+	sqrt	[163, 21, 228, 56]
+	2	[167, 69, 204, 115]
+Prediction for equation ./data/testResults/0484.png
+	z_line	[67, 20, 162, 78]
+	x	[96, 75, 123, 116]
+Prediction for equation ./data/testResults/0651.png
+	(	[133, 64, 144, 100]
+	x	[153, 60, 182, 92]
+	+	[185, 61, 214, 84]
+	y	[210, 63, 237, 111]
+	)	[245, 64, 260, 95]
+	2	[268, 50, 281, 64]
+Prediction for equation ./data/testResults/0137.png
+	pi	[151, 64, 187, 91]
+	6	[194, 44, 206, 67]
+	y	[206, 52, 224, 83]
+Prediction for equation ./data/testResults/0123.png
+	2	[109, 76, 124, 94]
+	sqrt	[117, 68, 156, 115]
+	x	[147, 85, 168, 109]
+Prediction for equation ./data/testResults/0645.png
+	sqrt	[163, 42, 228, 130]
+	-	[191, 83, 227, 89]
+	a	[202, 59, 218, 77]
+	b	[205, 89, 224, 119]
+Prediction for equation ./data/testResults/0679.png
+	c	[145, 71, 160, 87]
+	0	[160, 69, 176, 88]
+	s	[177, 67, 190, 88]
+	x	[211, 61, 236, 85]
+Prediction for equation ./data/testResults/0692.png
+	sqrt	[184, 57, 240, 108]
+	y	[215, 78, 235, 116]
+Prediction for equation ./data/testResults/0686.png
+	-	[154, 77, 253, 88]
+	sqrt	[173, 28, 229, 73]
+	sqrt	[173, 98, 229, 135]
+	m	[192, 43, 223, 69]
+	n	[194, 109, 217, 138]
+Prediction for equation ./data/testResults/0725.png
+	sqrt	[119, 59, 177, 132]
+	-	[140, 92, 181, 110]
+	a	[147, 69, 172, 92]
+	b	[152, 104, 175, 135]
+Prediction for equation ./data/testResults/0043.png
+	6	[61, 50, 79, 70]
+	sqrt	[84, 45, 162, 108]
+	y	[112, 81, 141, 127]
+Prediction for equation ./data/testResults/0057.png
+	a	[60, 82, 84, 104]
+	m	[88, 69, 112, 89]
+	n	[113, 67, 137, 84]
+Prediction for equation ./data/testResults/0731.png
+	m	[155, 82, 186, 106]
+	2	[186, 59, 200, 78]
+Prediction for equation ./data/testResults/0719.png
+	c	[117, 74, 140, 98]
+	0	[140, 79, 158, 96]
+	s	[159, 77, 184, 104]
+	y	[202, 75, 224, 115]
+Prediction for equation ./data/testResults/0080.png
+	c	[28, 62, 47, 86]
+	b	[54, 65, 72, 84]
+	s	[75, 59, 97, 85]
+	-	[105, 67, 157, 80]
+	pi	[108, 36, 142, 64]
+	os	[119, 86, 154, 111]
+Prediction for equation ./data/testResults/0094.png
+	-	[176, 71, 204, 79]
+	y	[182, 37, 198, 68]
+	b	[184, 87, 203, 108]
+Prediction for equation ./data/testResults/0241.png
+	x	[110, 64, 149, 98]
+	2	[149, 51, 165, 68]
+Prediction for equation ./data/testResults/0527.png
+	a	[122, 72, 160, 114]
+	m	[166, 50, 201, 79]
+	n	[208, 49, 233, 77]
+Prediction for equation ./data/testResults/0533.png
+	3	[179, 58, 206, 89]
+	sqrt	[196, 49, 296, 113]
+	x	[243, 75, 280, 109]
+Prediction for equation ./data/testResults/0255.png
+	sqrt	[136, 32, 225, 134]
+	-	[162, 83, 214, 92]
+	x	[173, 52, 199, 75]
+	6	[177, 95, 197, 126]
+Prediction for equation ./data/testResults/0269.png
+	cos	[113, 74, 187, 113]
+	x	[196, 62, 243, 103]
+Prediction for equation ./data/testResults/0282.png
+	sqrt	[166, 47, 215, 96]
+	x	[189, 61, 218, 93]
+Prediction for equation ./data/testResults/0296.png
+	sqrt	[84, 4, 129, 60]
+	-	[88, 60, 160, 80]
+	sqrt	[94, 73, 152, 135]
+	a	[109, 15, 137, 52]
+	b	[129, 92, 159, 127]
+Prediction for equation ./data/testResults/0280.png
+	cos	[93, 79, 136, 104]
+	s	[139, 75, 158, 105]
+	sqrt	[172, 53, 196, 82]
+	-	[173, 83, 211, 90]
+	c	[181, 58, 203, 78]
+	2	[181, 95, 212, 115]
+Prediction for equation ./data/testResults/0294.png
+	-	[94, 51, 177, 70]
+	y	[112, 80, 159, 133]
+	x	[117, 13, 147, 50]
+Prediction for equation ./data/testResults/0519.png
+	c	[110, 61, 137, 104]
+	0	[146, 69, 165, 98]
+	s	[168, 66, 191, 98]
+	y	[208, 53, 247, 115]
+Prediction for equation ./data/testResults/0525.png
+	sqrt	[82, 35, 276, 130]
+	-	[144, 81, 200, 103]
+	a	[153, 59, 182, 84]
+	6	[164, 95, 198, 138]
+Prediction for equation ./data/testResults/0243.png
+	s	[101, 62, 123, 81]
+	sqrt	[114, 51, 192, 104]
+	x	[150, 70, 185, 101]
+Prediction for equation ./data/testResults/0257.png
+	b	[138, 53, 170, 109]
+	x	[168, 59, 184, 81]
+	y	[186, 55, 202, 84]
+Prediction for equation ./data/testResults/0531.png
+	x	[231, 63, 274, 101]
+	2	[281, 39, 313, 62]
+Prediction for equation ./data/testResults/0082.png
+	sqrt	[162, 56, 203, 96]
+	3	[186, 70, 204, 93]
+Prediction for equation ./data/testResults/0096.png
+	-	[181, 65, 235, 78]
+	sqrt	[182, 23, 224, 62]
+	sqrt	[195, 81, 234, 112]
+	4	[205, 35, 226, 70]
+	2	[214, 93, 233, 113]
+Prediction for equation ./data/testResults/0069.png
+	c	[24, 65, 48, 91]
+	0	[50, 67, 70, 89]
+	s	[77, 63, 98, 87]
+	x	[106, 62, 132, 83]
+Prediction for equation ./data/testResults/0041.png
+	b	[142, 75, 173, 113]
+	a	[179, 68, 198, 82]
+Prediction for equation ./data/testResults/0727.png
+	a	[124, 94, 160, 130]
+	n	[151, 89, 169, 110]
+	m	[169, 84, 200, 110]
+Prediction for equation ./data/testResults/0733.png
+	3	[137, 54, 154, 88]
+	d	[138, 75, 173, 123]
+	-	[157, 58, 205, 70]
+	a	[175, 89, 201, 116]
+Prediction for equation ./data/testResults/0055.png
+	sqrt	[78, 39, 176, 123]
+	-	[105, 89, 140, 99]
+	a	[115, 64, 130, 84]
+	b	[117, 105, 138, 125]
+Prediction for equation ./data/testResults/0860.png
+	c	[153, 49, 178, 83]
+	0	[180, 51, 198, 79]
+	s	[199, 48, 219, 83]
+	-	[238, 58, 287, 66]
+	pi	[248, 22, 279, 46]
+	)	[251, 71, 276, 117]
+Prediction for equation ./data/testResults/0848.png
+	s	[104, 67, 120, 93]
+	i	[127, 61, 140, 91]
+	n	[143, 69, 165, 90]
+	y	[184, 64, 220, 111]
+Prediction for equation ./data/testResults/0690.png
+	c	[142, 68, 158, 95]
+	0	[158, 72, 174, 90]
+	s	[174, 67, 190, 93]
+	-	[194, 75, 233, 82]
+	pi	[197, 52, 221, 74]
+	3	[201, 86, 225, 118]
+Prediction for equation ./data/testResults/0684.png
+	-	[171, 52, 254, 69]
+	m	[195, 34, 230, 58]
+	n	[204, 70, 230, 103]
+Prediction for equation ./data/testResults/0109.png
+	c	[156, 69, 176, 92]
+	os	[177, 65, 211, 94]
+	n	[221, 63, 240, 89]
+Prediction for equation ./data/testResults/0135.png
+	sqrt	[157, 38, 237, 109]
+	pi	[190, 53, 217, 73]
+	-	[190, 80, 218, 86]
+	x	[193, 92, 213, 112]
+Prediction for equation ./data/testResults/0653.png
+	3	[140, 55, 153, 74]
+	sqrt	[149, 55, 226, 106]
+	x	[183, 68, 218, 102]
+Prediction for equation ./data/testResults/0647.png
+	a	[179, 84, 206, 114]
+	m	[204, 58, 227, 79]
+	n	[231, 57, 250, 80]
+Prediction for equation ./data/testResults/0121.png
+	x	[160, 87, 183, 113]
+	a	[177, 69, 200, 85]
+Prediction for equation ./data/testResults/0492.png
+	sqrt	[220, 48, 281, 105]
+	x	[253, 68, 285, 104]
+Prediction for equation ./data/testResults/0486.png
+	-	[42, 65, 165, 87]
+	sqrt	[45, -1, 145, 65]
+	sqrt	[53, 85, 180, 151]
+	y	[93, 19, 129, 66]
+	x	[116, 110, 144, 152]
+Prediction for equation ./data/testResults/0479.png
+	c	[5, 65, 31, 113]
+	0	[36, 71, 61, 99]
+	s	[61, 60, 86, 101]
+	x	[104, 54, 136, 104]
+Prediction for equation ./data/testResults/0451.png
+	x	[98, 72, 125, 119]
+	2	[121, 48, 155, 82]

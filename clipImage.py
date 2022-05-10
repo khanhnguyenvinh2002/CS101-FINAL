@@ -11,9 +11,12 @@ text_file = open("Output.txt", "w")
 for item in image_list:
     im = cv2.imread(item)
     head, tail = os.path.split(item)
+    # comment out the line below if image has black background and white mark
     im = cv2.bitwise_not(im)  
-    im[im >= 50] = 255
-    im[im < 50] = 0
+    
+    a = 50
+    im[im >= a] = 255
+    im[im < a] = 0
 
     kernel = np.ones((2,2),np.uint8)
     im = cv2.morphologyEx(im, cv2.MORPH_CLOSE, kernel)

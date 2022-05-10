@@ -136,31 +136,25 @@ def predict(image_path):
         pre_symbol = SymPred(s[1], s[2], s[3], s[4], s[5])
         pre_symbol_list.append(pre_symbol)
 
-    equation = pf.toLatex(updated_symbol_list)
-
+    # equation = pf.toLatex(updated_symbol_list)
     _, tail = os.path.split(image_path)
 
-    return tail +", " + equation+'\n'
+    return tail +"\t" + str(pf.categorize(updated_symbol_list))+'\n'
 
 if __name__ == '__main__':
-    image_folder_path = "./test_toy_res"
-    isWindows_flag = False 
-    if len(argv) == 3:
-        isWindows_flag = True
-    if isWindows_flag:
-        image_paths = glob(image_folder_path + '\\*png')
-    else:
-        image_paths = glob(image_folder_path + '/*png')
+
+    image_folder_path = "./data/testResults"
+
+    image_paths = glob(image_folder_path + '/*png')
     results = []
 
     with tf.Session() as sess:
         sess.run(init_op)
         saver.restore(sess, os.getcwd()+"/model.ckpt")
-        print ("Model restored.")
         nf = open("result.txt", 'w')
 
         for image_path in image_paths:
-            nf.write("predict for equation %s\n" %(image_path))
+            nf.write("Prediction for equation %s\n" %(image_path))
             impred = predict(image_path)
             results.append(impred)
 
