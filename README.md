@@ -8,11 +8,12 @@
 * Step 2: ./data_training contains files to train images
   - train_model.py to train train data and create a checkpoint for the CNN deep learning model
   - validate_test_data.py to validate the model on test data created
-  
+
 * notes: we deleted data in our submission so we don't exceed file limit
 ## Instruction: 
 
-* Step 1: clipImage.py and clip_brighten.py are 2 files to modify original hand written images such that the output images need to be B&W with black screen and white mark.
+* Step 1: run clipImage.py
+  - clipImage.py and clip_brighten.py are 2 files to modify original hand written images such that the output images need to be B&W with black screen and white mark.
   - clipImage takes a folder of image (line 8), and modify it to become black screen and white mark. This file is writen with the assumption that the images have white screen and black mark. In the code, we do a cv2.bitwise_not() to transform black and white pixel. If the input data has black background already, please comment out the line. 
   - Line 17-20 of this file is to make the image B&W. The threshold is currently set to 90, but it might be different for each image, so the clip_brighten.py file is to handle that issue.
   - The output folder of clipImage.py is ./result

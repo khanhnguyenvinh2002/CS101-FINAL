@@ -5,7 +5,7 @@ import os
 
 from PIL import Image, ImageDraw
 
-image_list = glob.glob("./data/prof_data/*.png")
+image_list = glob.glob("./data/testing_toy/*.png")
 text_file = open("Output.txt", "w")
 
 for item in image_list:
